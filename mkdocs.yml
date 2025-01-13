@@ -24,7 +24,8 @@ theme:
       name: Switch to light mode
 nav:
 - Home: index.md
-- Pokemon: []
+- Pokemon:
+  - 001 - Timolino: pokemon/001-timolino.md
 - Routes: []
 plugins:
 - search:
