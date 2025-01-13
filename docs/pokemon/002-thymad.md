@@ -1,5 +1,5 @@
 <div class="pokemon-attribute-container">
-  <img src="../../img/pokemon/timolino.png" width="100"/>
+  <img src="../../img/pokemon/thymad.png" width="100"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
@@ -30,60 +30,56 @@
   <tbody style="width: 100%;">
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;" >HP</th>
-      <td style="border-top: none; width: 70px">45</td>
+      <td style="border-top: none; width: 70px">60</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 17%;" class="ranking-bar rank-2">
+        <div style="width: 23%;" class="ranking-bar rank-3">
         </div>
       </td>
     </tr>
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;">Attack</th>
-      <td style="border-top: none; width: 70px">55</td>
+      <td style="border-top: none; width: 70px">75</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 21%;" class="ranking-bar rank-3">
+        <div style="width: 29%;" class="ranking-bar rank-3">
         </div>
       </td>
     </tr>
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;">Defense</th>
-      <td style="border-top: none; width: 70px">45</td>
+      <td style="border-top: none; width: 70px">60</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 17%;" class="ranking-bar rank-2">
+        <div style="width: 23%;" class="ranking-bar rank-3">
         </div>
       </td>
     </tr>
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;">SP Attack</th>
-      <td style="border-top: none; width: 70px">55</td>
+      <td style="border-top: none; width: 70px">75</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 21%;" class="ranking-bar rank-3">
+        <div style="width: 29%;" class="ranking-bar rank-3">
         </div>
       </td>
     </tr>
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;">SP Defense</th>
-      <td style="border-top: none; width: 70px">45</td>
+      <td style="border-top: none; width: 70px">60</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 17%;" class="ranking-bar rank-2">
+        <div style="width: 23%;" class="ranking-bar rank-3">
         </div>
       </td>
     </tr>
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;">Speed</th>
-      <td style="border-top: none; width: 70px">63</td>
+      <td style="border-top: none; width: 70px">83</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 24%;" class="ranking-bar rank-3">
+        <div style="width: 32%;" class="ranking-bar rank-4">
         </div>
       </td>
     </tr>
   </tbody>
 </table>
 
-##Evolution Change
-| Method | Item/Level/Note | Evolved Pokemon |
-        | :--: | :--: | :--: |
-        | Level Up | 16 | Thymad |
-        
+
 
 
 
@@ -94,20 +90,17 @@
         | -- | -- | -- | -- | -- | -- | -- |
         	| 1 | Tackle | 40 | 100 | 35 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
 	| 1 | Growl | - | 100 | 40 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 3 | Fairy-lock | - | - | 10 | ![fairy](../img/types/fairy.png) | ![status](../img/types/status.png) |
-	| 4 | Secret-power | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
 	| 5 | Vine-whip | 45 | 100 | 25 | ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png) |
-	| 9 | Leech-seed | - | 90 | 10 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
+	| 10 | Leech-seed | - | 90 | 10 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
 	| 14 | Sleep-powder | - | 75 | 15 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
 	| 14 | Poison-powder | - | 75 | 35 | ![poison](../img/types/poison.png) | ![status](../img/types/status.png) |
-	| 18 | Take-down | 90 | 85 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 21 | Sweet-scent | - | 100 | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 23 | Razor-leaf | 55 | 95 | 25 | ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png) |
-	| 27 | Growth | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| 31 | Worry-seed | - | 100 | 10 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
-	| 32 | Double-edge | 120 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| 33 | Synthesis | - | - | 5 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
-	| 37 | Seed-bomb | 80 | 100 | 15 | ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png) |
+	| 22 | Take-down | 90 | 85 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
+	| 23 | Sweet-scent | - | 100 | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
+	| 31 | Razor-leaf | 55 | 95 | 25 | ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png) |
+	| 36 | Worry-seed | - | 100 | 10 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
+	| 39 | Synthesis | - | - | 5 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
+	| 39 | Growth | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
+	| 48 | Double-edge | 120 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
 
         
 

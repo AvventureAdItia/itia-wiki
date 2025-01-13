@@ -24,8 +24,17 @@ theme:
       name: Switch to light mode
 nav:
 - Home: index.md
+- Ability Changes: ability_changes.md
 - Pokemon:
   - 001 - Timolino: pokemon/001-timolino.md
+  - 002 - Thymad: pokemon/002-thymad.md
+  - 003 - Thybrave: pokemon/003-thybrave.md
+  - 004 - Flammid: pokemon/004-flammid.md
+  - 005 - Yulot: pokemon/005-yulot.md
+  - 006 - Phyries: pokemon/006-phyries.md
+  - 007 - Badaliz: pokemon/007-badaliz.md
+  - 008 - Propellisk: pokemon/008-propellisk.md
+  - 009 - Badalinci: pokemon/009-badalinci.md
 - Routes: []
 plugins:
 - search:
