@@ -99,6 +99,7 @@
 	| 27 | Bubble-beam | 65 | 100 | 20 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
 	| 28 | Aqua-tail | 90 | 90 | 10 | ![water](../img/types/water.png) | ![physical](../img/types/physical.png) |
 	| 34 | Iron-defense | - | - | 15 | ![steel](../img/types/steel.png) | ![status](../img/types/status.png) |
+	| 36 | Pietrificazione | 55 | 100 | 20 | ![poison](../img/types/poison.png) | ![special](../img/types/special.png) |
 	| 41 | Hydro-pump | 110 | 80 | 5 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
 	| 45 | Skull-bash | 130 | 100 | 10 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
 

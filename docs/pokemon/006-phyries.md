@@ -99,6 +99,7 @@
 	| 27 | Fire-spin | 35 | 85 | 15 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
 	| 28 | Flame-burst | 70 | 100 | 15 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
 	| 31 | Slash | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
+	| 36 | Maschere-del-destino | 50 | 85 | 20 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
 	| 46 | Inferno | 100 | 50 | 5 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
 
         

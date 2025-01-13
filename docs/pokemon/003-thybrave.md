@@ -98,6 +98,7 @@
 	| 23 | Sweet-scent | - | 100 | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
 	| 31 | Razor-leaf | 55 | 95 | 25 | ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png) |
 	| 36 | Worry-seed | - | 100 | 10 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
+	| 36 | Dono-floreale | - | - | 20 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
 	| 39 | Synthesis | - | - | 5 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
 	| 39 | Growth | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
 	| 48 | Double-edge | 120 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
