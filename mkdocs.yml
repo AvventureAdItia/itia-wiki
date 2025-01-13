@@ -1,0 +1,44 @@
+site_name: Itia Wiki
+site_url: https://avventureaditia.github.io/itia-wiki
+site_description: La wiki ufficiale della regione di Itia
+site_author: AvventureAdItia
+repo_url: https://github.com/AvventureAdItia/itia-wiki
+theme:
+  name: material
+  features:
+  - content.tabls.links
+  - content.tooltips
+  favicon: img/items/poke-ball.png
+  palette:
+  - media: '(prefers-color-scheme: light)'
+    primary: black
+    scheme: default
+    toggle:
+      icon: material/eye-outline
+      name: Switch to dark mode
+  - media: '(prefers-color-scheme: dark)'
+    primary: black
+    scheme: default
+    toggle:
+      icon: material/eye
+      name: Switch to light mode
+nav:
+- Home: index.md
+- Pokemon: []
+- Routes: []
+plugins:
+- search:
+    lang: en
+markdown_extensions:
+- admonition
+- abbr
+- attr_list
+- pymdownx.snippets
+- pymdownx.superfences
+- pymdownx.details
+- pymdownx.tasklist:
+    custom_checkbox: true
+- pymdownx.tabbed:
+    alternate_style: true
+extra_css:
+- stylesheets/extra.css
