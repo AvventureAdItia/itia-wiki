@@ -1,5 +1,5 @@
 <div class="pokemon-attribute-container">
-  <img src="../../img/pokemon/thymad.png" width="100"/>
+  <img src="../../img/pokemon/thymad.png" width="200"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
@@ -22,8 +22,40 @@
         
       </div>
     </div>
+    <div class="pokemon-attribute">
+      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Categoria</p>
+      <div class="attribute-value">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Lupunaro</p>
+      </div>
+    </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Thymad si tratta di un Pokémon inedito introdotto nella regione di Itia.
+
+    Si evolve da Timolino una volta raggiunto il livello 16.
+    Questi Pokémon assumono una posizione eretta per sembrare più grandi e incutere timore negli altri Pokémon, la loro diffidenza li ha portati ad essere aggressivi e violenti.
+    Il pelo particolare che ha sulle zampe gli è stato donato dai suoi genitori quando era ancora un cucciolo e si crede possa alleggerire il dolore che prova.
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=tR_uukAGO7I&t=464s).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Thymad e della sua catena evolutiva sono:
+    
+    - **Lupo siciliano**: una specie endemica propria dell'isola, dichiarata estinta nel 1920. La figura del lupo ha portato gli abitanti dell'isola a creare delle superstizioni, come quella di indossare la testa di un lupo per ottenere coraggio o far indossare scarpe con peli di lupo ai bambini, per farli crescere come forti guerrieri.
+    - **Timo**: Pianta presente in varie parti del mondo, tra cui l'Italia. Gli antichi romani erano soliti preparare intrugli con questa pianta e dell'acqua per accrescere il proprio vigore e la propria forza.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine al Thymad è **Alvise**.
 
 ## Base Stats
 <table style="width: 100%">
