@@ -25,6 +25,14 @@
   </div>
 </div>
 
+## Descrizione
+<div class="description-container" style="margin-top: 20px;">
+  <h3 style="color: #333; font-size: 18px;">Descrizione</h3>
+  <p style="color: #737373; font-size: 14px; line-height: 1.5;">
+    Timolino è uno degli starter di Itia.
+  </p>
+</div>
+
 ## Base Stats
 <table style="width: 100%">
   <tbody style="width: 100%;">
