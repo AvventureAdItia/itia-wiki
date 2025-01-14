@@ -5,7 +5,7 @@
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Categoria</p>
       <div class="attribute-value">
-        <p style="color:rgb(0, 0, 0); margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Lupunaro</p>
+        <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Lupunaro</p>
       </div>
     </div>
     <div class="pokemon-attribute">
@@ -37,11 +37,10 @@
 === "Descrizione Pokedex"
     ### Descrizione
 
-    Thymad si tratta di un Pokémon inedito introdotto nella regione di Itia.
-
-    Si evolve da Timolino una volta raggiunto il livello 16.
-    Questi Pokémon assumono una posizione eretta per sembrare più grandi e incutere timore negli altri Pokémon, la loro diffidenza li ha portati ad essere aggressivi e violenti.
-    Il pelo particolare che ha sulle zampe gli è stato donato dai suoi genitori quando era ancora un cucciolo e si crede possa alleggerire il dolore che prova.
+    Thymad si tratta di un Pokémon inedito introdotto nella regione di Itia. <br />
+    Si evolve da Timolino una volta raggiunto il livello 16. <br />
+    Questi Pokémon assumono una posizione eretta per sembrare più grandi e incutere timore negli altri Pokémon, la loro diffidenza li ha portati ad essere aggressivi e violenti. <br />
+    Il pelo particolare che ha sulle zampe gli è stato donato dai suoi genitori quando era ancora un cucciolo e si crede possa alleggerire il dolore che prova. <br />
 
     Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=tR_uukAGO7I&t=464s).
 

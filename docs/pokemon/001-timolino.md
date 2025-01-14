@@ -36,10 +36,10 @@
 === "Descrizione Pokedex"
     ### Descrizione
 
-    Timolino è uno degli starter che ci accompagneranno nel nostro viaggio alla scoperta della regione di Itia.
+    Timolino è uno degli starter che ci accompagneranno nel nostro viaggio alla scoperta della regione di Itia. <br />
     Sono Pokémon molto diffidenti nei confronti degli altri umani e Pokémon. <br />
-    Si affidano principalmente all'aiuto degli esemplari adulti che sonno soliti donare ai propri cuccioli un po del loro perlo per adornare le quattro zampe.  return
-    Il pelo degli adulti aiuta i piccoli ad ottenere coraggio e a crescere come forti e vigorosi guerrieri.
+    Si affidano principalmente all'aiuto degli esemplari adulti che sonno soliti donare ai propri cuccioli un po del loro perlo per adornare le quattro zampe. <br />
+    Il pelo degli adulti aiuta i piccoli ad ottenere coraggio e a crescere come forti e vigorosi guerrieri. <br />
 
     Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=tR_uukAGO7I&t=464s).
 
