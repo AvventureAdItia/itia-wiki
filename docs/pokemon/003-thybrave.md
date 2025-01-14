@@ -1,7 +1,13 @@
 <div class="pokemon-attribute-container">
-  <img src="../../img/pokemon/thybrave.png" width="100"/>
+  <img src="../../img/pokemon/thybrave.png" width="150"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+    <div class="pokemon-attribute">
+      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Categoria</p>
+      <div class="attribute-value">
+        <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Protettore</p>
+      </div>
+    </div>
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
@@ -13,7 +19,7 @@
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
       <div class="attribute-value">
         <a href='' title="When this Pokemon has 1/3 or less of its HP remaining, its grass-type moves inflict 1.5x as much regular damage.">Overgrow</a>
-        /<a href='' title="Quando il Pokémon viene sostituito recupera un'ottavo di vita e i suoi problemi di stato vengono curati. Il Pokémon che entra in battaglia al suo posto viene anch'esso curato dai problemi di stato.">Lupercale</a>
+        /<a href='' title="Quando il Pokémon viene sostituito recupera un'ottavo di vita e i suoi problemi di stato vengono curati. Il Pokémon che entra in battaglia al suo posto viene anch'esso curato dai problemi di stato.">Capobranco</a>
       </div>
     </div>
     <div style="display: none;" class="hidden-pokemon-attribute">
@@ -24,6 +30,38 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Thybrave si tratta di un Pokémon inedito introdotto nella regione di Itia. <br />
+    Si evolve da [Thymad](https://avventureaditia.github.io/itia-wiki/pokemon/002-thymad/) una volta raggiunto il livello 36 ed è l'evoluzione finale di [Timolino](https://avventureaditia.github.io/itia-wiki/pokemon/001-timolino/). <br />
+    Questo Pokémon è riuscito a padroneggiare i suoi poteri trasformandoli in un arma a difesa dei più deboli. <br />
+    I suoi frutti possono essere usati per la fabbricazione di intrugli in grado di fornire coraggio a chi li beve, ma lui li usa per marcare il territorio. <br />
+    Si crede che il consumo del suo pelo possa curare qualsiasi male. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=tR_uukAGO7I&t=464s).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Thymad e della sua catena evolutiva sono:
+    
+    - **Lupo siciliano**: una specie endemica propria dell'isola, dichiarata estinta nel 1920. La figura del lupo ha portato gli abitanti dell'isola a creare delle superstizioni, come quella di indossare la testa di un lupo per ottenere coraggio o far indossare scarpe con peli di lupo ai bambini, per farli crescere come forti guerrieri.
+    - **Timo**: Pianta presente in varie parti del mondo, tra cui l'Italia. Gli antichi romani erano soliti preparare intrugli con questa pianta e dell'acqua per accrescere il proprio vigore e la propria forza.
+    - **Lupunari**: Credenza siciliana, simile a quella dei lupi mannari, dove vi erano persone affette da disturbi della psiche, che credevano di essere delle bestie.
+    - **Leggenda del Monachello**: Creatura leggendaria del folklore del Sud-Italia. Si tratta di uno spirito di natura benevola e dispettosa, solitamente rappresentato come un ragazzino deforme.
+
+    Al fine di creare un filo comune per i tre leggendari si è scelto di rappresentare tre discipline artistiche. <br />
+    Per lo starter d'erba si è optato per la letteratura, con dei riferimenti a **Dante Alighieri**. <br />
+    Con un richiamo a una delle tre fiere incontrate nel primo canto dell'Inferno, con il tipo **Buio** che richiama la Selva Oscura e con la corona d'alloro che adorna il capo dell'ultimo stadio evolutivo.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine al Thymad è **Alvise**.
 
 ## Base Stats
 <table style="width: 100%">

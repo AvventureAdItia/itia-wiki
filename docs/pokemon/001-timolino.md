@@ -5,7 +5,7 @@
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Categoria</p>
       <div class="attribute-value">
-        <p style="color:rgb(0, 0, 0); margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Cucciolo</p>
+        <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Cucciolo</p>
       </div>
     </div>
     <div class="pokemon-attribute">
@@ -19,7 +19,7 @@
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
       <div class="attribute-value">
         <a href='' title="When this Pokemon has 1/3 or less of its HP remaining, its grass-type moves inflict 1.5x as much regular damage.">Overgrow</a>
-        /<a href='' title="Quando il Pokémon viene sostituito recupera un'ottavo di vita e i suoi problemi di stato vengono curati. Il Pokémon che entra in battaglia al suo posto viene anch'esso curato dai problemi di stato.">Lupercale</a>
+        /<a href='' title="Quando il Pokémon viene sostituito recupera un'ottavo di vita e i suoi problemi di stato vengono curati. Il Pokémon che entra in battaglia al suo posto viene anch'esso curato dai problemi di stato.">Capobranco</a>
       </div>
     </div>
     <div style="display: none;" class="hidden-pokemon-attribute">
@@ -36,9 +36,10 @@
 === "Descrizione Pokedex"
     ### Descrizione
 
-    Timolino è uno degli starter che ci accompagneranno nel nostro viaggio alla scoperta della regione di Itia. <br />
-    Sono Pokémon molto diffidenti nei confronti degli altri umani e Pokémon. <br />
-    Si affidano principalmente all'aiuto degli esemplari adulti che sonno soliti donare ai propri cuccioli un po del loro perlo per adornare le quattro zampe. <br />
+    Timolino è uno degli starter indediti della regione di Itia. <br />
+    Si evolve in [Thymad](https://avventureaditia.github.io/itia-wiki/pokemon/002-thymad/) a partire dal livello 16 e in [Thybrave](https://avventureaditia.github.io/itia-wiki/pokemon/003-thybrave/) a partire dal livello 36. <br />
+    Sono Pokémon molto diffidenti nei confronti degli altri umani e pokémon. <br />
+    Si affidano principalmente all'aiuto degli esemplari adulti che sono soliti donare ai propri cuccioli un po del loro pelo per adornare le quattro zampe. <br />
     Il pelo degli adulti aiuta i piccoli ad ottenere coraggio e a crescere come forti e vigorosi guerrieri. <br />
 
     Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=tR_uukAGO7I&t=464s).
@@ -46,15 +47,21 @@
 === "Ispirazioni"
 
     ### Ispirazioni
-    Le ispirazioni alla base di Timolino e della sua catena evolutiva sono:
+    Le ispirazioni alla base di Thymad e della sua catena evolutiva sono:
     
     - **Lupo siciliano**: una specie endemica propria dell'isola, dichiarata estinta nel 1920. La figura del lupo ha portato gli abitanti dell'isola a creare delle superstizioni, come quella di indossare la testa di un lupo per ottenere coraggio o far indossare scarpe con peli di lupo ai bambini, per farli crescere come forti guerrieri.
     - **Timo**: Pianta presente in varie parti del mondo, tra cui l'Italia. Gli antichi romani erano soliti preparare intrugli con questa pianta e dell'acqua per accrescere il proprio vigore e la propria forza.
+    - **Lupunari**: Credenza siciliana, simile a quella dei lupi mannari, dove vi erano persone affette da disturbi della psiche, che credevano di essere delle bestie.
+    - **Leggenda del Monachello**: Creatura leggendaria del folklore del Sud-Italia. Si tratta di uno spirito di natura benevola e dispettosa, solitamente rappresentato come un ragazzino deforme.
+
+    Al fine di creare un filo comune per i tre leggendari si è scelto di rappresentare tre discipline artistiche. <br />
+    Per lo starter d'erba si è optato per la letteratura, con dei riferimenti a **Dante Alighieri**. <br />
+    Con un richiamo a una delle tre fiere incontrate nel primo canto dell'Inferno, con il tipo **Buio** che richiama la Selva Oscura e con la corona d'alloro che adorna il capo dell'ultimo stadio evolutivo.
 
 === "Vincitore del contest"
     ### Vincitore
 
-    Il Vincitore di Itia che ha dato origine al Timolino è **Alvise**.
+    Il Vincitore di Itia che ha dato origine al Thymad è **Alvise**.
 
 ## Base Stats
 <table style="width: 100%">
