@@ -1,7 +1,13 @@
 <div class="pokemon-attribute-container">
-  <img src="../../img/pokemon/thymad.png" width="200"/>
+  <img src="../../img/pokemon/thymad.png" width="150"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+    <div class="pokemon-attribute">
+      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Categoria</p>
+      <div class="attribute-value">
+        <p style="color:rgb(0, 0, 0); margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Lupunaro</p>
+      </div>
+    </div>
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
@@ -22,12 +28,7 @@
         
       </div>
     </div>
-    <div class="pokemon-attribute">
-      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Categoria</p>
-      <div class="attribute-value">
-        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Lupunaro</p>
-      </div>
-    </div>
+    
   </div>
 </div>
 

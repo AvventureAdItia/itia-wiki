@@ -1,7 +1,13 @@
 <div class="pokemon-attribute-container">
-  <img src="../../img/pokemon/timolino.png" width="200"/>
+  <img src="../../img/pokemon/timolino.png" width="150"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+    <div class="pokemon-attribute">
+      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Categoria</p>
+      <div class="attribute-value">
+        <p style="color:rgb(0, 0, 0); margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Cucciolo</p>
+      </div>
+    </div>
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
@@ -31,8 +37,8 @@
     ### Descrizione
 
     Timolino è uno degli starter che ci accompagneranno nel nostro viaggio alla scoperta della regione di Itia.
-    Sono Pokémon molto diffidenti nei confronti degli altri umani e Pokémon.
-    Si affidano principalmente all'aiuto degli esemplari adulti che sonno soliti donare ai propri cuccioli un po del loro perlo per adornare le quattro zampe.
+    Sono Pokémon molto diffidenti nei confronti degli altri umani e Pokémon. <br />
+    Si affidano principalmente all'aiuto degli esemplari adulti che sonno soliti donare ai propri cuccioli un po del loro perlo per adornare le quattro zampe.  return
     Il pelo degli adulti aiuta i piccoli ad ottenere coraggio e a crescere come forti e vigorosi guerrieri.
 
     Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=tR_uukAGO7I&t=464s).
