@@ -27,14 +27,14 @@
 
 ## Informazioni
 
-=== "Descrizione Pokedex"
-  ## Descrizione
+  === "Descrizione Pokedex"
+    ### Descrizione
     Timolino è uno degli starter di Itia.
-=== "Ispirazioni"
-  ## Ispirazioni
+  === "Ispirazioni"
+    ### Ispirazioni
     Timolino è ispirato a bla bla bla.
-=== "Vincitore di Itia"
-  ## Vincitore
+  === "Vincitore di Itia"
+    ### Vincitore
     Il Vincitore di Itia che ha dato origine al Pokémon è .
 
 ## Base Stats
