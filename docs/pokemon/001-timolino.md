@@ -1,5 +1,5 @@
 <div class="pokemon-attribute-container">
-  <img src="../../img/pokemon/timolino.png" width="100"/>
+  <img src="../../img/pokemon/timolino.png" width="200"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
@@ -48,7 +48,7 @@
 === "Vincitore del contest"
     ### Vincitore
 
-    Il Vincitore di Itia che ha dato origine al Timolino è Alvise.
+    Il Vincitore di Itia che ha dato origine al Timolino è **Alvise**.
 
 ## Base Stats
 <table style="width: 100%">
