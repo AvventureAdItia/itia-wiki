@@ -25,16 +25,56 @@
   </div>
 </div>
 
+## About The Game
+
+=== "Features"
+    ### Features
+    - Generation 1-8 Pokemon plus Hydrapple line, Archeludon, and Hisui Starters.
+    - Full Gym Challenge.
+    - Full Sword and Shield Story.
+    - Isle of Armor and Crown Tundra post-game.
+    - Auto-run by pressing L.
+    - Dexnav in the menu.
+    - Dynamax by pressing Start on a move in battle when Dynamax is possible.
+    - Gigantimax
+    - Mega evolution
+    - Z-moves
+    - Ultra beasts
+    - New Music
+    - New Side Quests
+    - Post-game Legendary Hunt
+
+=== "History"
+    ### A Brief History of the SWSH Demake
+
+    There have been 6 versions of this hack released by 4 developers.
+
+    - Swsh GBA (Portuguese) - PCLG (2020)
+    - SwSh GBA (English) - AStartGaming (2022)
+    - SwSh Ultimate GBA (Portuguese) - Jeanstars (2023)
+    - SwSh Ultimate GBA (English) - Phantonomy (2024)
+    - SwSh Ultimate Plus GBA (Portuguese) - Pclg (2024)
+    - SwSh Ultimate Plus GBA (English) - Phantonomy (2024)
+
+    This hack was originally created and released by Pclg in 2020. Jeanstars remade it, adding CFRU, dubbing it SwSh Ultimate which was released in 2023. I translated this version to English. Pclg released an overhaul of SwSh Ultimate, and dubbed it, SwSh Ultimate Plus. I then translated that version to English as well.
+
+    The current version of the game is SwSh Ultimate Plus v1.1.7.
+
 ## Informazioni
 
-  === "Descrizione Pokedex"
+=== "Descrizione Pokedex"
     ### Descrizione
+
     Timolino è uno degli starter di Itia.
-  === "Ispirazioni"
+    
+=== "Ispirazioni"
+
     ### Ispirazioni
     Timolino è ispirato a bla bla bla.
-  === "Vincitore di Itia"
+
+=== "Vincitore di Itia"
     ### Vincitore
+
     Il Vincitore di Itia che ha dato origine al Pokémon è .
 
 ## Base Stats
