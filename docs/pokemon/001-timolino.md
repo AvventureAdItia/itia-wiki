@@ -25,57 +25,29 @@
   </div>
 </div>
 
-## About The Game
-
-=== "Features"
-    ### Features
-    - Generation 1-8 Pokemon plus Hydrapple line, Archeludon, and Hisui Starters.
-    - Full Gym Challenge.
-    - Full Sword and Shield Story.
-    - Isle of Armor and Crown Tundra post-game.
-    - Auto-run by pressing L.
-    - Dexnav in the menu.
-    - Dynamax by pressing Start on a move in battle when Dynamax is possible.
-    - Gigantimax
-    - Mega evolution
-    - Z-moves
-    - Ultra beasts
-    - New Music
-    - New Side Quests
-    - Post-game Legendary Hunt
-
-=== "History"
-    ### A Brief History of the SWSH Demake
-
-    There have been 6 versions of this hack released by 4 developers.
-
-    - Swsh GBA (Portuguese) - PCLG (2020)
-    - SwSh GBA (English) - AStartGaming (2022)
-    - SwSh Ultimate GBA (Portuguese) - Jeanstars (2023)
-    - SwSh Ultimate GBA (English) - Phantonomy (2024)
-    - SwSh Ultimate Plus GBA (Portuguese) - Pclg (2024)
-    - SwSh Ultimate Plus GBA (English) - Phantonomy (2024)
-
-    This hack was originally created and released by Pclg in 2020. Jeanstars remade it, adding CFRU, dubbing it SwSh Ultimate which was released in 2023. I translated this version to English. Pclg released an overhaul of SwSh Ultimate, and dubbed it, SwSh Ultimate Plus. I then translated that version to English as well.
-
-    The current version of the game is SwSh Ultimate Plus v1.1.7.
-
-## Informazioni
+## Generali
 
 === "Descrizione Pokedex"
     ### Descrizione
 
-    Timolino è uno degli starter di Itia.
-    
+    Timolino è uno degli starter che ci accompagneranno nel nostro viaggio alla scoperta della regione di Itia.
+    Sono Pokémon molto diffidenti nei confronti degli altri umani e Pokémon.
+    Si affidano principalmente all'aiuto degli esemplari adulti che sonno soliti donare ai propri cuccioli un po del loro perlo per adornare le quattro zampe.
+    Il pelo degli adulti aiuta i piccoli ad ottenere coraggio e a crescere come forti e vigorosi guerrieri.
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=tR_uukAGO7I&t=464s).
+
 === "Ispirazioni"
 
     ### Ispirazioni
-    Timolino è ispirato a bla bla bla.
+    Timolino è ispirato a:
+    -Lupo siciliano: una specie endemica propria dell'isola, dichiarata estinta nel 1920. La figura del lupo ha portato gli abitanti dell'isola a creare delle superstizioni, come quella di indossare la testa di un lupo per ottenere coraggio o far indossare scarpe con peli di lupo ai bambini, per farli crescere come forti guerrieri.
+    -Timo: Pianta presente in varie parti del mondo, tra cui l'Italia. Gli antichi romani erano soliti preparare intrugli con questa pianta e dell'acqua per accrescere il proprio vigore e la propria forza.
 
-=== "Vincitore di Itia"
+=== "Vincitore del contest"
     ### Vincitore
 
-    Il Vincitore di Itia che ha dato origine al Pokémon è .
+    Il Vincitore di Itia che ha dato origine al Timolino è Alvise.
 
 ## Base Stats
 <table style="width: 100%">
