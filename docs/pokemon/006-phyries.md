@@ -1,7 +1,13 @@
 <div class="pokemon-attribute-container">
-  <img src="../../img/pokemon/phyries.png" width="100"/>
+  <img src="../../img/pokemon/phyries.png" width="200"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+    <div class="pokemon-attribute">
+      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Categoria</p>
+      <div class="attribute-value">
+        <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Capra</p>
+      </div>
+    </div>
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
@@ -24,6 +30,38 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Phyries è un Pokémon inedito introdotto nella regione di Itia. <br />
+    Si evolve da [Yulot](https://avventureaditia.github.io/itia-wiki/pokemon/005-yulot/) una volta raggiunto il livello 36 ed è l'evoluzione finale di [Flammid](https://avventureaditia.github.io/itia-wiki/pokemon/004-flammid/). <br />
+    Vive in alta montagna e raramente entra a contatto con l'essere umano. <br />
+    Nonostante la sua tipologia è riconducibile al tipo Buio, in quanto risulta particolarmente aggressivo e violento. <br />
+    Ha imparato ad assorbire energia naturale per sopravvivere e usarla per dare vita a delle maschere spettrali che tormentino chiunque si avvicini. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=tR_uukAGO7I&t=464s).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Phyries e della sua catena evolutiva sono:
+    
+    - **Capra**: Animale molto diffuso nell'allevamento italiano, in particolare sulle alpi.
+    - **Krampus**: Un demone strettamente legato a Satana e alla festa di San Nicola presente nei racconti dell'Alto Adige. Viene descritto come aggressivo e malevolo.
+    - **Yule**: Festa collegata al solstizio d'Inverno e che ha alcune somiglianze con il nostro Natale.
+
+    Al fine di creare un filo comune per i tre leggendari si è scelto di rappresentare tre discipline artistiche. <br />
+    Per lo starter d'erba si è optato per la scultura, in particolare alla lavorazione della terracotta, che prevede l'uso del fuoco e delle alte temperature. <br />
+    Si lega dunque al teatro romano per via delle sue maschere fatte di questo materiale e alla figura di Plauto, l'autore teatrale che più influenzo il teatro occidentale. <br />
+    La capra come animale di partenza è stata scelta per creare un collegamento con gli starter dei giochi originali, che si basano su animali presenti nel calendario giapponese.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine al Phyries è **Samuele**.
 
 ## Base Stats
 <table style="width: 100%">

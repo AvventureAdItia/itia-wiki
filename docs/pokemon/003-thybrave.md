@@ -1,5 +1,5 @@
 <div class="pokemon-attribute-container">
-  <img src="../../img/pokemon/thybrave.png" width="150"/>
+  <img src="../../img/pokemon/thybrave.png" width="200"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
@@ -36,7 +36,7 @@
 === "Descrizione Pokedex"
     ### Descrizione
 
-    Thybrave si tratta di un Pokémon inedito introdotto nella regione di Itia. <br />
+    Thybrave è un Pokémon inedito introdotto nella regione di Itia. <br />
     Si evolve da [Thymad](https://avventureaditia.github.io/itia-wiki/pokemon/002-thymad/) una volta raggiunto il livello 36 ed è l'evoluzione finale di [Timolino](https://avventureaditia.github.io/itia-wiki/pokemon/001-timolino/). <br />
     Questo Pokémon è riuscito a padroneggiare i suoi poteri trasformandoli in un arma a difesa dei più deboli. <br />
     I suoi frutti possono essere usati per la fabbricazione di intrugli in grado di fornire coraggio a chi li beve, ma lui li usa per marcare il territorio. <br />
@@ -47,7 +47,7 @@
 === "Ispirazioni"
 
     ### Ispirazioni
-    Le ispirazioni alla base di Thymad e della sua catena evolutiva sono:
+    Le ispirazioni alla base di Thybrave e della sua catena evolutiva sono:
     
     - **Lupo siciliano**: una specie endemica propria dell'isola, dichiarata estinta nel 1920. La figura del lupo ha portato gli abitanti dell'isola a creare delle superstizioni, come quella di indossare la testa di un lupo per ottenere coraggio o far indossare scarpe con peli di lupo ai bambini, per farli crescere come forti guerrieri.
     - **Timo**: Pianta presente in varie parti del mondo, tra cui l'Italia. Gli antichi romani erano soliti preparare intrugli con questa pianta e dell'acqua per accrescere il proprio vigore e la propria forza.
@@ -56,12 +56,13 @@
 
     Al fine di creare un filo comune per i tre leggendari si è scelto di rappresentare tre discipline artistiche. <br />
     Per lo starter d'erba si è optato per la letteratura, con dei riferimenti a **Dante Alighieri**. <br />
-    Con un richiamo a una delle tre fiere incontrate nel primo canto dell'Inferno, con il tipo **Buio** che richiama la Selva Oscura e con la corona d'alloro che adorna il capo dell'ultimo stadio evolutivo.
+    Con un richiamo a una delle tre fiere incontrate nel primo canto dell'Inferno, con il tipo **Buio** che richiama la Selva Oscura e con la corona d'alloro che adorna il capo dell'ultimo stadio evolutivo. <br />
+    Il lupo siciliano come animale di partenza è stato scelto per creare un collegamento con gli starter dei giochi originali, che si basano su animali estinti.
 
 === "Vincitore del contest"
     ### Vincitore
 
-    Il Vincitore di Itia che ha dato origine al Thymad è **Alvise**.
+    Il Vincitore di Itia che ha dato origine al Thybrave è **Alvise**.
 
 ## Base Stats
 <table style="width: 100%">

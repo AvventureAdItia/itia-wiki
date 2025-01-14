@@ -1,7 +1,13 @@
 <div class="pokemon-attribute-container">
-  <img src="../../img/pokemon/propellisk.png" width="100"/>
+  <img src="../../img/pokemon/propellisk.png" width="150"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+    <div class="pokemon-attribute">
+      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Categoria</p>
+      <div class="attribute-value">
+        <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Pinna</p>
+      </div>
+    </div>
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
@@ -24,6 +30,38 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Propellisk è un Pokémon inedito introdotto nella regione di Itia. <br />
+    Si evolve da [Badaliz](https://avventureaditia.github.io/itia-wiki/pokemon/007-badaliz/) una volta raggiunto il livello 16 e si evolve in [Badalinci](https://avventureaditia.github.io/itia-wiki/pokemon/009-badalinci/) a partire dal livello 36. <br />
+    L'evoluzione diventa meno vanitosa ma molto più intelligente. <br />
+    Può leggere l'anima delle persone e mantiene il potere di bloccarle con lo sguardo, con la gemma e con il suo liquido, divenuto ancora più letale. <br />
+    Nonostante ciò, riesce a controllarlo in modo tale da essere usato solo come difesa. <br />
+    Cammina a piccoli balzi. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=tR_uukAGO7I&t=464s).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Propellisk e della sua catena evolutiva sono:
+    
+    - **Badalischio**: mostro simile al Basilisco, si dice sia nato dalla Gorga Nera, un piccolo laghetto in prossimita della fonte del Borbotto. E' descritto come uno strano serpente grande quanto un'uomo e in grado di paralizzare le sue prede.
+    Ha una corona con un diadema sulla fronte, ali e testa di uccello e sembra essere estremamente velenoso.
+
+    Al fine di creare un filo comune per i tre leggendari si è scelto di rappresentare tre discipline artistiche. <br />
+    Per lo starter d'erba si è optato per l'architettura o la pittura, il pokémon secerne un liquido che gli permette di cambiare colore a seconda del suo umore e usa le sue pinne per dipingere e creare dei motivi in grado di mandare in trance chiunque li osservi. <br />
+    La forma del secondo e terzo stadio evolutivo sono ispirate alle macchine volanti di **Leonardo Da Vinci** delle quali esistono due versioni. <br />
+    L'idea di utilizzare la balestra come arma di partenza è stato scelta per creare un collegamento con gli starter dei giochi originali, che si basano su armi.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine al Propellisk è **Diego**.
 
 ## Base Stats
 <table style="width: 100%">

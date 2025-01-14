@@ -1,5 +1,5 @@
 <div class="pokemon-attribute-container">
-  <img src="../../img/pokemon/thymad.png" width="150"/>
+  <img src="../../img/pokemon/thymad.png" width="125"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
@@ -36,7 +36,7 @@
 === "Descrizione Pokedex"
     ### Descrizione
 
-    Thymad si tratta di un Pokémon inedito introdotto nella regione di Itia. <br />
+    Thymad è un Pokémon inedito introdotto nella regione di Itia. <br />
     Si evolve da [Timolino](https://avventureaditia.github.io/itia-wiki/pokemon/001-timolino/) una volta raggiunto il livello 16 e si evolve in [Thybrave](https://avventureaditia.github.io/itia-wiki/pokemon/003-thybrave/) a partire dal livello 36. <br />
     Questi Pokémon assumono una posizione eretta per sembrare più grandi e incutere timore negli altri Pokémon, la loro diffidenza li ha portati ad essere aggressivi e violenti. <br />
     Il pelo particolare che ha sulle zampe gli è stato donato dai suoi genitori quando era ancora un cucciolo e si crede possa alleggerire il dolore che prova. <br />
@@ -55,7 +55,8 @@
 
     Al fine di creare un filo comune per i tre leggendari si è scelto di rappresentare tre discipline artistiche. <br />
     Per lo starter d'erba si è optato per la letteratura, con dei riferimenti a **Dante Alighieri**. <br />
-    Con un richiamo a una delle tre fiere incontrate nel primo canto dell'Inferno, con il tipo **Buio** che richiama la Selva Oscura e con la corona d'alloro che adorna il capo dell'ultimo stadio evolutivo.
+    Con un richiamo a una delle tre fiere incontrate nel primo canto dell'Inferno, con il tipo **Buio** che richiama la Selva Oscura e con la corona d'alloro che adorna il capo dell'ultimo stadio evolutivo. <br />
+    Il lupo siciliano come animale di partenza è stato scelto per creare un collegamento con gli starter dei giochi originali, che si basano su animali estinti.
 
 === "Vincitore del contest"
     ### Vincitore
