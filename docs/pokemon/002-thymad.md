@@ -1,5 +1,5 @@
 <div class="pokemon-attribute-container">
-  <img src="../../img/pokemon/thymad.png" width="125"/>
+  <img src="../../img/pokemon/thymad.png" width="225"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
