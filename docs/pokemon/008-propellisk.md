@@ -1,5 +1,5 @@
 <div class="pokemon-attribute-container">
-  <img src="../../img/pokemon/propellisk.png" width="100"/>
+  <img src="../../img/pokemon/propellisk.png" width="110"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
