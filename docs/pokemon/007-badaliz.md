@@ -36,7 +36,7 @@
 === "Descrizione Pokedex"
     ### Descrizione
 
-    Badaliz è uno degli starter indediti della regione di Itia. <br />
+    Badaliz è uno degli starter inediti della regione di Itia. <br />
     Si evolve in [Propellisk](https://avventureaditia.github.io/itia-wiki/pokemon/008-propellisk/) a partire dal livello 16 e in [Badalinci](https://avventureaditia.github.io/itia-wiki/pokemon/009-badalinci/) a partire dal livello 36. <br />
     E'molto vanitoso ed esibisce la gemma incastonata sul petto che assieme al suo sguardo ha la capacità di intimidire il nemico al tal punto da immobilizzarlo. <br />
     Questo può essere provocato anche dal liquido tossico che produce, pericoloso ma non mortale. <br />

@@ -36,7 +36,7 @@
 === "Descrizione Pokedex"
     ### Descrizione
 
-    Flammid è uno degli starter indediti della regione di Itia. <br />
+    Flammid è uno degli starter inediti della regione di Itia. <br />
     Si evolve in [Yulot](https://avventureaditia.github.io/itia-wiki/pokemon/005-yulot/) a partire dal livello 16 e in [Phyries](https://avventureaditia.github.io/itia-wiki/pokemon/006-phyries/) a partire dal livello 36. <br />
     Flammid è di indole pacata e solitaria e tende ad affezzionarsi a pochissime persone e Pokémon, pur essendo oltrmodo fedele a questi. <br />
     La sua temperatura corporea è estremamente alta. <br />
