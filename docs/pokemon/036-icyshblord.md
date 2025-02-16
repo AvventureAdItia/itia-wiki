@@ -1,11 +1,11 @@
 <div style="text-align: center; margin-bottom: 20px;">
   ⬅️ 
-  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/035-skulknam/">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/035-skulknam/">Skulknam
     <img src="../../img/pokemon/skulknam.png" width="50" style="vertical-align: middle;">
   </a>
   <strong>Icyshblord</strong> 
   <img src="../../img/pokemon/icyshblord.png" width="50" style="vertical-align: middle;">
-  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/037-flocywerth/">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/037-flocywerth/">Flocywerth
     <img src="../../img/pokemon/flocywerth.png" width="50" style="vertical-align: middle;">
   </a>
   ➡️
