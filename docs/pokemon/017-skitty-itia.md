@@ -35,8 +35,7 @@
 
 === "Descrizione Pokedex"
     ### Descrizione
-
-    Si evolve in [Delcatty](https://avventureaditia.github.io/itia-wiki/pokemon/018-delcatty/) a partire dal livello 18 e in seguito in [Dresscatty](https://avventureaditia.github.io/itia-wiki/pokemon/019-dresscatty/) tramite l'utilizzo di una Moon Stone. <br />
+    
     Gli Skitti di Itia non sono abituati alla vita da Pokémon domestico. <br />
     Si dice che porti sfortuna incontrarne uno. <br />
     Si aggirano soprattutto in luoghi abbandoanti, e non è consigliato avventurarsi in prossimità di queste zone per via di misteriose sparizioni. <br />
@@ -115,7 +114,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Level Up | 18 | [Delcatty Itia](https://avventureaditia.github.io/itia-wiki/pokemon/018-delcatty/) |
+        | Level Up | 18 | [Delcatty Itia](https://avventureaditia.github.io/itia-wiki/pokemon/018-delcatty-itia/) |
         
 
 

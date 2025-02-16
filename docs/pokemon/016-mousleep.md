@@ -68,7 +68,6 @@
 === "Descrizione Pokedex"
     ### Descrizione
 
-    Si evolve da [Yawnouse](https://avventureaditia.github.io/itia-wiki/pokemon/015-yawnouse/) a partire dal livello 23. <br />
     Preferiscono dormire tutto il giorno, rimanendo delle creature abbastanza innocue. <br />
     Quando sono in preda alla fame però, cambiano forma, diventando fuoco-normale e vagano alla ricerca di cibo distruggendo tutto ciò che trovano di fronte. <br />
 

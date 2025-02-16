@@ -36,7 +36,6 @@
 === "Descrizione Pokedex"
     ### Descrizione
 
-    Si evolve in [Albeste](https://avventureaditia.github.io/itia-wiki/pokemon/014-albeste/) a partire dal livello 24. <br />
     Questo pokémon soffre molto il freddo ma a causa del suo piumaggio candido è costretto a nascondersi nella neve per non farsi trovare da altri pokémon volante suoi predatori. <br />
     Ne esistono solo esemplari femmina. <br />
 
@@ -113,7 +112,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Level Up | 24 | Albeste |
+        | Level Up | 24 | [Albeste](https://avventureaditia.github.io/itia-wiki/pokemon/014-albeste/) |
         
 
 

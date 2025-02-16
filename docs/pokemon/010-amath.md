@@ -36,7 +36,6 @@
 === "Descrizione Pokedex"
     ### Descrizione
 
-    Si evolve in [Pecuru](https://avventureaditia.github.io/itia-wiki/pokemon/011-pecuru/) a partire dal livello 13 e in [Phegea](https://avventureaditia.github.io/itia-wiki/pokemon/012-phegea/) a partire dal livello 26. <br />
     Gli Amath amano trascorrere il tempo insieme ai Wooloo, selvatici o meno. <br />
     Data la loro peculiare coda a forma di forbici, vengono spesso usati dai pastori per la tosatura del gregge. <br />
     La notte dormono sui Wooloo al caldo e protetti. <br />
@@ -113,7 +112,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Level Up | 13 | Pecuru |
+        | Level Up | 13 | [Pecuru](https://avventureaditia.github.io/itia-wiki/pokemon/011-pecuru/) |
         
 
 

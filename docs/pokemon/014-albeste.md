@@ -71,7 +71,6 @@
 === "Descrizione Pokedex"
     ### Descrizione
 
-    Si evolve da [Azuerla](https://avventureaditia.github.io/itia-wiki/pokemon/013-azuerla/) a partire dal livello 24. <br />
     Questo pokémon è molto particolare. <br />
     Ricopre il suo corpo di neve per nascondere le sue vere sembianze. <br />
     Va molto fiero del suo manto di ghiaccio, ma se viene colpito da mosse d'acqua o di fuoco, esso si scioglie rivelando il suo piumaggio grigio e sporco, diventando di tipo acqua. <br />

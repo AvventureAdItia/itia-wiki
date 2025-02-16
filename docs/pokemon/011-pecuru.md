@@ -36,7 +36,6 @@
 === "Descrizione Pokedex"
     ### Descrizione
 
-    Si evolve da [Amath](https://avventureaditia.github.io/itia-wiki/pokemon/010-amath/) a partire dal livello 13 e in [Phegea](https://avventureaditia.github.io/itia-wiki/pokemon/012-phegea/) a partire dal livello 26. <br />
     A quanto pare, per evolversi gli Amath hanno bisogno della speciale lana dei Wooloo, come una sorta di simbiosi. <br />
     Le piccole larve avvolgono il loro corpo con questo materiale: a causa di ciò, spesso vengono confusi con veri e propri bestiami. <br />
 
@@ -112,7 +111,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Level Up | 26 | Phegea |
+        | Level Up | 26 | [Phegea](https://avventureaditia.github.io/itia-wiki/pokemon/012-phegea/) |
         
 
 

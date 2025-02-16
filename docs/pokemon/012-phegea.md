@@ -37,7 +37,6 @@
 === "Descrizione Pokedex"
     ### Descrizione
 
-    Si evolve da [Amath](https://avventureaditia.github.io/itia-wiki/pokemon/010-amath/) a partire dal livello 13 e da [Pecuru](https://avventureaditia.github.io/itia-wiki/pokemon/011-pecuru/) a partire dal livello 26. <br />
     Questo è il pokémon preferito da tutti i pastori di Itia. <br />
     Le cesoie che possiede come zampe sono utilissime per la tosatura, diminuendo drasticamente i tempi, e sono soliti proteggere il pascolo dai predatori: fingono di essere wooloo per poi spaventare i malcapitati con il grosso pattern sulle ali. <br />
 

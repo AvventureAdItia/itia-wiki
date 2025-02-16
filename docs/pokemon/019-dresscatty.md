@@ -5,7 +5,7 @@
     <div class="pokemon-attribute">
     <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Categoria</p>
     <div class="attribute-value">
-      <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Pulcino</p>
+      <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Inganno</p>
     </div>
   </div>
     <div class="pokemon-attribute">
@@ -30,6 +30,32 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+    
+    E' un Pokémon molto elegante che odia sporcarsi. <br />
+    La sua pelliccia che sembra un vestito viene usata per fare degli abiti molto pregiati. <br />
+    Nonostante ciò, procurarsela è molto difficile, poichè si dice che chi entra in contatto con questo Pokémon, sparisca misteriosamente. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=QKwaSv46-_A&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=3).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Skitty e della sua catena evolutiva sono:
+    
+    - **Gatto mammone**: nome italiano che veniva dato ad una specie di scimmia non meglio identificata, forse una sorta di babbuino. Nel mondo delle fiabe invece si tratta di un mostro dall'aspetto di un gatto gigante e veniva utilizzato per spaventare i bambini ribelli;
+    - **Zendado**: tipico vestito veneziano;
+    - **Dama nera**: secondo la leggenda si tratta di una fanciulla che attirerebbe gli uomini in luoghi isolati per farli danzare per ore e ore, dopo questo strano rituale, gli uomini alzando il velo scoprirebbero che invece della testa c'è in realtà un teschio.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Skitty e la sua catena evolutiva è **Francesco**.
+
 
 ## Base Stats
 <table style="width: 100%">

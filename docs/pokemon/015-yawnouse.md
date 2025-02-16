@@ -36,7 +36,6 @@
 === "Descrizione Pokedex"
     ### Descrizione
 
-    Si evolve in [Mousleep](https://avventureaditia.github.io/itia-wiki/pokemon/016-mousleep/) a partire dal livello 23. <br />
     Questi piccoli pokémon vivono in un costante stato di dormiveglia, combattuti dal voler riposare per nutrirsi. <br />
     Vanno ghiotti sopratutto per le baccastagne che nascondono nella coda per tenerle al caldo e mangiarle nei momenti di necessità. <br />
 
@@ -113,7 +112,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Level Up | 23 | Mousleep |
+        | Level Up | 23 | [Mousleep](https://avventureaditia.github.io/itia-wiki/pokemon/016-mousleep/) |
         
 
 
