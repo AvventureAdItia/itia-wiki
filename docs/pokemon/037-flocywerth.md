@@ -91,115 +91,118 @@
     Il Vincitore di Itia che ha dato origine a Icyshblord e la sua catena evolutiva è **Aki**.
 
 
+
 ## Base Stats
 
-=== "Forma Notturna"
-  <table style="width: 100%">
-    <tbody style="width: 100%;">
-      <tr style="display: flex; align-items: center;">
-        <th style="color: #737373;" >HP</th>
-        <td style="border-top: none; width: 70px">80</td>
-        <td style="width: 100%; min-width: 450px; border-top: none;">
-          <div style="width: 31%;" class="ranking-bar rank-4">
-          </div>
-        </td>
-      </tr>
-      <tr style="display: flex; align-items: center;">
-        <th style="color: #737373;">Attack</th>
-        <td style="border-top: none; width: 70px">135</td>
-        <td style="width: 100%; min-width: 450px; border-top: none;">
-          <div style="width: 13%;" class="ranking-bar rank-2">
-          </div>
-        </td>
-      </tr>
-      <tr style="display: flex; align-items: center;">
-        <th style="color: #737373;">Defense</th>
-        <td style="border-top: none; width: 70px">45</td>
-        <td style="width: 100%; min-width: 450px; border-top: none;">
-          <div style="width: 17%;" class="ranking-bar rank-2">
-          </div>
-        </td>
-      </tr>
-      <tr style="display: flex; align-items: center;">
-        <th style="color: #737373;">SP Attack</th>
-        <td style="border-top: none; width: 70px">135</td>
-        <td style="width: 100%; min-width: 450px; border-top: none;">
-          <div style="width: 52%;" class="ranking-bar rank-6">
-          </div>
-        </td>
-      </tr>
-      <tr style="display: flex; align-items: center;">
-        <th style="color: #737373;">SP Defense</th>
-        <td style="border-top: none; width: 70px">45</td>
-        <td style="width: 100%; min-width: 450px; border-top: none;">
-          <div style="width: 17%;" class="ranking-bar rank-2">
-          </div>
-        </td>
-      </tr>
-      <tr style="display: flex; align-items: center;">
-        <th style="color: #737373;">Speed</th>
-        <td style="border-top: none; width: 70px">110</td>
-        <td style="width: 100%; min-width: 450px; border-top: none;">
-          <div style="width: 43%;" class="ranking-bar rank-5">
-          </div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+=== "Forma Base"
+    ### Forma Notturna
+    <table style="width: 100%">
+      <tbody style="width: 100%;">
+        <tr style="display: flex; align-items: center;">
+          <th style="color: #737373;" >HP</th>
+          <td style="border-top: none; width: 70px">80</td>
+          <td style="width: 100%; min-width: 450px; border-top: none;">
+            <div style="width: 31%;" class="ranking-bar rank-4">
+            </div>
+          </td>
+        </tr>
+        <tr style="display: flex; align-items: center;">
+          <th style="color: #737373;">Attack</th>
+          <td style="border-top: none; width: 70px">135</td>
+          <td style="width: 100%; min-width: 450px; border-top: none;">
+            <div style="width: 52%;" class="ranking-bar rank-6">
+            </div>
+          </td>
+        </tr>
+        <tr style="display: flex; align-items: center;">
+          <th style="color: #737373;">Defense</th>
+          <td style="border-top: none; width: 70px">45</td>
+          <td style="width: 100%; min-width: 450px; border-top: none;">
+            <div style="width: 17%;" class="ranking-bar rank-2">
+            </div>
+          </td>
+        </tr>
+        <tr style="display: flex; align-items: center;">
+          <th style="color: #737373;">SP Attack</th>
+          <td style="border-top: none; width: 70px">135</td>
+          <td style="width: 100%; min-width: 450px; border-top: none;">
+            <div style="width: 52%;" class="ranking-bar rank-6">
+            </div>
+          </td>
+        </tr>
+        <tr style="display: flex; align-items: center;">
+          <th style="color: #737373;">SP Defense</th>
+          <td style="border-top: none; width: 70px">45</td>
+          <td style="width: 100%; min-width: 450px; border-top: none;">
+            <div style="width: 17%;" class="ranking-bar rank-2">
+            </div>
+          </td>
+        </tr>
+        <tr style="display: flex; align-items: center;">
+          <th style="color: #737373;">Speed</th>
+          <td style="border-top: none; width: 70px">110</td>
+          <td style="width: 100%; min-width: 450px; border-top: none;">
+            <div style="width: 43%;" class="ranking-bar rank-5">
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
 
-=== "Forma Diurna"
-  <table style="width: 100%">
-    <tbody style="width: 100%;">
-      <tr style="display: flex; align-items: center;">
-        <th style="color: #737373;" >HP</th>
-        <td style="border-top: none; width: 70px">80</td>
-        <td style="width: 100%; min-width: 450px; border-top: none;">
-          <div style="width: 31%;" class="ranking-bar rank-4">
-          </div>
-        </td>
-      </tr>
-      <tr style="display: flex; align-items: center;">
-        <th style="color: #737373;">Attack</th>
-        <td style="border-top: none; width: 70px">45</td>
-        <td style="width: 100%; min-width: 450px; border-top: none;">
-          <div style="width: 13%;" class="ranking-bar rank-2">
-          </div>
-        </td>
-      </tr>
-      <tr style="display: flex; align-items: center;">
-        <th style="color: #737373;">Defense</th>
-        <td style="border-top: none; width: 70px">135</td>
-        <td style="width: 100%; min-width: 450px; border-top: none;">
-          <div style="width: 17%;" class="ranking-bar rank-2">
-          </div>
-        </td>
-      </tr>
-      <tr style="display: flex; align-items: center;">
-        <th style="color: #737373;">SP Attack</th>
-        <td style="border-top: none; width: 70px">45</td>
-        <td style="width: 100%; min-width: 450px; border-top: none;">
-          <div style="width: 52%;" class="ranking-bar rank-6">
-          </div>
-        </td>
-      </tr>
-      <tr style="display: flex; align-items: center;">
-        <th style="color: #737373;">SP Defense</th>
-        <td style="border-top: none; width: 70px">135</td>
-        <td style="width: 100%; min-width: 450px; border-top: none;">
-          <div style="width: 17%;" class="ranking-bar rank-2">
-          </div>
-        </td>
-      </tr>
-      <tr style="display: flex; align-items: center;">
-        <th style="color: #737373;">Speed</th>
-        <td style="border-top: none; width: 70px">110</td>
-        <td style="width: 100%; min-width: 450px; border-top: none;">
-          <div style="width: 43%;" class="ranking-bar rank-5">
-          </div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+=== "Forma Alternativa"
+    ### Forma Diurna
+    <table style="width: 100%">
+      <tbody style="width: 100%;">
+        <tr style="display: flex; align-items: center;">
+          <th style="color: #737373;" >HP</th>
+          <td style="border-top: none; width: 70px">80</td>
+          <td style="width: 100%; min-width: 450px; border-top: none;">
+            <div style="width: 31%;" class="ranking-bar rank-4">
+            </div>
+          </td>
+        </tr>
+        <tr style="display: flex; align-items: center;">
+          <th style="color: #737373;">Attack</th>
+          <td style="border-top: none; width: 70px">45</td>
+          <td style="width: 100%; min-width: 450px; border-top: none;">
+            <div style="width: 17%;" class="ranking-bar rank-2">
+            </div>
+          </td>
+        </tr>
+        <tr style="display: flex; align-items: center;">
+          <th style="color: #737373;">Defense</th>
+          <td style="border-top: none; width: 70px">135</td>
+          <td style="width: 100%; min-width: 450px; border-top: none;">
+            <div style="width: 52%;" class="ranking-bar rank-6">
+            </div>
+          </td>
+        </tr>
+        <tr style="display: flex; align-items: center;">
+          <th style="color: #737373;">SP Attack</th>
+          <td style="border-top: none; width: 70px">45</td>
+          <td style="width: 100%; min-width: 450px; border-top: none;">
+            <div style="width: 17%;" class="ranking-bar rank-2">
+            </div>
+          </td>
+        </tr>
+        <tr style="display: flex; align-items: center;">
+          <th style="color: #737373;">SP Defense</th>
+          <td style="border-top: none; width: 70px">135</td>
+          <td style="width: 100%; min-width: 450px; border-top: none;">
+            <div style="width: 52%;" class="ranking-bar rank-6">
+            </div>
+          </td>
+        </tr>
+        <tr style="display: flex; align-items: center;">
+          <th style="color: #737373;">Speed</th>
+          <td style="border-top: none; width: 70px">110</td>
+          <td style="width: 100%; min-width: 450px; border-top: none;">
+            <div style="width: 43%;" class="ranking-bar rank-5">
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
 
 
 
