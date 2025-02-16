@@ -46,7 +46,7 @@
     ### Ispirazioni
     Le ispirazioni alla base di Phantump e della sua catena evolutiva sono da ritrovarsi nella storia di **Pinocchio**:
     
-    - Il Phantump di Itia rappresenta il pezzo di legno animato dal quale viene intagliato Pinocchio, il colore del legno e la forma delle foglie ricorda il ciliego, in riferimento a **Mastro** **Ciliegia** che è il falegname che regala a Geppetto il pezzo di legno. Il colore Azzurro degli occhi richiama il tipo Folleto e la **Fata** **Turchina**. Il Phantump di Itia rappresenta il **grillo* **parlante** ossia la coscienza di Pinocchio, in questo caso la coscienza dei bambini scappati di casa. Dumsnot invece rappresenta Pinocchio, per questo sembra una marionetta, Indrygard invece rappresenta la Fata Turchina e Geppetto;
+    - Il Phantump di Itia rappresenta il pezzo di legno animato dal quale viene intagliato Pinocchio, il colore del legno e la forma delle foglie ricorda il ciliego, in riferimento a **Mastro** **Ciliegia** che è il falegname che regala a Geppetto il pezzo di legno. Il colore Azzurro degli occhi richiama il tipo Folleto e la **Fata** **Turchina**. Il Phantump di Itia rappresenta il **grillo** **parlante** ossia la coscienza di Pinocchio, in questo caso la coscienza dei bambini scappati di casa. Dumsnot invece rappresenta Pinocchio, per questo sembra una marionetta, Indrygard invece rappresenta la Fata Turchina e Geppetto;
     - **Lauroceraso**;
     - **Bacco (o Dionisio)**;
     - **Apollo e Dafne**.

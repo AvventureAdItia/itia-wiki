@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+    <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Categoria</p>
+    <div class="attribute-value">
+      <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Nostalgia</p>
+    </div>
+  </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/rock.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,32 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+    
+    Nixiro si evolve quando il suo compagno pesce passa a miglior vita. <br />
+    Il loro rapporto di amicizia nel frattempo è diventato così profondo che lo spirito di Wishiwashi si manifesta sul corpo di Scipirock, donandogli una forza fuori dal comune. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=ZBzH2TlNjMo&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=4).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Nixiro e della sua catena evolutiva sono:
+    
+    - **Scipionyx samniticus**: si tratta di un dinosauro il cui fossile è stato trovato in Italia, nello specifico nella zona Napoletana. Si tratta di un fossile conservato talmente bene, che nei tessuti molli trovati, è stato possibile rinvenire anche il fossile di un pesce;
+    - **Combustibili fossili**;
+    - **Leggenda di San Giorgio e il Drago**.
+
+=== "Vincitore del contest"
+    ### Vincitori
+
+    I Vincitori di Itia che hanno dato origine a Nixiro e la sua catena evolutiva sono **Luca** e **Fabio**.
+
+
 
 ## Base Stats
 <table style="width: 100%">
