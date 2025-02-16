@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+    <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Categoria</p>
+    <div class="attribute-value">
+      <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Pulcino</p>
+    </div>
+  </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/normal.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,31 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Si evolve in [Albeste](https://avventureaditia.github.io/itia-wiki/pokemon/014-albeste/) a partire dal livello 24. <br />
+    Questo pokémon soffre molto il freddo ma a causa del suo piumaggio candido è costretto a nascondersi nella neve per non farsi trovare da altri pokémon volante suoi predatori. <br />
+    Ne esistono solo esemplari femmina. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=BzvbrsnNmLY&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=2).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Azuerla e della sua catena evolutiva sono:
+    
+    - **Giorni della merla**: si fa riferimento agli ultimi tre giorni del mese di Gennaio, che secondo la tradizione italiana sarebbero i più freddi di tutto l'anno;
+    - **Azzurrina**: protagonista di una leggenda Emiliana, si tratta di una bambina albina che fu costretta sin dalla giovane età a tingersi i capelli per non essere perseguitata, ma morì in una ghiacciaia e si dica infesti tutt'ora il castello del padre.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Azuerla e la sua catena evolutiva è **Tommaso**.
+
 
 ## Base Stats
 <table style="width: 100%">
