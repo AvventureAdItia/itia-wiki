@@ -36,8 +36,6 @@
 === "Descrizione Pokedex"
     ### Descrizione
 
-    Thybrave è un Pokémon inedito introdotto nella regione di Itia. <br />
-    Si evolve da [Thymad](https://avventureaditia.github.io/itia-wiki/pokemon/002-thymad/) una volta raggiunto il livello 36 ed è l'evoluzione finale di [Timolino](https://avventureaditia.github.io/itia-wiki/pokemon/001-timolino/). <br />
     Questo Pokémon è riuscito a padroneggiare i suoi poteri trasformandoli in un arma a difesa dei più deboli. <br />
     I suoi frutti possono essere usati per la fabbricazione di intrugli in grado di fornire coraggio a chi li beve, ma lui li usa per marcare il territorio. <br />
     Si crede che il consumo del suo pelo possa curare qualsiasi male. <br />

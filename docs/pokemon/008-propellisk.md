@@ -36,8 +36,6 @@
 === "Descrizione Pokedex"
     ### Descrizione
 
-    Propellisk è un Pokémon inedito introdotto nella regione di Itia. <br />
-    Si evolve da [Badaliz](https://avventureaditia.github.io/itia-wiki/pokemon/007-badaliz/) una volta raggiunto il livello 16 e si evolve in [Badalinci](https://avventureaditia.github.io/itia-wiki/pokemon/009-badalinci/) a partire dal livello 36. <br />
     L'evoluzione diventa meno vanitosa ma molto più intelligente. <br />
     Può leggere l'anima delle persone e mantiene il potere di bloccarle con lo sguardo, con la gemma e con il suo liquido, divenuto ancora più letale. <br />
     Nonostante ciò, riesce a controllarlo in modo tale da essere usato solo come difesa. <br />
@@ -118,6 +116,11 @@
 </table>
 
 
+##Evolution Change
+| Method | Item/Level/Note | Evolved Pokemon |
+        | :--: | :--: | :--: |
+        | Level Up | 36 | [Badalinci](https://avventureaditia.github.io/itia-wiki/pokemon/009-badalinci/) |
+ 
 
 
 

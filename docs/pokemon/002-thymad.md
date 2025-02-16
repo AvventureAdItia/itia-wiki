@@ -36,8 +36,6 @@
 === "Descrizione Pokedex"
     ### Descrizione
 
-    Thymad è un Pokémon inedito introdotto nella regione di Itia. <br />
-    Si evolve da [Timolino](https://avventureaditia.github.io/itia-wiki/pokemon/001-timolino/) una volta raggiunto il livello 16 e si evolve in [Thybrave](https://avventureaditia.github.io/itia-wiki/pokemon/003-thybrave/) a partire dal livello 36. <br />
     Questi Pokémon assumono una posizione eretta per sembrare più grandi e incutere timore negli altri Pokémon, la loro diffidenza li ha portati ad essere aggressivi e violenti. <br />
     Il pelo particolare che ha sulle zampe gli è stato donato dai suoi genitori quando era ancora un cucciolo e si crede possa alleggerire il dolore che prova. <br />
 
@@ -118,6 +116,12 @@
   </tbody>
 </table>
 
+
+##Evolution Change
+| Method | Item/Level/Note | Evolved Pokemon |
+        | :--: | :--: | :--: |
+        | Level Up | 36 | [Thybrave](https://avventureaditia.github.io/itia-wiki/pokemon/003-thybrave/) |
+        
 
 
 

@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+    <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Categoria</p>
+    <div class="attribute-value">
+      <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Titano</p>
+    </div>
+  </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/ice.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,31 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+    
+    I Fromses che riescono a farsi avanti allenandosi e non volendo più essere protetti, riescono ad evolversi in Glaspirit. <br />
+    Questi enormi giganti di ghiaccio non si muovono molto, ma hanno una forza spaventosa. <br />
+    Restano fermi e immobili sotto la neve, facendo fuoriuscire solo la parte superiore del corpo, che sembra ricordare un volto umano. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=cO1HPwF5_E4&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=5).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Fromses e della sua catena evolutiva sono:
+    
+    - **Leggenda del Gran Sasso e del Gigante Ermes**.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Fromses e la sua catena evolutiva è **Lorenzo**.
+
+
 
 ## Base Stats
 <table style="width: 100%">

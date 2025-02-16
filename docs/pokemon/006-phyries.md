@@ -36,8 +36,6 @@
 === "Descrizione Pokedex"
     ### Descrizione
 
-    Phyries è un Pokémon inedito introdotto nella regione di Itia. <br />
-    Si evolve da [Yulot](https://avventureaditia.github.io/itia-wiki/pokemon/005-yulot/) una volta raggiunto il livello 36 ed è l'evoluzione finale di [Flammid](https://avventureaditia.github.io/itia-wiki/pokemon/004-flammid/). <br />
     Vive in alta montagna e raramente entra a contatto con l'essere umano. <br />
     Nonostante la sua tipologia è riconducibile al tipo Buio, in quanto risulta particolarmente aggressivo e violento. <br />
     Ha imparato ad assorbire energia naturale per sopravvivere e usarla per dare vita a delle maschere spettrali che tormentino chiunque si avvicini. <br />

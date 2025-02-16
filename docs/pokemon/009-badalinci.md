@@ -36,9 +36,7 @@
 === "Descrizione Pokedex"
     ### Descrizione
 
-    Badalinci è un Pokémon inedito introdotto nella regione di Itia. <br />
-    Si evolve da [Propellisk](https://avventureaditia.github.io/itia-wiki/pokemon/008-propellisk/) una volta raggiunto il livello 36 ed è l'evoluzione finale di [Badaliz](https://avventureaditia.github.io/itia-wiki/pokemon/007-badaliz/). <br />
-    L'evoluzione finale diventa più empatico. <br />
+    L'evoluzione finale diventa più empatica. <br />
     La gemma si sposta sulla fronte e se una persona lo fissa troppo a lungo negli occhi o nella gemma può rimanere pietrificato per qualche ora. <br />
     Il liquido che secerne cambia colore a seconda dell'umore, lo usa per creare immagini in grado di mandare in trance chi li guarda. <br />
     Riesce a planare. <br />

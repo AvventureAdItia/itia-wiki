@@ -36,8 +36,6 @@
 === "Descrizione Pokedex"
     ### Descrizione
 
-    Yulot è uno Pokémon inedito introdotto nella regione di Itia. <br />
-    Si evolve da [Flammid](https://avventureaditia.github.io/itia-wiki/pokemon/004-flammid/) una volta raggiunto il livello 16 e si evolve in [Phyries](https://avventureaditia.github.io/itia-wiki/pokemon/006-phyries/) a partire dal livello 36. <br />
     Molto scontroso e si avventa su qualunque Pokémon più debole gli capiti a tiro, sulla punta della sua coda immagazzina l'energia calorifica che produce. <br />
     Spesso è causa di incendi boschivi, anche in alta montagna. <br />
     La maschera sulla fronte è la manifestazione dei suoi poteri, ma ancora non si sa quali. <br />
@@ -117,6 +115,12 @@
   </tbody>
 </table>
 
+
+##Evolution Change
+| Method | Item/Level/Note | Evolved Pokemon |
+        | :--: | :--: | :--: |
+        | Level Up | 36 | [Phyries](https://avventureaditia.github.io/itia-wiki/pokemon/006-phyries/) |
+   
 
 
 

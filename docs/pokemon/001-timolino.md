@@ -36,8 +36,6 @@
 === "Descrizione Pokedex"
     ### Descrizione
 
-    Timolino è uno degli starter inediti della regione di Itia. <br />
-    Si evolve in [Thymad](https://avventureaditia.github.io/itia-wiki/pokemon/002-thymad/) a partire dal livello 16 e in [Thybrave](https://avventureaditia.github.io/itia-wiki/pokemon/003-thybrave/) a partire dal livello 36. <br />
     Sono Pokémon molto diffidenti nei confronti degli altri umani e pokémon. <br />
     Si affidano principalmente all'aiuto degli esemplari adulti che sono soliti donare ai propri cuccioli un po del loro pelo per adornare le quattro zampe. <br />
     Il pelo degli adulti aiuta i piccoli ad ottenere coraggio e a crescere come forti e vigorosi guerrieri. <br />
@@ -121,7 +119,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Level Up | 16 | Thymad |
+        | Level Up | 16 | [Thymad](https://avventureaditia.github.io/itia-wiki/pokemon/002-thymad/) |
         
 
 
