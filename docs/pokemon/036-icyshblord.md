@@ -1,3 +1,9 @@
+<p style ="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">
+  <- [![Skulknam](../../img/pokemon/skulknam.png)](https://avventureaditia.github.io/itia-wiki/pokemon/035-skulknam/) 
+  **Icyshblord** ![Icyshblord](../../img/pokemon/icyshblord.png) 
+  [![Flocywerth](../../img/pokemon/flocywerth.png)](https://avventureaditia.github.io/itia-wiki/pokemon/037-flocywerth/) ->
+</p>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/icyshblord.png" width="100"/>
 
