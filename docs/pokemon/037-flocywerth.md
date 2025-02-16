@@ -1,3 +1,16 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ 
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/036-icyshblord/">036 - Icyshblord
+    <img src="../../img/pokemon/icyshblord.png" width="50" style="vertical-align: middle;">
+  </a>
+  <strong>037 - Flocywerth</strong> 
+  <img src="../../img/pokemon/flocywerth.png" width="50" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/038-stakiles/">038 - Stakiles
+    <img src="../../img/pokemon/stakiles.png" width="50" style="vertical-align: middle;">
+  </a>
+  ➡️
+</div>
+
 ## Aspetto
 
 === "Forma Base"

@@ -1,3 +1,16 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ 
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/032-glaspirit/">032 - Glaspirit
+    <img src="../../img/pokemon/glaspirit.png" width="50" style="vertical-align: middle;">
+  </a>
+  <strong>033 - Batcot</strong> 
+  <img src="../../img/pokemon/batcot.png" width="50" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/034-flakewing/">034 - Flakewing
+    <img src="../../img/pokemon/flakewing.png" width="50" style="vertical-align: middle;">
+  </a>
+  ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/batcot.png" width="100"/>
 
