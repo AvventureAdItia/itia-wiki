@@ -3,6 +3,11 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Categoria</p>
+      <div class="attribute-value">
+        <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Falenpascolo</p>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/bug.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +29,31 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Si evolve da [Amath](https://avventureaditia.github.io/itia-wiki/pokemon/010-amath/) a partire dal livello 13 e da [Pecuru](https://avventureaditia.github.io/itia-wiki/pokemon/011-pecuru/) a partire dal livello 26. <br />
+    Questo è il pokémon preferito da tutti i pastori di Itia. <br />
+    Le cesoie che possiede come zampe sono utilissime per la tosatura, diminuendo drasticamente i tempi, e sono soliti proteggere il pascolo dai predatori: fingono di essere wooloo per poi spaventare i malcapitati con il grosso pattern sulle ali. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=BzvbrsnNmLY&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=2).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Phegea e della sua catena evolutiva sono:
+    
+    - **Lepidottero**: sono un vasto ordine di insetti a cui appartengono oltre 158 000 specie, note come farfalle e falene;
+    - **Amata phegea**: è un lepidottero comune e molto diffuso in Italia. Uno dei suoi soprannomi è "Picuraro", poichè solito avvistarlo presso greggi di pecore. Uno dei nomi più comuni con cui è conosciuto questo insetto è "Prete" a causa del singolare colletto che è presente sul suo corpo.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Phegea è **Samuele**.
+
 
 ## Base Stats
 <table style="width: 100%">

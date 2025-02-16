@@ -6,6 +6,12 @@
       <img src="../../img/pokemon/mousleep.png" width="100"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Categoria</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Dormiveglia</p>
+        </div>
+      </div>
+        <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
           <div class="attribute-value" style="column-gap: 0.5rem;">
             <img src='../../img/types/normal.png' style='width: 77px; height: 26px;'/>
@@ -31,6 +37,11 @@
       <img src="../../img/pokemon/mousleep-sveglio.png" width="100"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Categoria</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Dormiveglia</p>
+        </div>
+        <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
           <div class="attribute-value" style="column-gap: 0.5rem;">
             <img src='../../img/types/normal.png' style='width: 77px; height: 26px;'/>
@@ -50,6 +61,31 @@
         </div>
       </div>
     </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Si evolve da [Yawnouse](https://avventureaditia.github.io/itia-wiki/pokemon/015-yawnouse/) a partire dal livello 23. <br />
+    Preferiscono dormire tutto il giorno, rimanendo delle creature abbastanza innocue. <br />
+    Quando sono in preda alla fame però, cambiano forma, diventando fuoco-normale e vagano alla ricerca di cibo distruggendo tutto ciò che trovano di fronte. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=BzvbrsnNmLY&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=2).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Mousleep e della sua catena evolutiva sono:
+    
+    - **Ghiro sardo**: una specie endemica propria dell'isola;
+    - **Letargo**: è un comportamento caratteristico di alcuni animali che durante la stagione fredda riducono le proprie funzioni vitali e rimangono in stato di quiescenza;
+    - **Caldarroste**: Castagne arrostite al fuoco, piatto tipico dell'area mediterranea.
+
+=== "Vincitore del contest"
+    ### Vincitori
+
+    I Vincitori di Itia che ha dato origine a Mousleep sono **Santo** e **Nicolas**.
 
 ## Base Stats
 <table style="width: 100%">
