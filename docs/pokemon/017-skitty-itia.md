@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+    <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Categoria</p>
+    <div class="attribute-value">
+      <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Randagio</p>
+    </div>
+  </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/dark.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,33 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Si evolve in [Delcatty](https://avventureaditia.github.io/itia-wiki/pokemon/018-delcatty/) a partire dal livello 18 e in seguito in [Dresscatty](https://avventureaditia.github.io/itia-wiki/pokemon/019-dresscatty/) tramite l'utilizzo di una Moon Stone. <br />
+    Gli Skitti di Itia non sono abituati alla vita da Pokémon domestico. <br />
+    Si dice che porti sfortuna incontrarne uno. <br />
+    Si aggirano soprattutto in luoghi abbandoanti, e non è consigliato avventurarsi in prossimità di queste zone per via di misteriose sparizioni. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=QKwaSv46-_A&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=3).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Skitty e della sua catena evolutiva sono:
+    
+    - **Gatto mammone**: nome italiano che veniva dato ad una specie di scimmia non meglio identificata, forse una sorta di babbuino. Nel mondo delle fiabe invece si tratta di un mostro dall'aspetto di un gatto gigante e veniva utilizzato per spaventare i bambini ribelli;
+    - **Zendado**: tipico vestito veneziano;
+    - **Dama nera**: secondo la leggenda si tratta di una fanciulla che attirerebbe gli uomini in luoghi isolati per farli danzare per ore e ore, dopo questo strano rituale, gli uomini alzando il velo scoprirebbero che invece della testa c'è in realtà un teschio.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Skitty e la sua catena evolutiva è **Francesco**.
+
 
 ## Base Stats
 <table style="width: 100%">
@@ -82,7 +115,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Level Up | 18 | Delcatty Itia |
+        | Level Up | 18 | [Delcatty Itia](https://avventureaditia.github.io/itia-wiki/pokemon/018-delcatty/) |
         
 
 
