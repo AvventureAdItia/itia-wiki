@@ -1,7 +1,21 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/057-uvanity/"> 057 - Uvanity <img src="../../img/icon/uvanity.png" style="vertical-align: middle;"></a>
+  <strong>058 - Mullitos</strong> 
+  <img src="../../img/icon/mullitos.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/059-nuraghimin/"> 059 - Nuraghimin <img src="../../img/icon/nuraghimin.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/mullitos.png" width="100"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+    <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Minatore</p>
+        </div>
+      </div>
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
@@ -24,6 +38,32 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Appena nati, i Mullitos vanno alla ricerca di una pietra da usare come mezzo di trasporto e un'altra da utilizzare come arma. <br />
+    Accumulano elettricità correndo sulla propria roccia personale, che viene indirizzata soprattutto alle guance. <br />
+    Se si sentono in pericolo o avvertono la presenza di un predatore, sbattono la piccola pietra che tengono con la coda sull'altra pietra più grossa che, contenendo anch'essa energia elettrica, produce suoni simili a dei tuoni che spaventano i nemici. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=wc_j9yS_Pck&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=9).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Mullitos e della sua catena evolutiva sono:
+    
+    - **Mustiolo**;
+    - **Su carr'e Nannai**;
+    - **Nuraghe**.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Mullitos e la sua catena evolutiva è **Marco**.
+
 
 ## Base Stats
 <table style="width: 100%">
@@ -82,7 +122,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Other | 3000 passi | Nuraghimin |
+        | Other | 3000 passi | [Nuraghimin](https://avventureaditia.github.io/itia-wiki/pokemon/059-nuraghimin/) |
         
 
 

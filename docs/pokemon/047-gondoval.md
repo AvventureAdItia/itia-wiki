@@ -1,3 +1,11 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/046-rhinostris/"> 046 - Rhinostris <img src="../../img/icon/rhinostris.png" style="vertical-align: middle;"></a>
+  <strong>047 - Gondoval</strong> 
+  <img src="../../img/icon/gondoval.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/048-cryptidile/"> 048 - Cryptidile <img src="../../img/icon/cryptidile.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/gondoval.png" width="100"/>
 

@@ -1,3 +1,17 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ 
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/037-flocywerth/">037 - Flocywerth
+    <img src="../../img/icon/flocywerth.png" style="vertical-align: middle;">
+  </a>
+  <strong>038 - Stakiles</strong> 
+  <img src="../../img/icon/stakiles.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/039-vesteam/">039 - Vesteam
+    <img src="../../img/icon/vesteam.png" style="vertical-align: middle;">
+  </a>
+  ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/stakiles.png" width="100"/>
 
@@ -116,7 +130,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Other | Level Up mentre conosce Incendio | [Vesteam](https://avventureaditia.github.io/itia-wiki/pokemon/038-vesteam/) |
+        | Other | Level Up mentre conosce Incendio | [Vesteam](https://avventureaditia.github.io/itia-wiki/pokemon/039-vesteam/) |
         
 
 

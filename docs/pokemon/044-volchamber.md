@@ -1,3 +1,10 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/043-heatdoubt/"> 043 - Heatdoubt <img src="../../img/icon/heatdoubt.png" style="vertical-align: middle;"></a>
+  <strong>044 - Volchamber</strong> 
+  <img src="../../img/icon/volchamber.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/045-rhinocola/"> 045 - Rhinocola <img src="../../img/icon/rhinocola.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/volchamber.png" width="100"/>
 

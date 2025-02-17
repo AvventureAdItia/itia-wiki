@@ -1,7 +1,21 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/073-bagle/"> 073 - Bagle <img src="../../img/icon/bagle.png" style="vertical-align: middle;"></a>
+  <strong>074 - Shielgle</strong> 
+  <img src="../../img/icon/shielgle.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/075-glemence/"> 075 - Glemence <img src="../../img/icon/glemence.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/shielgle.png" width="100"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+    <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Piumato</p>
+        </div>
+      </div>
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
@@ -24,6 +38,31 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Con l'evoluzione le piume ricoprono quasi totalmente il corpo del Pokémon, in attesa che gli crescano delle possenti ali per poter finalmente coronare il proprio sogno. <br />
+    Il piumaggio è in grado di assorbire la maggior parte dei colpi che riceve per poi contrattaccare con violenti beccate. <br />
+    Proprio questo becco ora è diventato ancora più duro, tanto che le pietre sono diventate parte integrante della sua alimentazione. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=ZWUXvXQhTOk&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=11).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Bagle e della sua catena evolutiva sono:
+    
+    - **Aquila reale**;
+    - **Leggenda dell’aquila di pietra**.
+
+=== "Vincitore del contest"
+    ### Vincitori
+
+    I Vincitori di Itia che hanno dato origine a Bagle e la sua catena evolutiva sono **Diegox** e **Riccardo**.
+
 
 ## Base Stats
 <table style="width: 100%">
@@ -82,7 +121,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Level Up | 50 | Glemence |
+        | Level Up | 50 | [Glemence](https://avventureaditia.github.io/itia-wiki/pokemon/075-glemence/) |
         
 
 

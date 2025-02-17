@@ -1,7 +1,21 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/064-rotom-squillo/"> 064 - Rotom-squillo <img src="../../img/icon/rotom-squillo.png" style="vertical-align: middle;"></a>
+  <strong>065 - Gladeon</strong> 
+  <img src="../../img/icon/gladeon.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/066-vipeon/"> 066 - Vipeon <img src="../../img/icon/vipeon.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/gladeon.png" width="100"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+    <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Armatura</p>
+        </div>
+      </div>
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
@@ -24,6 +38,33 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    I Gladeon sono conosciuti nella regione di Itia sin dall'antichità. <br />
+    Essi, infatti, venivano utilizzati negli scontri bellici per via della loro enorme forza fisica e della loro innata capacità di combattimento. <br />
+    Sono fedele ai propri allenatori che proteggono, anche a costo della loro stessa vita, la Corazza che circonda il loro corpo. <br />
+    È in grado di incassare numerosi colpi, tuttavia, dopo una certa quantità di danni, i pezzi si staccano ricrescendo poi col tempo. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=bfACZZY0q-w&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=10).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Gladeon sono:
+    
+    - **La Lupa della leggenda di Roma**;
+    - **I gladiatori**;
+    - **Canis Pugnac**.
+
+=== "Vincitore del contest"
+    ### Vincitori
+
+    I Vincitori di Itia che hanno dato origine a Gladeon sono **Carlo** e **Domenico**.
+
 
 ## Base Stats
 <table style="width: 100%">

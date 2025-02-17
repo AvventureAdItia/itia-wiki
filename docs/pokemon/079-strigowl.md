@@ -1,7 +1,21 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/078-pangher/"> 078 - Pangher <img src="../../img/icon/pangher.png" style="vertical-align: middle;"></a>
+  <strong>079 - Strigowl</strong> 
+  <img src="../../img/icon/strigowl.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/080-ozbell/"> 080 - Ozbell <img src="../../img/icon/ozbell.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/strigowl.png" width="100"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+    <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Strega</p>
+        </div>
+      </div>
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
@@ -24,6 +38,32 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Queste creature hanno l'abitudine di intrufolarsi nelle fattorie sparse per Ilia e portare scompiglio tra i suoi abitanti. <br />
+    Le sue prede preferite sono i Wooloo dei quali si ciba e i Ponyta, che spaventa per il puro gusto di vederli correre in giro, intreccia le piume delle sue ali e le impregna nel sangue delle sue vittime. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=2pTDhRxb7-0&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=13).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Strigowl sono:
+    
+    - **Strige**;
+    - **Barbagianni**;
+    - **Streghe**;
+    - **Janara**.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    I Vincitori di Itia che hanno dato origine a Strigowl sono **2DiPixel**, **Alex** e **Michael**.
+
 
 ## Base Stats
 <table style="width: 100%">

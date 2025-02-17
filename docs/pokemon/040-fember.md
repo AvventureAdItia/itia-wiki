@@ -1,3 +1,17 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ 
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/039-vesteam/">039 - Vesteam
+    <img src="../../img/icon/vesteam.png" style="vertical-align: middle;">
+  </a>
+  <strong>040 - Fember</strong> 
+  <img src="../../img/icon/fember.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/041-insolame/">041 - Insolame
+    <img src="../../img/icon/insolame.png" style="vertical-align: middle;">
+  </a>
+  ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/fember.png" width="100"/>
 

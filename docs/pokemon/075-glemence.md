@@ -1,7 +1,21 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/074-shielgle/"> 074 - Shielgle <img src="../../img/icon/shielgle.png" style="vertical-align: middle;"></a>
+  <strong>075 - Glemence</strong> 
+  <img src="../../img/icon/glemence.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/076-ghostmare/"> 076 - Ghostmare <img src="../../img/icon/ghostmare.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/glemence.png" width="100"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+    <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Aliroccia</p>
+        </div>
+      </div>
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
@@ -24,6 +38,32 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Questo Pokémon è 20% forza, 80% rabbia. Rabbia provocata dalla sua evoluzione e dal non poter realizzare il proprio sogno di volare. <br />
+    Sono sì cresciute delle grosse ali sul suo corpo, ma sono composte da materiale roccioso e immagazzinato durante la sua vita. <br />
+    Di conseguenza è troppo pesante per poter volare, riesce solamente a compiere delle pramate più o meno lunghe a seconda dei casi. <br />
+    Corre ad alta velocità, sperando prima o poi di diventare così forte e veloce da spiccare il volo. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=ZWUXvXQhTOk&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=11).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Bagle e della sua catena evolutiva sono:
+    
+    - **Aquila reale**;
+    - **Leggenda dell’aquila di pietra**.
+
+=== "Vincitore del contest"
+    ### Vincitori
+
+    I Vincitori di Itia che hanno dato origine a Bagle e la sua catena evolutiva sono **Diegox** e **Riccardo**.
+
 
 ## Base Stats
 <table style="width: 100%">

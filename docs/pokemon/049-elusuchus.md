@@ -1,3 +1,11 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/048-cryptidile/"> 048 - Cryptidile <img src="../../img/icon/cryptidile.png" style="vertical-align: middle;"></a>
+  <strong>049 - Elusuchus</strong> 
+  <img src="../../img/icon/elusuchus.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/050-teetitan/"> 050 - Teetitan <img src="../../img/icon/teetitan.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/elusuchus.png" width="100"/>
 

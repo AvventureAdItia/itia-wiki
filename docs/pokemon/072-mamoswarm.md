@@ -1,7 +1,21 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/071-piloswarm/"> 071 - Piloswarm <img src="../../img/icon/piloswarm.png" style="vertical-align: middle;"></a>
+  <strong>072 - Mamoswarm</strong> 
+  <img src="../../img/icon/mamoswarm.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/073-bagle/"> 073 - Bagle <img src="../../img/icon/bagle.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/mamoswarm.png" width="100"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+    <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Pachivespa</p>
+        </div>
+      </div>
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
@@ -24,6 +38,31 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Questi antichi giganti abitavano in massa nella ragione di Itia, ma a causa di diversi cambiamenti climatici il loro numero si è drasticamente ridotto. <br />
+    Con uno stile di vita pressoché solitario, possono abbattere un albero con un solo schiocco delle grosse tenaglie. <br />
+    Possono parassitare altri Pokémon attraverso il loro pericoloso pungiglione e portare i cadaveri sul dorso come scorta di cibo per loro e per i piccoli Swarmub. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=ZWUXvXQhTOk&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=11).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Swarmub e della sua catena evolutiva sono:
+    
+    - **Vespa mammut**;
+    - **Mammuthus meridionalis**.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Swarmub e la sua catena evolutiva è **Federico**.
+
 
 ## Base Stats
 <table style="width: 100%">

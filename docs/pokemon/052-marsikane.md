@@ -1,7 +1,21 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/051-muskuma/"> 051 - Muskuma <img src="../../img/icon/muskuma.png" style="vertical-align: middle;"></a>
+  <strong>052 - Marsikane</strong> 
+  <img src="../../img/icon/marsikane.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/053-staly/"> 053 - Staly <img src="../../img/icon/staly.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/marsikane.png" width="100"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+    <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Orso</p>
+        </div>
+      </div>
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
@@ -24,6 +38,35 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Questo Pokémon antico protegge le foreste da tempo immemore e purifica l'aria intorno a se rilasciando vapori profumati dal suo dorso. <br />
+    La folta pelliccia lo protegge dal freddo e funge da riparo sia per i suoi cuccioli che per i piccoli Pokémon alla ricerca di aiuto, quest'ultimi in cambio lo aiutano nella caccia e la ricerca di cibo. <br />
+    E' in grado di irrigidire il suo pelo, rendendolo simile agli aghi di pino. <br />
+
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=5O2NF9_ckdw&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=8).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Muskuma e della sua catena evolutiva sono:
+    
+    - **Orso bruno marsicano**;
+    - Leggenda del **bosco sacro di Angizia**;
+    - **Orsa della Vigolana**;
+    - **Salvan**.
+
+
+=== "Vincitore del contest"
+    ### Vincitori
+
+    I Vincitori di Itia che hanno dato origine a Muskuma e la sua catena evolutiva sono **Manuela** e **Matteo**.
+
 
 ## Base Stats
 <table style="width: 100%">

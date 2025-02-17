@@ -1,7 +1,21 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/061-galvtoadur/"> 061 - Galvtoadur <img src="../../img/icon/galvtoadur.png" style="vertical-align: middle;"></a>
+  <strong>062 - Sparkynx</strong> 
+  <img src="../../img/icon/sparkynx.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/063-lighynx/"> 063 - Lighynx <img src="../../img/icon/lighynx.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/sparkynx.png" width="100"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+    <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Lince</p>
+        </div>
+      </div>
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
@@ -24,6 +38,32 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Nelle zone di confine, tra le montagne e i centri abitati si possono trovare gli Sparkynx. <br />
+    Questo Pokémon è timido e difficilmente si può incontrare in natura. <br />
+    Tramite i ciuffi di pelo sulle orecchie, Sparkynx riesce a catturare le particelle elettriche presenti nell'aria a seconda dell'orecchio. <br />
+    Tramite l'orecchio sinistro cattura le particelle positive e con il destro quelle negative. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=wc_j9yS_Pck&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=9).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Sparkynx e della sua catena evolutiva sono:
+    
+    - **Alessandro Volta e la Pila**;
+    - **Lince**.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Sparkynx e la sua catena evolutiva è **GODZILLA**.
+
 
 ## Base Stats
 <table style="width: 100%">
@@ -82,7 +122,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Level Up | 34 | Lighynx |
+        | Level Up | 34 | [Lighynx](https://avventureaditia.github.io/itia-wiki/pokemon/063-lighynx/) |
         
 
 

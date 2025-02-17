@@ -1,7 +1,21 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/060-frogtry/"> 060 - Frogtry <img src="../../img/icon/frogtry.png" style="vertical-align: middle;"></a>
+  <strong>061 - Galvtoadur</strong> 
+  <img src="../../img/icon/galvtoadur.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/062-sparkynx/"> 062 - Sparkynx <img src="../../img/icon/sparkynx.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/galvtoadur.png" width="100"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+    <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Rospelettro</p>
+        </div>
+      </div>
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
@@ -24,6 +38,30 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    L'elettricità che ha in corpo potenzia i colpi che sferra, consentendogli di sferrare attacchi corpo a corpo ad estrema rapidità. <br />
+    Nonostante l'apparenza, la sua vera forza risiede nelle zampe inferiori, nelle quali scorre perennemente l'elettricità prodotta dai pattern sul corpo che circondano tutti e quattro gli arti. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=wc_j9yS_Pck&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=9).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Frogtry e della sua catena evolutiva sono:
+    
+    - **Esperimenti di Luigi Galvani e Galvanometro**;
+    - **Rana italica**.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Frogtry e la sua catena evolutiva è **Andrea**.
+
 
 ## Base Stats
 <table style="width: 100%">

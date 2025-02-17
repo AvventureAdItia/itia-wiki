@@ -1,7 +1,21 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/066-vipeon/"> 066 - Vipeon <img src="../../img/icon/vipeon.png" style="vertical-align: middle;"></a>
+  <strong>067 - Baundeon</strong> 
+  <img src="../../img/icon/baundeon.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/068-eelandit/"> 068 - Eelandit <img src="../../img/icon/eelandit.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/baundeon.png" width="100"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+    <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Rimorso</p>
+        </div>
+      </div>
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
@@ -24,6 +38,30 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Si dice si sia evoluto da un ivi, abbandonato dal suo allenatore e lasciata a morire di stenti, legandolo nel bel mezzo di un bosco. <br />
+    Grazie al particolare collo trasparente, la testa del Pokémon sembra staccata dal resto del corpo, ciò permette di allontanare il suo nemico naturale, Tendephant, del quale Baundeon è terrorizzato. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=bfACZZY0q-w&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=10).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Baundeon sono:
+    
+    - **Leggenda del castello di Strozzavolpe**;
+    - **Leggenda di Aci e Galatea**.
+
+=== "Vincitore del contest"
+    ### Vincitori
+
+    I Vincitori di Itia che hanno dato origine a Baundeon sono **Davide** e **Valentina**.
+
 
 ## Base Stats
 <table style="width: 100%">

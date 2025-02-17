@@ -1,7 +1,27 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/062-sparkynx/"> 062 - Sparkynx <img src="../../img/icon/sparkynx.png" style="vertical-align: middle;"></a>
+  <strong>063 - Lighynx</strong> 
+  <img src="../../img/icon/lighynx.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/064-rotom-squillo/"> 064 - Rotom-squillo <img src="../../img/icon/rotom-squillo.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/lighynx.png" width="100"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+    <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Lince</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Lince</p>
+        </div>
+      </div>
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
@@ -24,6 +44,31 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    A differenza degli Sparkynx, molto affettuosi, i Lighynx preferiscono stare alla larga dai centri abitati dagli umani, forse consapevoli della loro enorme potenza in grado di causare blackout in tutte le zone circostanti. <br />
+    Proprio per questa loro capacità hanno acquisito il tipo buio, poiché riescono anche a vedere perfettamente senza la luce. <br />
+    L'elettricità che producono viene conservata nei lunghi peli del collo che danno la scossa quando toccati. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=wc_j9yS_Pck&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=9).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Sparkynx e della sua catena evolutiva sono:
+    
+    - **Alessandro Volta e la Pila**;
+    - **Lince**.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Sparkynx e la sua catena evolutiva è **GODZILLA**.
+
 
 ## Base Stats
 <table style="width: 100%">

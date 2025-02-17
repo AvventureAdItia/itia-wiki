@@ -1,7 +1,21 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/054-rupedola/"> 054 - Rupedola <img src="../../img/icon/rupedola.png" style="vertical-align: middle;"></a>
+  <strong>055 - Camuninfa</strong> 
+  <img src="../../img/icon/camuninfa.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/056-voluva/"> 056 - Voluva <img src="../../img/icon/voluva.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/camuninfa.png" width="100"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+    <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Damaroccia</p>
+        </div>
+      </div>
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
@@ -24,6 +38,31 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Una volta raggiunta l’età adulta il Pokémon utilizza la roccia non solo per difesa, ma anche per abbellire il proprio corpo. <br />
+    Sono Pokémon molto venerati in antiche civiltà di Itia in quanto i loro poteri possono far crescere i raccolti e proteggere umani e pokémon dagli altri di tipo ghiaccio e volante, ma sono anche temuti in quanto possono causare frane e terremoti se qualcuno non rispetta questi Pokémon o la natura. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=5O2NF9_ckdw&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=8).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Staly e della sua catena evolutiva sono:
+    
+    - **Stella Alpina**;
+    - **La Rosa Camuna**;
+    - **Sibilla e le sue fate**.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Staly e la sua catena evolutiva è **Andrea**.
+
 
 ## Base Stats
 <table style="width: 100%">

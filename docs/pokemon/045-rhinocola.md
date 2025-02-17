@@ -1,3 +1,11 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/044-volchamber/"> 044 - Volchamber <img src="../../img/icon/volchamber.png" style="vertical-align: middle;"></a>
+  <strong>045 - Rhinocola</strong> 
+  <img src="../../img/icon/rhinocola.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/046-rhinostris/"> 046 - Rhinostris <img src="../../img/icon/rhinostris.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/rhinocola.png" width="100"/>
 

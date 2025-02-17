@@ -1,7 +1,27 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/077-panpup/"> 077 - Panpup <img src="../../img/icon/panpup.png" style="vertical-align: middle;"></a>
+  <strong>078 - Pangher</strong> 
+  <img src="../../img/icon/pangher.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/079-strigowl/"> 079 - Strigowl <img src="../../img/icon/strigowl.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/pangher.png" width="100"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+    <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Selvaggio</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Selvaggio</p>
+        </div>
+      </div>
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
@@ -24,6 +44,32 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Questo Pokémon è uno dei più abili nella lotta corpo a corpo e solo i Gladeon più abili possono tenergli testa poiché nemici naturali sin dai tempi antichi. <br />
+    I pezzi di armatura presenti sul suo corpo non sono altro che il risultato di questi continui scontri tra specie, nei quali Pangher utilizza i pezzi caduti dal corpo dei Gladeon per aumentare la propria potenza. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=2pTDhRxb7-0&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=13).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Panpup e della sua catena evolutiva sono:
+    
+    - **Gladiatori**;
+    - **Parte mancate del design di Gladeon**;
+    - **Venationes**;
+    - **Pantere**.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Panpup e la sua catena evolutiva è **Ale**.
+
 
 ## Base Stats
 <table style="width: 100%">

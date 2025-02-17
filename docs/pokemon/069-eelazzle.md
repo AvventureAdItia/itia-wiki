@@ -1,7 +1,21 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/068-eelandit/"> 068 - Eelandit <img src="../../img/icon/eelandit.png" style="vertical-align: middle;"></a>
+  <strong>069 - Eelazzle</strong> 
+  <img src="../../img/icon/eelazzle.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/070-swarmub/"> 070 - Swarmub <img src="../../img/icon/swarmub.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/eelazzle.png" width="100"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+    <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Anguilla</p>
+        </div>
+      </div>
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
@@ -24,6 +38,33 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Questo Pokémon incanta gli altri mostriciattoli con la sua voce e li attira nella sua tana per poi mangiarli. <br />
+    Il suo verso ha le capacità di ipnotizzare chiunque lo ascolti, sia persone che Pokémon. Infatti, molto spesso si sente di gente caduta in mare per andare alla ricerca di bellissime creature simili a sirene. <br />
+    Difficilmente si fanno vedere, contribuendo a creare un alone di mistero attorno alla loro esistenza. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=ZWUXvXQhTOk&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=11).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Eelandit e della sua catena evolutiva sono:
+    
+    - **Anguille**;
+    - **Murena helena**;
+    - **Sirena Miti**.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Eelandit e la sua catena evolutiva è **Federico**.
+
+
 
 ## Base Stats
 <table style="width: 100%">

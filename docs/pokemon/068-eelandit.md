@@ -1,7 +1,21 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/067-baundeon/"> 067 - Baundeon <img src="../../img/icon/baundeon.png" style="vertical-align: middle;"></a>
+  <strong>068 - Eelandit</strong> 
+  <img src="../../img/icon/eelandit.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/069-eelazzle/"> 069 - Eelazzle <img src="../../img/icon/eelazzle.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/eelandit.png" width="100"/>
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+    <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Anguilla</p>
+        </div>
+      </div>
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
@@ -24,6 +38,32 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Questo Pokémon può sembrare un Salandit, ma è una specie completamente diversa che si è adattata al clima di Itia e si è evoluta per vivere nel bellissimo mare della regione. <br />
+    Resta quasi sempre nei fondali, ma sale in superficie per mandare piccoli Rhinocola avvolgendoli nelle sue spire. <br />
+    I motivi sul suo corpo si illuminano al buio, attirando le prede. Le piccole pinne sul collo gli permettono di cambiare facilmente direzione durante il nuoto. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=ZWUXvXQhTOk&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=11).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Eelandit e della sua catena evolutiva sono:
+    
+    - **Anguille**;
+    - **Murena helena**;
+    - **Sirena Miti**.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Eelandit e la sua catena evolutiva è **Federico**.
+
 
 ## Base Stats
 <table style="width: 100%">
@@ -82,7 +122,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Level Up | 33 | Eelazzle |
+        | Level Up | 33 | [Eelazzle](https://avventureaditia.github.io/itia-wiki/pokemon/069-eelazzle/) |
         
 
 
