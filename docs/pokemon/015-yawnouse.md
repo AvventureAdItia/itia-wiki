@@ -1,3 +1,17 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ 
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/014-albeste/">014 - Albeste
+    <img src="../../img/icon/albeste.png" style="vertical-align: middle;">
+  </a>
+  <strong>015 - Yawnouse</strong> 
+  <img src="../../img/icon/yawnouse.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/016-mousleep/">016 - Mousleep
+    <img src="../../img/icon/mousleep.png" style="vertical-align: middle;">
+  </a>
+  ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/yawnouse.png" width="100"/>
 

@@ -1,3 +1,17 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ 
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/021-spiboarth/">021 - Spiboarth
+    <img src="../../img/icon/spiboarth.png" style="vertical-align: middle;">
+  </a>
+  <strong>022 - Phantump di Itia</strong> 
+  <img src="../../img/icon/phantump-itia.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/023-dumsnot/">023 - Dumsnot
+    <img src="../../img/icon/dumsnot.png" style="vertical-align: middle;">
+  </a>
+  ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/phantump-itia.png" width="100"/>
 

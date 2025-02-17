@@ -1,3 +1,26 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  <strong>001 - Timolino</strong> 
+  <img src="../../img/icon/timolino.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/002-thymad/">002 - Thymad
+    <img src="../../img/icon/thymad.png" style="vertical-align: middle;">
+  </a>
+  ➡️
+</div>
+
+
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ 
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/025-nixiro/">025 - Nixiro
+    <img src="../../img/icon/nixiro.png" style="vertical-align: middle;">
+  </a>
+  <strong>026 - Scipirock</strong> 
+  <img src="../../img/icon/scipirock.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/027-mystrauk/">027 - Mystrauk
+    <img src="../../img/icon/mystrauk.png" style="vertical-align: middle;">
+  </a>
+  ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/timolino.png" width="200"/>
 

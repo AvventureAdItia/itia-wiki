@@ -1,3 +1,16 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ 
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/024-indrygard/">024 - Indrygard
+    <img src="../../img/icon/indrygard.png" style="vertical-align: middle;">
+  </a>
+  <strong>025 - Nixiro</strong> 
+  <img src="../../img/icon/nixiro.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/026-scipirock/">026 - Scipirock
+    <img src="../../img/icon/scipirock.png" style="vertical-align: middle;">
+  </a>
+  ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/nixiro.png" width="100"/>
 

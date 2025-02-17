@@ -1,12 +1,12 @@
 <div style="text-align: center; margin-bottom: 20px;">
   ⬅️ 
   <a href="https://avventureaditia.github.io/itia-wiki/pokemon/030-easplosion/">030 - Easplosion
-    <img src="../../img/icon/easplosion.png" width="50" style="vertical-align: middle;">
+    <img src="../../img/icon/easplosion.png" style="vertical-align: middle;">
   </a>
   <strong>031 - Fromses</strong> 
-  <img src="../../img/icon/fromses.png" width="50" style="vertical-align: middle;">
+  <img src="../../img/icon/fromses.png" style="vertical-align: middle;">
   <a href="https://avventureaditia.github.io/itia-wiki/pokemon/033-glaspirit/">032 - Glaspirit
-    <img src="../../img/icon/glaspirit.png" width="50" style="vertical-align: middle;">
+    <img src="../../img/icon/glaspirit.png" style="vertical-align: middle;">
   </a>
   ➡️
 </div>

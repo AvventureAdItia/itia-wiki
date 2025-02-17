@@ -1,3 +1,17 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ 
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/007-badaliz/">007 - Badaliz
+    <img src="../../img/icon/badaliz.png" style="vertical-align: middle;">
+  </a>
+  <strong>008 - Propellisk</strong> 
+  <img src="../../img/icon/propellisk.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/009-badalinci/">009 - Badalinci
+    <img src="../../img/icon/badalinci.png" style="vertical-align: middle;">
+  </a>
+  ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/propellisk.png" width="110"/>
 

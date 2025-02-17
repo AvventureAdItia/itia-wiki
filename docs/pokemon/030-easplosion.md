@@ -1,3 +1,16 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ 
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/029-tendephant/">029 - Tendephant
+    <img src="../../img/icon/tendephant.png" style="vertical-align: middle;">
+  </a>
+  <strong>030 - Easplosion</strong> 
+  <img src="../../img/icon/easplosion.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/031-fromses/">031 - Fromses
+    <img src="../../img/icon/fromses.png" style="vertical-align: middle;">
+  </a>
+  ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/easplosion.png" width="100"/>
 

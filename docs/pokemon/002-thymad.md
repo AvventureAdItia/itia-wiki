@@ -1,3 +1,17 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ 
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/001-timolino/">001 - Timolino
+    <img src="../../img/icon/timolino.png" style="vertical-align: middle;">
+  </a>
+  <strong>002 - Thymad</strong> 
+  <img src="../../img/icon/thymad.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/003-thybrave/">003 - Thybrave
+    <img src="../../img/icon/thybrave.png" style="vertical-align: middle;">
+  </a>
+  ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/thymad.png" width="200"/>
 

@@ -1,3 +1,16 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ 
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/022-phantump-itia/">022 - Phantump di Itia
+    <img src="../../img/icon/phantump-itia.png" style="vertical-align: middle;">
+  </a>
+  <strong>023 - Dumsnot</strong> 
+  <img src="../../img/icon/dumsnot.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/024-indrygard/">024 - Indrygard
+    <img src="../../img/icon/indrygard.png" style="vertical-align: middle;">
+  </a>
+  ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/dumsnot.png" width="100"/>
 

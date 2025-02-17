@@ -1,3 +1,17 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ 
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/016-mousleep/">016 - Mousleep
+    <img src="../../img/icon/mousleep.png" style="vertical-align: middle;">
+  </a>
+  <strong>017 - Skitty di Itia</strong> 
+  <img src="../../img/icon/skitty-itia.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/018-delcatty-itia/">018 - Delcatty di Itia
+    <img src="../../img/icon/delcatty-itia.png" style="vertical-align: middle;">
+  </a>
+  ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/skitty-itia.png" width="100"/>
 

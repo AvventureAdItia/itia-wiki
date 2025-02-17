@@ -1,3 +1,17 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ 
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/012-phegea/">012 - Phegea
+    <img src="../../img/icon/phegea.png" style="vertical-align: middle;">
+  </a>
+  <strong>013 - Azuerla</strong> 
+  <img src="../../img/icon/azuerla.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/014-albeste/">014 - Albeste
+    <img src="../../img/icon/albeste.png" style="vertical-align: middle;">
+  </a>
+  ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/azuerla.png" width="100"/>
 

@@ -1,3 +1,17 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ 
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/015-yawnouse/">015 - Yawnouse
+    <img src="../../img/icon/yawnouse.png" style="vertical-align: middle;">
+  </a>
+  <strong>016 - Mousleep</strong> 
+  <img src="../../img/icon/mousleep.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/017-skitty-itia/">017 - Skitty di Itia
+    <img src="../../img/icon/skitty-itia.png" style="vertical-align: middle;">
+  </a>
+  ➡️
+</div>
+
+
 ## Aspetto
 
 === "Forma Base"

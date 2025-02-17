@@ -1,3 +1,17 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ 
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/017-skitty-itia/">017 - Skitty di Itia
+    <img src="../../img/icon/skitty-itia.png" style="vertical-align: middle;">
+  </a>
+  <strong>018 - Delcatty di Itia</strong> 
+  <img src="../../img/icon/delcatty-itia.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/019-dresscatty/">019 - Dresscatty
+    <img src="../../img/icon/dresscatty.png" style="vertical-align: middle;">
+  </a>
+  ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/delcatty-itia.png" width="100"/>
 

@@ -1,3 +1,17 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ 
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/009-badalinci/">009 - Badalinci
+    <img src="../../img/icon/badalinci.png" style="vertical-align: middle;">
+  </a>
+  <strong>010 - Amath</strong> 
+  <img src="../../img/icon/amath.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/011-pecuru/">011 - Pecuru
+    <img src="../../img/icon/pecuru.png" style="vertical-align: middle;">
+  </a>
+  ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/amath.png" width="100"/>
 

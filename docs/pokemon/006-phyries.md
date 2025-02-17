@@ -1,3 +1,17 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ 
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/005-yulot/">005 - Yulot
+    <img src="../../img/icon/yulot.png" style="vertical-align: middle;">
+  </a>
+  <strong>006 - Phyries</strong> 
+  <img src="../../img/icon/phyries.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/007-badaliz/">007 - Badaliz
+    <img src="../../img/icon/badaliz.png" style="vertical-align: middle;">
+  </a>
+  ➡️
+</div>
+
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/phyries.png" width="200"/>
 

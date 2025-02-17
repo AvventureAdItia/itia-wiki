@@ -1,3 +1,16 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ 
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/027-mystrauk/">027 - Mystrauk
+    <img src="../../img/icon/mystrauk.png" style="vertical-align: middle;">
+  </a>
+  <strong>028 - Poliphant</strong> 
+  <img src="../../img/icon/poliphant.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/029-tendephant/">029 - Tendephant
+    <img src="../../img/icon/tendephant.png" style="vertical-align: middle;">
+  </a>
+  ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/poliphant.png" width="100"/>
 
@@ -113,7 +126,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Level Up | 34 | [Tendephant](https://avventureaditia.github.io/itia-wiki/pokemon/028-tendephant/) |
+        | Level Up | 34 | [Tendephant](https://avventureaditia.github.io/itia-wiki/pokemon/029-tendephant/) |
         
 
 

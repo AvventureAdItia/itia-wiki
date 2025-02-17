@@ -1,3 +1,17 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ 
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/013-azuerla/">013 - Azuerla
+    <img src="../../img/icon/azuerla.png" style="vertical-align: middle;">
+  </a>
+  <strong>014 - Albeste</strong> 
+  <img src="../../img/icon/albeste.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/015-yawnouse/">015 - Yawnouse
+    <img src="../../img/icon/yawnouse.png" style="vertical-align: middle;">
+  </a>
+  ➡️
+</div>
+
+
 ## Aspetto
 
 === "Forma Base"
