@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Traghetto</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/water.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,30 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    I Gondoval vivono particolarmente in zone lagunari vicino ai centri abitati, preferiscono viaggare in solitudine, ma sono attirati da grandi concentrazioni di persone durante le festività. <br />
+    Si dice che siano in grando proprio loro in grando di traghettare le anime meritevoli all'altro mondo e che siano in grado di far rivedere i propri cari a chi lo desidera per poco tempo se si gettano due monote d'oro nelle acque in cui navigano. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=cMEAadCg6y0&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=7).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Gondoval sono:
+    
+    - La città di **Venezia**, con i suoi canali e la **gondola**;
+    - Le maschere del carnevale Veneziano, in particolare la **Bauta**.
+
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Gondoval è **Federico**.
 
 ## Base Stats
 <table style="width: 100%">

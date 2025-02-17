@@ -19,7 +19,7 @@
       <img src="../../img/pokemon/flocywerth.png" width="100"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
-        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Categoria</p>
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
         <div class="attribute-value">
           <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Anguana</p>
         </div>
@@ -51,7 +51,7 @@
       <img src="../../img/pokemon/flocywerth-giorno.png" width="100"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
-        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Categoria</p>
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
         <div class="attribute-value">
           <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Anguana</p>
         </div>
@@ -96,7 +96,7 @@
     - **Sanguanel**: creature mostruose del folklore Veneto, rappresentati come piccoli folletti dalla pelle rossa e dalle orecchie a punta. Dall'animo buono ma capaci di essere pericolossisimi per via dei loro scherzi. Hanno anche la capacità di realizzare nodi difficilissimi da sciogliere;
     - **Radicchio rosso di Treviso**: in dialetto veneto detto anche "Spadon".
     - **Anguana**: dette anche "Donne fata";
-    - **Sirene**;
+    - **Sirene**.
 
 === "Vincitore del contest"
     ### Vincitore

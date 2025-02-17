@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Mimetico</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/water.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,32 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Quando si evolvono gli Elusuchus affinano le loro abilità nel nascondersi dagli uomini e utilizzano le foglie che hanno sul corpo per attirare le prede. <br />
+    Secondo degli studi, questi Pokémon sarebbero legati ad un'altra catena evolutiva, ma non si hanno abbastanza elementi per poterlo confermare. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=cMEAadCg6y0&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=7).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Cryptidile e della sua catena evolutiva sono:
+    
+    - **Leggenda degli uomini-coccodrillo**;
+    - Fossile del **Megadontosuchus arduini**: rinvenuto nei pressi di Verona, il nome significa "Coccodrillo dai denti enormi".
+
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Cryptidile e la sua catena evolutiva è **Federico**.
+
+
 
 ## Base Stats
 <table style="width: 100%">
@@ -82,7 +114,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Level Up | 38 | Teetitan |
+        | Level Up | 38 | [Teetitan](https://avventureaditia.github.io/itia-wiki/pokemon/050-teetitan/) |
         
 
 

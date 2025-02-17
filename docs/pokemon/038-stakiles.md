@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Barilfiamma</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/fire.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,34 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+    
+    Gli Stakiles vagano di notte in cerca di cibo e se non lo trovano per ripicca appicano dei piccoli incendi. <br />
+    Sembrano essere stati la causa di un grande incendio nell'antichità di Itia, che ancora oggi viene chiamato "La notte dei 100 Stakiles". <br />
+    Usano il barile come protezione e nessuno sa cosa si nasconde al loro interno. <br />
+    
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=tvs4fqO_V18&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=6).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Stakiles e della sua catena evolutiva sono:
+    
+    - **Incendio di Roma 64 D.C.**;
+    - **Circo Massimo**: Si tratta del luogo in cui è stato appiccato l'incendio sopra indicato. Nell'antica Roma veniva utilizzato come mercato, per questo la forma base si ispira ad un barile;
+    - **Tempio di Vesta**: tempio sacro presente a Roma, caratterizzato dalla presenza di un focolare, che secondo le antiche usanze non doveva mai spegnersi. Le sacerdotesse chiamate **Vestali** avevano il compito di tenere sempre accesa la fiamma e venivano punite con la morte.
+
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Stakiles e la sua catena evolutiva è **Luca**.
+
+
 
 ## Base Stats
 <table style="width: 100%">
@@ -82,7 +116,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Other | Level Up mentre conosce Incendio | Vesteam |
+        | Other | Level Up mentre conosce Incendio | [Vesteam](https://avventureaditia.github.io/itia-wiki/pokemon/038-vesteam/) |
         
 
 

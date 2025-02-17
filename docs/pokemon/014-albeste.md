@@ -20,7 +20,7 @@
       <img src="../../img/pokemon/albeste.png" width="100"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
-        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Categoria</p>
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
         <div class="attribute-value">
           <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Inverno</p>
         </div>
@@ -53,7 +53,7 @@
       <img src="../../img/pokemon/albeste-bagnata.png" width="100"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
-        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Categoria</p>
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
         <div class="attribute-value">
           <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Inverno</p>
         </div>

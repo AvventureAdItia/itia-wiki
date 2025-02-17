@@ -13,7 +13,7 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
-      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Categoria</p>
+      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
       <div class="attribute-value">
         <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Cucciolo</p>
       </div>
@@ -70,7 +70,7 @@
 === "Vincitore del contest"
     ### Vincitore
 
-    Il Vincitore di Itia che ha dato origine al Timolino è **Alvise**.
+    Il Vincitore di Itia che ha dato origine a Timolino è **Alvise**.
 
 ## Base Stats
 <table style="width: 100%">

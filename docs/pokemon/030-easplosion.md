@@ -16,6 +16,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+      <div class="attribute-value">
+        <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Catastrofe</p>
+      </div>
+    </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/ice.png' style='width: 77px; height: 26px;'/>
@@ -37,6 +43,31 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Sono Pokémon molto territoriali, la loro difesa e arma principale è la saliva infuocata, prodotta da delle ghiandole nella parte superiore della schiena. <br />
+
+    Per maggiori informazioni lo [short](https://www.youtube.com/shorts/ANGMspAXa7Q).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Easplosion sono:
+    
+    - **Eruzione di Pompei**;
+    - **Ramarro Orientale**;
+    - **Riscaldamento globale**;
+    - **Filmografia di Sergio Leone**.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Easplosion è **IlDaddo**.
+
 
 ## Base Stats
 <table style="width: 100%">

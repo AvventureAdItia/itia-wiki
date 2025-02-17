@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Acquacorno</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/water.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,32 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    I Rhinostris sono noti per la loro forza, infatti passano la loro vita a tenere una colonna che usano come arma. <br />
+    Le leggende narrano che se un Rhinostris dovesse farla cadere, Itia verrebbe colpita da un tremendo terremoto. <br />
+    Una volta trovata una colonna da portare il Pokémon non se ne separerà mai per tutta la vita. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=cMEAadCg6y0&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=7).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Rhinocola e della sua catena evolutiva sono:
+    
+    - **Leggenda di Colapesce**;
+    - **Rinoceronte marino**.
+
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Rhinocola e la sua catena evolutiva è **Fabio**.
+
 
 ## Base Stats
 <table style="width: 100%">
