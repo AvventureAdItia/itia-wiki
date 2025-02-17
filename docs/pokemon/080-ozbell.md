@@ -183,7 +183,7 @@
           <th style="color: #737373;">Defense</th>
           <td style="border-top: none; width: 70px">130</td>
           <td style="width: 100%; min-width: 450px; border-top: none;">
-            <div style="width: 50%;" class="ranking-bar rank-6">
+            <div style="width: 50%;" class="ranking-bar rank-5">
             </div>
           </td>
         </tr>
@@ -199,7 +199,7 @@
           <th style="color: #737373;">SP Defense</th>
           <td style="border-top: none; width: 70px">135</td>
           <td style="width: 100%; min-width: 450px; border-top: none;">
-            <div style="width: 52%;" class="ranking-bar rank-6">
+            <div style="width: 52%;" class="ranking-bar rank-5">
             </div>
           </td>
         </tr>

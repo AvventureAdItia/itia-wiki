@@ -11,12 +11,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
-      <div class="pokemon-attribute">
         <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
         <div class="attribute-value">
           <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Grappolo</p>
         </div>
       </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/grass.png' style='width: 77px; height: 26px;'/>
