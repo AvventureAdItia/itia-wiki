@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Conquista</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/fighting.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,35 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Grazie alle due tavole di bronzo che ha sulle braccia, riesce ad incassare i colpi subiti e mandare KO gli avversari, anche con l'aiuto dei suoi potenti arti superiori. <br />
+    Proprio sulle tavole vi è inciso il sogno del suo allenatore come simbolo di fiducia; infatti, cercherà in tutti i modi di aiutare a realizzarlo a costo della sua vita. <br />
+    È uno dei pochi casi di evoluzione non possibile natura, dato che serve l'apporto di un essere umano. <br />
+    Esistono esemplari antichissimi che riportano leggi e regole. <br />
+
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=vR_sYMvrWEE&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=15).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Spiritress e della sua catena evolutiva sono:
+    
+    - **Lemures**;
+    - **Lemuria**;
+    - **Verba volant, Scripta Manent**;
+    - **Dodici tavole**.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Spiritress e la sua catena evolutiva è **Rikky**.
+
 
 ## Base Stats
 <table style="width: 100%">

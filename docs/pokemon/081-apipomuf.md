@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Pipa</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/ghost.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,32 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    C'è chi racconta che la prima pipa, impossessata da questo spettro fu quella di un uomo che provocò con essa un grosso incendio nella sua abitazione, causando la morte del suo unico amato figlio. <br />
+    Lo spirito del bambino avrebbe poi infestato l'oggetto ritornando sotto forma di fumo. <br />
+    Questo Pokémon cerca continuamente ingenui che usino la pipa dove dimora, così da controllarli mentalmente con i suoi miasmi velenosi. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=QK6mqPaHbxE&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=13).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Apipomuf sono:
+    
+    - **Sandro Pertini**;
+    - **Il fumo uccide**, scritta riportata sui pacchetti di sigarette.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che hanno dato origine a Apipomuf è **Chiara**.
+
+
 
 ## Base Stats
 <table style="width: 100%">

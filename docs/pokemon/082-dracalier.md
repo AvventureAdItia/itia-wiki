@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Centauro</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/ghost.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,32 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    La notte è il regno dei Dracalier gruppi di questi Pokémon si riuniscono vagando all'infinito alla ricerca di una guida per il loro numeroso esercito. <br />
+    Corrono a velocità incredibili, ma, nonostante ciò, non producono nessun rumore per via dell'assenza delle gambe e degli zoccoli. <br />
+    Il manto che li ricopre può essere modellato a loro piacimento, trasformandosi in armi da taglio pericolosissime e letali. <br />
+    Si dice che solo un Relicor possa affermare la loro avanzata. <br />
+
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=QK6mqPaHbxE&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=13).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Dracalier, Gravient e la sua catena evolutiva sono:
+    
+    - **Pria Morta**.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Dracalier, Gravient e la sua catena evolutiva è **Martina**.
+
 
 ## Base Stats
 <table style="width: 100%">

@@ -60,7 +60,7 @@
     - **Janara**.
 
 === "Vincitore del contest"
-    ### Vincitore
+    ### Vincitori
 
     I Vincitori di Itia che hanno dato origine a Strigowl sono **2DiPixel**, **Alex** e **Michael**.
 

@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Desiderio</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/fighting.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,34 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Si dice sia nato dalla volontà degli antichi abitanti di Itia nel voler avere stessi diritti dei potenti. <br />
+    Si intrufola nelle case dei ricchi per dargli fastidio con la sua coda simile ad una nube che cancella addirittura le parole dai libri. <br />
+    E’così agile in aria da dare quasi l'impressione di volare. <br />
+
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=vR_sYMvrWEE&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=15).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Spiritress e della sua catena evolutiva sono:
+    
+    - **Lemures**;
+    - **Lemuria**;
+    - **Verba volant, Scripta Manent**;
+    - **Dodici tavole**.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Spiritress e la sua catena evolutiva è **Rikky**.
+
 
 ## Base Stats
 <table style="width: 100%">
@@ -82,7 +116,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Other | Level Up con Tavole | Lemoraid |
+        | Other | Level Up con Tavole | [Lemoraid](https://avventureaditia.github.io/itia-wiki/pokemon/093-lemoraid/) |
         
 
 

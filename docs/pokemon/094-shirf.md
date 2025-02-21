@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Nano</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/fighting.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,34 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Questo Pokémon è molto timido e non ama farsi vedere dagli esseri umani, e odia che il suo corpo si sporchi. <br />
+    Di notte vaga tranquillamente nelle foreste, ma di giorno è sempre allerta e nel caso ha visti da lontano, qualcuno si immobilizza di colpo, sembrando una statua d'oro. <br />
+    Tuttavia, è una tecnica poco efficace, poiché gli umani cercano di raccoglierla pensandosi un oggetto di valore. <br />
+    Questo potere deriva dalla palla d'oro che tiene tra le mani sin dalla nascita. <br />
+
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=vR_sYMvrWEE&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=15).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Shirf e della sua catena evolutiva sono:
+    
+    - **Lago delle Fate**;
+    - **Fate friuliane**;
+    - **Giacometta**.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Shirf e la sua catena evolutiva è **Marco Zeppeli**.
+
 
 ## Base Stats
 <table style="width: 100%">
@@ -82,7 +116,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Other | Utilizza 15 volte la mossa Palleggio | Bouldwarf |
+        | Other | Utilizza 15 volte la mossa Palleggio | [Bouldwarf](https://avventureaditia.github.io/itia-wiki/pokemon/095-bouldwarf/) |
         
 
 

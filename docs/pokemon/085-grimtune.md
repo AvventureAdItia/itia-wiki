@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Tetranota</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/bug.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,32 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Questo Pokémon nasce da un Kricketune, il quale è stato emarginato dai suoi simili perché incapace di produrre suoni gradevoli e armoniosi. <br />
+    Dopo la morte, il suo spirito vendicativo si manifesta sotto forma di questa creatura che, tramite le sue inquietanti parodie, costringe chi in vita lo ha deriso, a ballare fino allo sfinimento al ritmo della sua musica. <br />
+    L'unico modo per fermare le danze è la musica di un altro Kricketune. <br />
+
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=QK6mqPaHbxE&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=13).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Grimtune sono:
+    
+    - **Fantasma del violinista di Scogna Sottana**;
+    - **Ragno violino**.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Grimtune è **TheWorld98**.
+
 
 ## Base Stats
 <table style="width: 100%">

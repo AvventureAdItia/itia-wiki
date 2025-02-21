@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Nano</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/fighting.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,33 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    L'evoluzione gli ha donato una grande forza distruttiva che adopera per andare alla ricerca di oro con il quale adornare il suo corpo e realizzare delle piccole palle dorate da regalare ai piccoli Shirf appena nati. <br />
+    Non ha più paura di sporcarsi; infatti, passa la maggior parte del suo tempo nelle grotte a scavare, accumulando grossi tesori e proteggendo i piccoli. <br />
+    Si diverte a giocare con gli umani, che tentano in tutti i modi di rubargli la palla che tiene in mano. <br />
+    Chi ci riesce diventa il suo allenatore. <br /> 
+
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=vR_sYMvrWEE&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=15).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Shirf e della sua catena evolutiva sono:
+    
+    - **Lago delle Fate**;
+    - **Fate friuliane**;
+    - **Giacometta**.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Shirf e la sua catena evolutiva è **Marco Zeppeli**.
 
 ## Base Stats
 <table style="width: 100%">

@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Sprint</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/fighting.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,33 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    I Palhorse sono dei piccoli cavalli molto amati nella regione di Itia, ma sono anche molto competitivi. <br /> 
+    In passato venivano usati per delle gare in alcune parti del territorio, per accaparrarsi terreni e guerre dove vi erano divisioni interne. <br /> 
+    Proprio per questo motivo esistono vari esemplari di questa specie, ognuna con un colore diverso, allevate nelle varie zone. <br /> 
+    Quelle di oggi sono i discendenti di quegli antichi Pokémon che ora vengono trattati con gentilezza. <br /> 
+
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=vR_sYMvrWEE&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=15).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Palhorse e della sua catena evolutiva sono:
+    
+    - Il **palio**.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Palhorse e la sua catena evolutiva è **TepigGabrix**.
+
+
 
 ## Base Stats
 <table style="width: 100%">
@@ -82,7 +115,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Level Up | 30 | Paltelhorse |
+        | Level Up | 30 | [Paltelhorse](https://avventureaditia.github.io/itia-wiki/pokemon/097-paltelhorse/) |
         
 
 
