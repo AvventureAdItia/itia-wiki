@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Falsaserpe</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/poison.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,37 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    L'evoluzione ha portato la capacità di gonfiarsi di veleno di Dunsparce all'estremo, ora è capace di triplicare la dimensione dei segmenti ricoperti da spine, trasudanti un veleno talmente potente da scatenare il capogiro delle allucinazioni a chiunque ne venga a contatto. <br />
+    Sulla schiena è presente un enorme ghigno malefico da cui sembra avere origine del suo potere di incutere timore nelle prede. <br />
+    In svariate zone della regione sono presenti numerosi leggende riguardanti questo Pokémon e di come fosse temuto nell'antichità. <br />
+
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=YRDewCmTPrE&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=17).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Dunsparce e della sua catena evolutiva sono:
+    
+    - **Biscia d'acqua**;
+    - **Drago di Terni**;
+    - **Mandragola della Valtellina**;
+    - **Gargoyle del Duomo di Milano**;
+    - **Brighella**;
+    - **Magalasso**.
+
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Dunsparce e la sua catena evolutiva è **Franci**.
+    
 
 ## Base Stats
 <table style="width: 100%">

@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Simbolo</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/ground.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,34 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Questi Pokémon sono in cima alla Scala gerarchica all'interno del nido, ma solo un'esemplare sarà il capofamiglia, ossia colui che comanderà tutta la Colonia. <br />
+    Gli altri esemplari avranno il compito di difendere il nido da qualsiasi ostilità. <br />
+    Sono Pokemon estremamente potenti, in grado di creare forti terremoti usando solo il 20% dei loro poteri psichici. <br />
+    Cercano il più possibile di nascondere la Colonia agli occhi degli umani. <br />
+    Grandi illusioni e barriere che non facciano avvicinare nessun essere vivente. <br />
+    Creano trivelle di terra che usano per scavare più velocemente. <br />
+
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=YRDewCmTPrE&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=17).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Elgyem e della sua catena evolutiva sono:
+    
+    - **Avvistamenti ufo sul Monte Musinè**.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Elgyem e la sua catena evolutiva è **Metalord**.
+    
 
 ## Base Stats
 <table style="width: 100%">

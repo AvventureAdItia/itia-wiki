@@ -3,6 +3,18 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Pena</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Pena</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/poison.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +36,34 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Con l'aiuto del proprio allenatore, i Pairgon evolvono in Asgon, il veleno sul corpo aumenta, ma ora sono in grado di controllarlo e avere una maggiore soglia del dolore, riducendo la sofferenza al minimo. <br />
+    Sono agili e scattanti e al loro passaggio rilasciano pozzi di veleno in grado di correre qualsiasi cosa. <br />
+    Purtroppo, proprio per questa caratteristica, sono ancora considerati pericolosi per l'uomo se non opportunamente tenuti costantemente sotto controllo. <br />
+
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=_tnKWPvesjQ&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=19).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Pairgon e della sua catena evolutiva sono:
+    
+    - **Drago del buriano**;
+    - **Spada nella roccia**;
+    - **Zona della Maremma**;
+    - **Drago del lago d'Orta**.
+
+
+=== "Vincitore del contest"
+    ### Vincitori
+
+    I Vincitori di Itia che hanno dato origine a Pairgon e la sua catena evolutiva sono **Michele** e **NuggetMaster**.
 
 ## Base Stats
 <table style="width: 100%">
@@ -82,7 +122,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Level Up | 48 | Dragargon |
+        | Level Up | 48 | [Dragargon](https://avventureaditia.github.io/itia-wiki/pokemon/131-dragargon/) |
         
 
 

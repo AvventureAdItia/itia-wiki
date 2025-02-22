@@ -3,6 +3,18 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Cera</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Cera</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/bug.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +36,33 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    I Pyrandle, una volta per assimilata abbastanza cera, formano il loro bozzolo evolvendosi in Coondle. <br /> 
+    La fiamma sulla sommità funge da termoregolatore in modo che possano mantenersi caldi all'interno del bozzolo. <br /> 
+    Tuttavia, questo è un problema per la maggior parte della specie che, soprattutto di notte, vengono avvistati dai predatori anche da lunghe distanze per via delle diverse fiammelle. <br /> 
+    È compito dei Pyrcharoia proteggerli. <br /> 
+
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=dBFk8Srgjpw&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=16).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Pyrandle e della sua catena evolutiva sono:
+    
+    - **Candele romane**;
+    - **Pirausta**;
+    - **Brahmaea europaea**.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Pyrandle e la sua catena evolutiva è **Marco**.
 
 ## Base Stats
 <table style="width: 100%">
@@ -82,7 +121,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Item | Fire Stone | Pyrcharoia |
+        | Item | Fire Stone | [Pyrcharoia](https://avventureaditia.github.io/itia-wiki/pokemon/108-pyrcharoia/) |
         
 
 

@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Mezzofango</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/poison.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,36 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Il continuo supporto e allenamento a fianco del proprio partner hanno portato Asgon a raggiungere lo stadio finale, divenendo una creatura completamente nuova. <br />
+    La forza di volontà del Pokémon ha fatto sì che il veleno venga rigettato dal corpo allontanandolo dagli organi vitali. <br />
+    Relegandolo alla coda ora è in grado di essere controllato a piacimento. <br />
+    Sul proprio corpo presenta i segni della corrosione del veleno, segno della lunga battaglia che ha dovuto affrontare per essere finalmente liberato dalla sofferenza avuto in passato. <br />
+
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=_tnKWPvesjQ&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=19).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Pairgon e della sua catena evolutiva sono:
+    
+    - **Drago del buriano**;
+    - **Spada nella roccia**;
+    - **Zona della Maremma**;
+    - **Drago del lago d'Orta**.
+
+
+=== "Vincitore del contest"
+    ### Vincitori
+
+    I Vincitori di Itia che hanno dato origine a Pairgon e la sua catena evolutiva sono **Michele** e **NuggetMaster**.
+
 
 ## Base Stats
 <table style="width: 100%">

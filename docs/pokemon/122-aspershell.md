@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Fortino</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/ground.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,36 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Più materiale ferroso assorbono i Magcargo, più la loro corazza si rafforza, permettendogli di sbloccare un'ulteriore stato evolutivo fino ad ora irraggiungibile. <br />
+    L'enorme conchiglia sulla schiena degli Aspershell fa da rifugio per numerosi esemplari di Pokemon coleottero, ma dopo tanto tempo passato insieme, i Durant hanno deciso di cambiare l'ospitalità. <br />
+    Il Pokemon è in grado di sparare Durant addosso ai nemici tramite i vari cannoni sparsi sul guscio, possono allungare di molto i piccoli tentacoli di terra posti sulla parte frontale del corpo. <br />
+
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=YRDewCmTPrE&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=17).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Slugma e della sua catena evolutiva sono:
+    
+    - **Lumaca Helix Maxima**;
+    - **Energia rinnovabile**;
+    - **Computer Olivetti M21**;
+    - **Marrocca**;
+    - **Formicaio**.
+
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Slugma e la sua catena evolutiva è **Spettrosio**.
+    
 
 ## Base Stats
 <table style="width: 100%">

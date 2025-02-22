@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Polpeterra</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/normal.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,31 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    All'interno della terra che compone il loro corpo sembrano nascondersi più Papplin che convivono e riescono ad entrare in quel piccolo spazio utilizzando la forchetta che portano sempre con loro. <br />
+    L'odore diventa sempre più buona e resistibile, tanto che proprio la forchetta gli viene donata dagli allenatori della regione per difendersi e utilizzarla anche come arma personale impugnandola con le code e colpendo i nemici. <br />
+
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=_tnKWPvesjQ&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=19).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Papplin e della sua catena evolutiva sono:
+    
+    - **Dadrake prima di andare a dormire** (va palesemente a dormire troppo tardi (ti vogliamo bene lo stesso)).
+
+
+=== "Vincitore del contest"
+    ### Non esattamente
+
+    Il creatore di Papplin e della sua catena evolutiva è **Dadrake**.
+
 
 ## Base Stats
 <table style="width: 100%">
@@ -82,7 +113,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Other | Level Up con Mossa | Hydraghetti |
+        | Other | Level Up con Mossa | [Hydraghetti](https://avventureaditia.github.io/itia-wiki/pokemon/134-hydraghetti/) |
         
 
 

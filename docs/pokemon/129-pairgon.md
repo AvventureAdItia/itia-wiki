@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Pena</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/poison.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,35 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Questa piccola creatura sembra essere costantemente in pena per via del grosso pungiglione che spunta la sua gola. <br />
+    Quest'ultimo, infatti, pare non essere parte integrante del suo corpo, ma il risultato dello scontro con un grosso Pokémon coleottero che lo ha infilzato provocando la fuoriuscita di una sostanza altamente viscosa e tossica che ha donato alla creatura il tipo veleno. <br />
+    Nonostante ciò, è mansuete docile e la presenza di un allenatore in gamba al suo fianco è in grado di alleviare il dolore fino a quasi farlo scomparire. <br />
+
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=_tnKWPvesjQ&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=19).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Pairgon e della sua catena evolutiva sono:
+    
+    - **Drago del buriano**;
+    - **Spada nella roccia**;
+    - **Zona della Maremma**;
+    - **Drago del lago d'Orta**.
+
+
+=== "Vincitore del contest"
+    ### Vincitori
+
+    I Vincitori di Itia che hanno dato origine a Pairgon e la sua catena evolutiva sono **Michele** e **NuggetMaster**.
+
 
 ## Base Stats
 <table style="width: 100%">
@@ -82,7 +117,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Level Up | 26 | Asgon |
+        | Level Up | 26 | [Asgon](https://avventureaditia.github.io/itia-wiki/pokemon/130-asgon/) |
         
 
 

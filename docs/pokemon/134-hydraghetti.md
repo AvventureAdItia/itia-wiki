@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Pastamalgama</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/normal.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,32 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Questo Pokémon è preferito delle cucine di Itia poiché i suoi lunghi tentacoli sono commestibili e, dopo la giusta cura, possono essere utilizzati per creare dei piatti dal sapore incredibile apprezzati in tutto il mondo. <br />
+    I tentacoli cadono col passare del tempo e il Pokémon è in grado di rigenerarli da sé senza particolare sforzo. <br />
+    La sostanza che secernono è molto appiccicosa; infatti, spesso si ricoprono di erbe e altri oggetti rimasti appiccicati per errore. <br />
+
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=_tnKWPvesjQ&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=19).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Papplin e della sua catena evolutiva sono:
+    
+    - **Dadrake prima di andare a dormire** (va palesemente a dormire troppo tardi (ti vogliamo bene lo stesso)).
+
+
+=== "Vincitore del contest"
+    ### Non esattamente
+
+    Il creatore di Papplin e della sua catena evolutiva è **Dadrake**.
+
 
 ## Base Stats
 <table style="width: 100%">

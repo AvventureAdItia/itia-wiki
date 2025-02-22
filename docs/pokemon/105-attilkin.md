@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Re</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/bug.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,32 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Quando Attilion evolve, Attilkin deve essere pronto a fronteggiare il capo del proprio gruppo ad una lotta all'ultimo sangue per prenderne il posto. <br /> 
+    In caso di vittoria il nuovo Attilkin diventerà il leader del gruppo ed il perdente viene mandato via, in caso di sconfitta sarà lo sfidante ad essere allontanato. <br /> 
+    Sono estremamente territoriali; quindi, è sconsigliato avvicinarsi alle zone in cui vivono se non opportunamente preparati, con una buona squadra e un buon equipaggiamento. <br /> 
+
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=dBFk8Srgjpw&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=16).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Attilion e della sua catena evolutiva sono:
+    
+    - **Punteruolo rosso**;
+    - **Attila**.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Attilion e la sua catena evolutiva è **Antonio**.
+
 
 ## Base Stats
 <table style="width: 100%">

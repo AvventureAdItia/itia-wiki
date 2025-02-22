@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Maleficio</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/fairy.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,30 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    A differenza della sua evoluzione, piuttosto che ingannare gli umani, Ciricea predilige averli sempre al proprio fianco. <br />
+    Va alla continua ricerca di allenatori forti, per poi attirarli a sé con incantesimi e pozioni prodotte col suo veleno, per poi trasformarli in piccoli esseri simili ai Lechonk, costretti a seguirla fino alla fine del sortilegio. <br /> 
+
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=STFNtPND_C4&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=18).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Cire e della sua catena evolutiva sono:
+    
+    - La maga **Circe** e i suoi **poteri**.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Cire e la sua catena evolutiva è **Gabry-taz**.
+
 
 ## Base Stats
 <table style="width: 100%">

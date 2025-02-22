@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Soldato</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/bug.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,32 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Questo Pokémon è considerato un pericolo per le zone più a sud della regione, poiché è un predatore naturale degli Exeggutor di Alola che abitano proprio lì. <br />
+    Si attaccano al loro lungo collo per assorbire il nutrimento ed energie, per poi cambiare vittima quando quest'ultima è in fin di vita. <br />
+    Sono estremamente resistenti ed è molto difficile mandarli via una volta scelto il loro nido. Viaggiano sempre in gruppo, capitanati da un solo ed unico Attilkin. <br /> 
+
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=dBFk8Srgjpw&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=16).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Attilion e della sua catena evolutiva sono:
+    
+    - **Punteruolo rosso**;
+    - **Attila**.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Attilion e la sua catena evolutiva è **Antonio**.
+
 
 ## Base Stats
 <table style="width: 100%">
@@ -82,7 +114,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Level Up | 30 | Attilkin |
+        | Level Up | 30 | [Attilkin](https://avventureaditia.github.io/itia-wiki/pokemon/105-attilkin/) |
         
 
 

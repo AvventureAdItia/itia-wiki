@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Polpeterra</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/normal.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,32 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Forma convergente di Applin, questo piccolo Pokémon sembra essere un piccolo verme che ha deciso di proteggere il proprio corpo con un sottile stato di terra tenuto unito dal materiale viscoso di colore rosso che produce. <br />
+    Considerato quasi una mascotte per tutta la regione di Itia, i cuochi di tutta la regione preparano dei piatti che ricordano il suo aspetto.
+    Fortunatamente nessuno ha per ora mangiato per sbaglio i Papplin che nonostante producano un odore evitante, non sono commestibili. <br />
+
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=_tnKWPvesjQ&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=19).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Papplin e della sua catena evolutiva sono:
+    
+    - **Dadrake prima di andare a dormire** (va palesemente a dormire troppo tardi (ti vogliamo bene lo stesso)).
+
+
+=== "Vincitore del contest"
+    ### Non esattamente
+
+    Il creatore di Papplin e della sua catena evolutiva è **Dadrake**.
+    
 
 ## Base Stats
 <table style="width: 100%">
@@ -82,7 +114,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Item | Forchetta | Meattlin |
+        | Item | Forchetta | [Meattlin](https://avventureaditia.github.io/itia-wiki/pokemon/133-meattlin/) |
         
 
 

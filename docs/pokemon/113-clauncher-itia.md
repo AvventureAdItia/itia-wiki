@@ -3,6 +3,12 @@
 
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+        <div class="attribute-value">
+          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Mira</p>
+        </div>
+      </div>
+    <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/poison.png' style='width: 77px; height: 26px;'/>
@@ -24,6 +30,34 @@
     </div>
   </div>
 </div>
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Arrivati da una lontana regione, i Clauncher di Itia hanno trovato pane per i loro denti. <br />
+    Continue lotte per il territorio più una forte regione basata sulla pesca, hanno portato questo Pokémon a sviluppare altri sistemi di difesa, indurendo il proprio corpo e creando un veleno che stordisce e paralizza i nemici. <br />
+    Proprio per questo cambiamento, il Pokémon non è più commestibile, anche se con alcuni trattamenti si riesce a ricavarne ancora qualche piatto. <br />
+    Si riuniscono in gruppo. <br />
+
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=YRDewCmTPrE&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=17).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Clauncher e della sua catena evolutiva sono:
+    
+    - **Gambero Rosso della Louisiana*;
+    - **Mafia**;
+    - **Gambero Rosso di Mazara**.
+
+=== "Vincitore del contest"
+    ### Vincitori
+
+    I Vincitori di Itia che hanno dato origine a Clauncher e la sua catena evolutiva sono **Crub** e **Demetrio**.
+
 
 ## Base Stats
 <table style="width: 100%">
@@ -82,7 +116,7 @@
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |
         | :--: | :--: | :--: |
-        | Level Up | 38 | Shrimitzer |
+        | Level Up | 38 | [Shrimitzer](https://avventureaditia.github.io/itia-wiki/pokemon/114-shrimitzer/) |
         
 
 
