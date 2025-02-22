@@ -12,11 +12,6 @@
   <div class="pokemon-image" style="flex: 0 0 200px; text-align: center;">
     <img src="../../img/pokemon/timolino.png" width="200"/>
   </div>
-
-  ## Aspetto
-
-    === "Classificazione"
-      ### Dati
       <div class="pokemon-attribute-container" style="flex: 1;">
         <div style="display: grid; grid-template-rows: repeat(auto-fill, minmax(1fr, auto)); row-gap: 0.5rem;">
           <div class="pokemon-attribute">
@@ -69,9 +64,6 @@
           </div>
         </div>
       </div>
-
-    === "Allevamento"
-      ### Dati
       <div class="pokemon-attribute-container" style="flex: 1;">
         <div style="display: grid; grid-template-rows: repeat(auto-fill, minmax(1fr, auto)); row-gap: 0.5rem;">
           <div class="pokemon-attribute" style="display: flex; gap: 1rem;">
