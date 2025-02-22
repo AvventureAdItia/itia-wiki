@@ -12,66 +12,86 @@
   <div class="pokemon-image" style="flex: 0 0 200px; text-align: center;">
     <img src="../../img/pokemon/timolino.png" width="200"/>
   </div>
-  
-  <div class="pokemon-attribute-container" style="flex: 1;">
-    <div style="display: grid; grid-template-rows: repeat(auto-fill, minmax(1fr, auto)); row-gap: 0.5rem;">
-    ## Aspetto
+
+  ## Aspetto
 
     === "Classificazione"
       ### Dati
-      <div class="pokemon-attribute">
-        <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Class</p>
-        <div class="attribute-value">
-          <p style="margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Cucciolo</p>
+      <div class="pokemon-attribute-container" style="flex: 1;">
+        <div style="display: grid; grid-template-rows: repeat(auto-fill, minmax(1fr, auto)); row-gap: 0.5rem;">
+          <div class="pokemon-attribute">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Class</p>
+            <div class="attribute-value">
+              <p style="margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Cucciolo</p>
+            </div>
+          </div>
+          <div class="pokemon-attribute">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
+            <div class="attribute-value" style="column-gap: 0.5rem;">
+              <img src='../../img/types/grass.png' style='width: 77px; height: 26px;'/>
+            </div>
+          </div>
+          <div class="pokemon-attribute">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
+            <div class="attribute-value">
+              <a href='' title="When this Pokemon has 1/3 or less of its HP remaining, its grass-type moves inflict 1.5x as much regular damage.">Overgrow</a>
+              /<a href='' title="Quando il Pokémon viene sostituito recupera un'ottavo di vita e i suoi problemi di stato vengono curati. Il Pokémon che entra in battaglia al suo posto viene anch'esso curato dai problemi di stato.">Capobranco</a>
+            </div>
+          </div>
+          <div style="display: none;" class="hidden-pokemon-attribute">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
+            <div class="attribute-value"></div>
+          </div>
+          <!-- Sezione Rapporto di Genere con Riquadro Migliorato -->
+          <div class="pokemon-attribute" style="border: 1px solid #ccc; padding: 15px; border-radius: 5px; text-align: center; width: 100%;">
+            <p style="color: #737373; margin-bottom: 10px; font-weight: bold; font-size:16px;">Gender Ratio</p>
+            <div style="width: 100%; height: 25px; background-color: #ccc; border-radius: 5px; overflow: hidden; display: flex;">
+              <div style="width: 87.5%; background-color: #4285F4; height: 100%;"></div>
+              <div style="width: 12.5%; background-color: #FF69B4; height: 100%;"></div>
+            </div>
+            <p style="margin: 10px 0 0; font-weight: normal; font-size:16px;">♂ 87.5% | ♀ 12.5%</p>
+          </div>
+          <div class="pokemon-attribute" style="display: flex; gap: 1rem;">
+            <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 5px; text-align: center;">
+              <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px;">Height</p>
+              <p style="margin: 0px; font-weight: normal; font-size:16px;">0.5 m</p>
+            </div>
+            <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 5px; text-align: center;">
+              <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px;">Weight</p>
+              <p style="margin: 0px; font-weight: normal; font-size:16px;">7.2 kg</p>
+            </div>
+          </div>
+          <div class="pokemon-attribute">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Shape</p>
+            <div class="attribute-value" style="column-gap: 0.5rem;">
+              <img src='../../img/shape/quad.png' style="vertical-align: middle; width: 75%;"/>
+            </div>
+          </div>
         </div>
-      </div>
-      <div class="pokemon-attribute">
-        <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
-        <div class="attribute-value" style="column-gap: 0.5rem;">
-          <img src='../../img/types/grass.png' style='width: 77px; height: 26px;'/>
-        </div>
-      </div>
-      <div class="pokemon-attribute">
-        <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
-        <div class="attribute-value">
-          <a href='' title="When this Pokemon has 1/3 or less of its HP remaining, its grass-type moves inflict 1.5x as much regular damage.">Overgrow</a>
-          /<a href='' title="Quando il Pokémon viene sostituito recupera un'ottavo di vita e i suoi problemi di stato vengono curati. Il Pokémon che entra in battaglia al suo posto viene anch'esso curato dai problemi di stato.">Capobranco</a>
-        </div>
-      </div>
-      <div style="display: none;" class="hidden-pokemon-attribute">
-        <p style="color: #737373; margin: 0px; font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
-        <div class="attribute-value"></div>
-      </div>
-      <!-- Sezione Rapporto di Genere con Riquadro Migliorato -->
-      <div class="pokemon-attribute" style="border: 1px solid #ccc; padding: 15px; border-radius: 5px; text-align: center; width: 100%;">
-        <p style="color: #737373; margin-bottom: 10px; font-weight: bold; font-size:16px;">Gender Ratio</p>
-        <div style="width: 100%; height: 25px; background-color: #ccc; border-radius: 5px; overflow: hidden; display: flex;">
-          <div style="width: 87.5%; background-color: #4285F4; height: 100%;"></div>
-          <div style="width: 12.5%; background-color: #FF69B4; height: 100%;"></div>
-        </div>
-        <p style="margin: 10px 0 0; font-weight: normal; font-size:16px;">♂ 87.5% | ♀ 12.5%</p>
       </div>
 
     === "Allevamento"
       ### Dati
-      <div class="pokemon-attribute" style="display: flex; gap: 1rem;">
-        <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 5px; text-align: center;">
-          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px;">Height</p>
-          <p style="margin: 0px; font-weight: normal; font-size:16px;">0.5 m</p>
-        </div>
-        <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 5px; text-align: center;">
-          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px;">Weight</p>
-          <p style="margin: 0px; font-weight: normal; font-size:16px;">7.2 kg</p>
+      <div class="pokemon-attribute-container" style="flex: 1;">
+        <div style="display: grid; grid-template-rows: repeat(auto-fill, minmax(1fr, auto)); row-gap: 0.5rem;">
+          <div class="pokemon-attribute" style="display: flex; gap: 1rem;">
+            <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 5px; text-align: center;">
+              <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px;">Height</p>
+              <p style="margin: 0px; font-weight: normal; font-size:16px;">0.5 m</p>
+            </div>
+            <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 5px; text-align: center;">
+              <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px;">Weight</p>
+              <p style="margin: 0px; font-weight: normal; font-size:16px;">7.2 kg</p>
+            </div>
+          </div>
+          <div class="pokemon-attribute">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Shape</p>
+            <div class="attribute-value" style="column-gap: 0.5rem;">
+              <img src='../../img/shape/quad.png' style="vertical-align: middle; width: 75%;"/>
+            </div>
+          </div>
         </div>
       </div>
-      <div class="pokemon-attribute">
-        <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Shape</p>
-        <div class="attribute-value" style="column-gap: 0.5rem;">
-          <img src='../../img/shape/quad.png' style="vertical-align: middle; width: 75%;"/>
-        </div>
-      </div>
-    </div>
-  </div>
 </div>
 
 
