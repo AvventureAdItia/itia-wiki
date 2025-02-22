@@ -22,7 +22,6 @@
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
       <div class="attribute-value" style="column-gap: 0.5rem;">
         <img src='../../img/types/grass.png' style='width: 77px; height: 26px;'/>
-        
       </div>
     </div>
     <div class="pokemon-attribute">
@@ -30,6 +29,12 @@
       <div class="attribute-value">
         <a href='' title="When this Pokemon has 1/3 or less of its HP remaining, its grass-type moves inflict 1.5x as much regular damage.">Overgrow</a>
         /<a href='' title="Quando il Pokémon viene sostituito recupera un'ottavo di vita e i suoi problemi di stato vengono curati. Il Pokémon che entra in battaglia al suo posto viene anch'esso curato dai problemi di stato.">Capobranco</a>
+      </div>
+    </div>
+    <div class="pokemon-attribute">
+      <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Shape</p>
+      <div class="attribute-value" style="column-gap: 0.5rem;">
+        <img src='../../img/shape/quad.png' style='width: 77px; height: 26px;'/>
       </div>
     </div>
     <div style="display: none;" class="hidden-pokemon-attribute">
