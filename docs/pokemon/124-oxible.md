@@ -1,3 +1,10 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/123-coppwin/"> 123 - Coppwin <img src="../../img/icon/coppwin.png" style="vertical-align: middle;"></a>
+  <strong>124 - Oxible</strong> 
+  <img src="../../img/icon/oxible.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/125-wishwashi-itia/"> 125 - Wishwashi di Itia <img src="../../img/icon/wishwashi-itia.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/oxible.png" width="100"/>
 

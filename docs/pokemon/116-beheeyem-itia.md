@@ -1,3 +1,10 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/115-elgyem-itia/"> 115 - Elgyem di Itia <img src="../../img/icon/elgyem-itia.png" style="vertical-align: middle;"></a>
+  <strong>116 - Beheeyem di Itia</strong> 
+  <img src="../../img/icon/beheeyem-itia.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/117-uefeeyoo/"> 117 - Uefeeyoo <img src="../../img/icon/uefeeyoo.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/beheeyem-itia.png" width="100"/>
 

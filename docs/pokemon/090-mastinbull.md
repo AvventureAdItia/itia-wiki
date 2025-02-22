@@ -1,3 +1,10 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/089-anelith/"> 089 - Anelith <img src="../../img/icon/anelith.png" style="vertical-align: middle;"></a>
+  <strong>090 - Mastinbull</strong> 
+  <img src="../../img/icon/mastinbull.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/091-bencapu/"> 091 - Bencapu <img src="../../img/icon/bencapu.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/mastinbull.png" width="100"/>
 

@@ -1,3 +1,10 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/127-heliolisk-itia/"> 127 - Heliolisk di Itia <img src="../../img/icon/heliolisk-itia.png" style="vertical-align: middle;"></a>
+  <strong>128 - Heliopiter</strong> 
+  <img src="../../img/icon/heliopiter.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/129-pairgon/"> 129 - Pairgon <img src="../../img/icon/pairgon.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/heliopiter.png" width="100"/>
 

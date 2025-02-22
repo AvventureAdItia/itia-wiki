@@ -1,3 +1,10 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/118-dunsparce-itia/"> 118 - Dunsparce di Itia <img src="../../img/icon/dunsparce-itia.png" style="vertical-align: middle;"></a>
+  <strong>119 - Aclinsparce</strong> 
+  <img src="../../img/icon/aclinsparce.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/120-slugma-itia/"> 120 - Slugma di Itia <img src="../../img/icon/slugma-itia.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/aclinsparce.png" width="100"/>
 

@@ -1,3 +1,10 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/112-aphroring/"> 112 - Aphroring <img src="../../img/icon/aphroring.png" style="vertical-align: middle;"></a>
+  <strong>113 - Clauncher di Itia</strong> 
+  <img src="../../img/icon/clauncher-itia.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/114-shrimitzer/"> 114 - Shrimitzer <img src="../../img/icon/shrimitzer.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/clauncher-itia.png" width="100"/>
 

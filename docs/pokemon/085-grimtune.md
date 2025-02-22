@@ -1,3 +1,10 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/084-relicor/"> 084 - Relicor <img src="../../img/icon/relicor.png" style="vertical-align: middle;"></a>
+  <strong>085 - Grimtune</strong> 
+  <img src="../../img/icon/grimtune.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/086-crisismear/"> 086 - Crisismear <img src="../../img/icon/crisismear.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/grimtune.png" width="100"/>
 

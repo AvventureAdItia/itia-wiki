@@ -1,3 +1,10 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/096-palhorse/"> 096 - Palhorse <img src="../../img/icon/palhorse.png" style="vertical-align: middle;"></a>
+  <strong>097 - Paltelhorse</strong> 
+  <img src="../../img/icon/paltelhorse.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/098-cire/"> 098 - Cire <img src="../../img/icon/cire.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/paltelhorse.png" width="100"/>
 

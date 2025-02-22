@@ -1,3 +1,9 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/133-meattlin/"> 133 - Meattlin <img src="../../img/icon/meattlin.png" style="vertical-align: middle;"></a>
+  <strong>134 - Hydraghetti</strong> 
+  <img src="../../img/icon/hydraghetti.png" style="vertical-align: middle;"> 
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/hydraghetti.png" width="100"/>
 

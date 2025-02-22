@@ -1,3 +1,10 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/106-pyrandle/"> 106 - Pyrandle <img src="../../img/icon/pyrandle.png" style="vertical-align: middle;"></a>
+  <strong>107 - Coondle</strong> 
+  <img src="../../img/icon/coondle.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/108-pyrcharoia/"> 108 - Pyrcharoia <img src="../../img/icon/pyrcharoia.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/coondle.png" width="100"/>
 

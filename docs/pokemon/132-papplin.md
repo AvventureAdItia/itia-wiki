@@ -1,3 +1,10 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/131-dragargon/"> 131 - Dragargon <img src="../../img/icon/dragargon.png" style="vertical-align: middle;"></a>
+  <strong>132 - Papplin</strong> 
+  <img src="../../img/icon/papplin.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/133-meattlin/"> 133 - Meattlin <img src="../../img/icon/meattlin.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/papplin.png" width="100"/>
 

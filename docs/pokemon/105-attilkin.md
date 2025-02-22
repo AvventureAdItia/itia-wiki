@@ -1,3 +1,10 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/104-attilion/"> 104 - Attilion <img src="../../img/icon/attilion.png" style="vertical-align: middle;"></a>
+  <strong>105 - Attilkin</strong> 
+  <img src="../../img/icon/attilkin.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/106-pyrandle/"> 106 - Pyrandle <img src="../../img/icon/pyrandle.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/attilkin.png" width="100"/>
 

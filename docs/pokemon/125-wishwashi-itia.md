@@ -1,3 +1,10 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/124-oxible/"> 124 - Oxible <img src="../../img/icon/oxible.png" style="vertical-align: middle;"></a>
+  <strong>125 - Wishwashi di Itia</strong> 
+  <img src="../../img/icon/wishwashi-itia.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/126-helioptile-itia/"> 126 - Helioptile di Itia <img src="../../img/icon/helioptile-itia.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
 ## Aspetto
 
 === "Forma Base"

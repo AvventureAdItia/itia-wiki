@@ -1,3 +1,10 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/111-comfey-itia/"> 111 - Comfey di Itia <img src="../../img/icon/comfey-itia.png" style="vertical-align: middle;"></a>
+  <strong>112 - Aphroring</strong> 
+  <img src="../../img/icon/aphroring.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/113-clauncher-itia/"> 113 - Clauncher di Itia <img src="../../img/icon/clauncher-itia.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/aphroring.png" width="100"/>
 

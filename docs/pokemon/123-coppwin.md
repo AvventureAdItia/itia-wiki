@@ -1,3 +1,10 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/122-aspershell/"> 122 - Aspershell <img src="../../img/icon/aspershell.png" style="vertical-align: middle;"></a>
+  <strong>123 - Coppwin</strong> 
+  <img src="../../img/icon/coppwin.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/124-oxible/"> 124 - Oxible <img src="../../img/icon/oxible.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/coppwin.png" width="100"/>
 

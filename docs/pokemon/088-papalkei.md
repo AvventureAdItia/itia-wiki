@@ -1,3 +1,10 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/087-bzzavroom/"> 087 - Bzzavroom <img src="../../img/icon/bzzavroom.png" style="vertical-align: middle;"></a>
+  <strong>088 - Papalkei</strong> 
+  <img src="../../img/icon/papalkei.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/089-anelith/"> 089 - Anelith <img src="../../img/icon/anelith.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/papalkei.png" width="100"/>
 

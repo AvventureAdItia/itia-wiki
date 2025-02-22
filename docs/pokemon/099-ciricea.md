@@ -1,3 +1,10 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/098-cire/"> 098 - Cire <img src="../../img/icon/cire.png" style="vertical-align: middle;"></a>
+  <strong>099 - Ciricea</strong> 
+  <img src="../../img/icon/ciricea.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/100-melodough/"> 100 - Melodough <img src="../../img/icon/melodough.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/ciricea.png" width="100"/>
 

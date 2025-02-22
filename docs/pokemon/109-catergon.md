@@ -1,3 +1,10 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/108-pyrcharoia/"> 108 - Pyrcharoia <img src="../../img/icon/pyrcharoia.png" style="vertical-align: middle;"></a>
+  <strong>109 - Catergon</strong> 
+  <img src="../../img/icon/catergon.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/110-draglight/"> 110 - Draglight <img src="../../img/icon/draglight.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/catergon.png" width="100"/>
 

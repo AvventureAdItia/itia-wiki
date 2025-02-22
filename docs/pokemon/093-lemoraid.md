@@ -1,3 +1,10 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/092-spiritress/"> 092 - Spiritress <img src="../../img/icon/spiritress.png" style="vertical-align: middle;"></a>
+  <strong>093 - Lemoraid</strong> 
+  <img src="../../img/icon/lemoraid.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/094-shirf/"> 094 - Shirf <img src="../../img/icon/shirf.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/lemoraid.png" width="100"/>
 

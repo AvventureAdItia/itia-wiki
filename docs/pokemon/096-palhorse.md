@@ -1,3 +1,10 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/095-bouldwarf/"> 095 - Bouldwarf <img src="../../img/icon/bouldwarf.png" style="vertical-align: middle;"></a>
+  <strong>096 - Palhorse</strong> 
+  <img src="../../img/icon/palhorse.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/097-paltelhorse/"> 097 - Paltelhorse <img src="../../img/icon/paltelhorse.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/palhorse.png" width="100"/>
 

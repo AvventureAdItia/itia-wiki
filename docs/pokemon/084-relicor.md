@@ -1,3 +1,10 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/083-gravient/"> 083 - Gravient <img src="../../img/icon/gravient.png" style="vertical-align: middle;"></a>
+  <strong>084 - Relicor</strong> 
+  <img src="../../img/icon/relicor.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/085-grimtune/"> 085 - Grimtune <img src="../../img/icon/grimtune.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/relicor.png" width="100"/>
 

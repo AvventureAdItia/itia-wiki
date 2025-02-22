@@ -1,3 +1,10 @@
+<div style="text-align: center; margin-bottom: 20px;">
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/080-ozbell/"> 080 - Ozbell <img src="../../img/icon/ozbell.png" style="vertical-align: middle;"></a>
+  <strong>081 - Apipomuf</strong> 
+  <img src="../../img/icon/apipomuf.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/082-dracalier/"> 082 - Dracalier <img src="../../img/icon/dracalier.png" style="vertical-align: middle;"></a> ➡️
+</div>
+
 <div class="pokemon-attribute-container">
   <img src="../../img/pokemon/apipomuf.png" width="100"/>
 
