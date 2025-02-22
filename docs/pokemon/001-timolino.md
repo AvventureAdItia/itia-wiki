@@ -13,8 +13,8 @@
     <img src="../../img/pokemon/timolino.png" width="200"/>
   </div>
   
-  <div class="pokemon-attribute-container" style="flex: 1;">
-    <div style="display: grid; grid-template-rows: repeat(auto-fill, minmax(1fr, auto)); row-gap: 0.5rem;">
+  <div class="pokemon-attribute-container" style="flex: 2; display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem;">
+    <div>
       <div class="pokemon-attribute">
         <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Class</p>
         <div class="attribute-value">
@@ -38,14 +38,15 @@
         <p style="color: #737373; margin: 0px; font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
         <div class="attribute-value"></div>
       </div>
-      <!-- Sezione Rapporto di Genere con Riquadro -->
-      <div class="pokemon-attribute" style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; text-align: center;">
-        <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px;">Gender Ratio</p>
-        <div style="width: 100%; height: 20px; background-color: #ccc; border-radius: 5px; overflow: hidden; display: flex;">
+    <div>
+      <!-- Sezione Rapporto di Genere con Riquadro Migliorato -->
+      <div class="pokemon-attribute" style="border: 1px solid #ccc; padding: 15px; border-radius: 5px; text-align: center; width: 100%;">
+        <p style="color: #737373; margin-bottom: 10px; font-weight: bold; font-size:16px;">Gender Ratio</p>
+        <div style="width: 100%; height: 25px; background-color: #ccc; border-radius: 5px; overflow: hidden; display: flex;">
           <div style="width: 87.5%; background-color: #4285F4; height: 100%;"></div>
           <div style="width: 12.5%; background-color: #FF69B4; height: 100%;"></div>
         </div>
-        <p style="margin: 5px 0 0; font-weight: normal; font-size:14px;">♂ 87.5% | ♀ 12.5%</p>
+        <p style="margin: 10px 0 0; font-weight: normal; font-size:16px;">♂ 87.5% | ♀ 12.5%</p>
       </div>
       <div class="pokemon-attribute" style="display: flex; gap: 1rem;">
         <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 5px; text-align: center;">
@@ -61,6 +62,38 @@
         <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Shape</p>
         <div class="attribute-value" style="column-gap: 0.5rem;">
           <img src='../../img/shape/quad.png' style="vertical-align: middle; width: 75%;"/>
+        </div>
+      </div>
+    </div>
+     <div>
+      <div class="pokemon-attribute" style="display: flex; gap: 1rem;">
+        <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 5px; text-align: center;">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px;">Egg Groups</p>
+          <p style="margin: 0px; font-weight: normal; font-size:16px;">Field, Grass</p>
+        </div>
+        <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 5px; text-align: center;">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px;">Hatch Time</p>
+          <p style="margin: 0px; font-weight: normal; font-size:16px;">20 cycles</p>
+        </div>
+      </div>
+      <div class="pokemon-attribute" style="display: flex; gap: 1rem;">
+        <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 5px; text-align: center;">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px;">Base Experience Yield</p>
+          <p style="margin: 0px; font-weight: normal; font-size:16px;">64</p>
+        </div>
+        <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 5px; text-align: center;">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px;">Leveling Rate</p>
+          <p style="margin: 0px; font-weight: normal; font-size:16px;">Medium Slow</p>
+        </div>
+      </div>
+      <div class="pokemon-attribute" style="display: flex; gap: 1rem;">
+        <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 5px; text-align: center;">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px;">Pokédex Color</p>
+          <p style="margin: 0px; font-weight: normal; font-size:16px;">Green <span style="display: inline-block; width: 15px; height: 15px; background-color: green; border-radius: 3px;"></span></p>
+        </div>
+        <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 5px; text-align: center;">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px;">Base Friendship</p>
+          <p style="margin: 0px; font-weight: normal; font-size:16px;">70</p>
         </div>
       </div>
     </div>
