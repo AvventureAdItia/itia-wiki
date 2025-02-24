@@ -204,20 +204,20 @@
 === "Base"
     <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
       <div style="flex: 1; text-align: center;">
-        <img src="../../img/back/TIMOLINO.png" alt="Aspetto posteriore Timolino" style="max-width: 100%; height: auto;">
+        <img src="../../img/back/TIMOLINO.png" alt="Aspetto posteriore Timolino" style="max-width: 43.47%; height: auto;">
       </div>
       <div style="flex: 1; text-align: center;">
-        <img src="../../img/front/TIMOLINO.png" alt="Aspetto anteriore Timolino" style="max-width: 100%; height: auto;">
+        <img src="../../img/front/TIMOLINO.png" alt="Aspetto anteriore Timolino" style="max-width: 51.09%; height: auto;">
       </div>
     </div>
 
 === "Shiny"
     <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
       <div style="flex: 1; text-align: center;">
-        <img src="../../img/back_shiny/TIMOLINO.png" alt="Aspetto posteriore Timolino" style="max-width: 43.47%; height: auto;">
+        <img src="../../img/back_shiny/TIMOLINO.png" alt="Aspetto posteriore Timolino" style="max-width: 100%; height: auto;">
       </div>
       <div style="flex: 1; text-align: center;">
-        <img src="../../img/front_shiny/TIMOLINO.png" alt="Aspetto anteriore Timolino" style="max-width: 51.09%; height: auto;">
+        <img src="../../img/front_shiny/TIMOLINO.png" alt="Aspetto anteriore Timolino" style="max-width: 100%; height: auto;">
       </div>
     </div>
 
