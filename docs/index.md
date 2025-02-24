@@ -11,6 +11,8 @@ Ma c’è di più: è arrivato il momento di svelare il segreto! Dall’idea del
 
 Resta aggiornato sulle ultime novità e scopri in anteprima i segreti di Itia! <br />
 
+# Dadrake95
+
 **Dadrake95** ha debuttato come YouTuber nel 2021, trattando principalmente videogiochi a tema Pokémon. Fin da subito si è distinto per le sue doti artistiche, in particolare come abile disegnatore. <br />
 Grazie a rubriche originali, ha saputo combinare in modo perfetto Pokémon e arte, disegnando fakemon inediti, realizzando fusioni di design esistenti e persino creando una prima regione Pokémon. <br />
 
@@ -19,6 +21,27 @@ Il progetto si distingue per il coinvolgimento attivo dei fan, che hanno contrib
 
 Vieni e unisciti anche tu alla community di **Dadrake95** per intraprendere un viaggio ad **Itia** e tanto altro ancora! <br />
 
-[![YouTube - Il canale Youtube di Dadrake](img/home/youtube.png)](https://www.youtube.com/@dadrake95)  
-[![Discord - Il server Discord Ufficiale di Dadrake](img/home/discord.png)](https://discord.gg/3NfRp3vAE2)  
-[![Instagram - Il profilo Instagram di Dadrake](img/home/instagram.png)](https://www.instagram.com/dadrake95/)
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/@dadrake95">
+    <img src="img/home/youtube.png" alt="YouTube" style="margin: 0 15px;" width="40" height="40">
+  </a>
+  <a href="https://discord.gg/3NfRp3vAE2">
+    <img src="img/home/discord.png" alt="Discord" style="margin: 0 15px;" width="40" height="40">
+  </a>
+  <a href="https://www.instagram.com/dadrake95/">
+    <img src="img/home/instagram.png" alt="Instagram" style="margin: 0 15px;" width="40" height="40">
+  </a>
+</div>
+
+
+## Informazioni utili
+=== "FAQ"
+    ### FAQ
+    ??? question "Quando sarà pronto il gioco?"
+        Al momento non possiamo ancora darvi una data certa circa l'uscita del gioco. Perchè ci sono ancora parecchi aspetti da sistemare. Ovviamente sia attraverso questo portale che tramite i canali di Dadrake avrete notizie certe!
+
+    ??? question "Sono terminati i Contest?"
+        No, Itia non è ancora finitia.
+
+    ??? question "Posso inviare un fakémon basato su Azzurrina o sul Tarantasio?"
+        N O .
