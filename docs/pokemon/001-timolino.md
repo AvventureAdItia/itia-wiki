@@ -7,57 +7,53 @@
   ➡️
 </div>
 
-<h2 id="aspetto">Pokédex</h2>
-<div class="tabbed-set tabbed-alternate" data-tabs="1:2"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">Classificazione</label><label for="__tabbed_1_2">Allevamento</label></div>
-<div class="tabbed-content">
-<div class="tabbed-block">
-<h3 id="forma-sonno">Classificazione</h3>
-<p><div class="pokemon-attribute-container">
-  <img src="../../img/pokemon/timolino.png" width="200"/>
-  <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
-    <div class="pokemon-attribute">
-      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
-      <div class="attribute-value">
-        <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Cucciolo</p>
-      </div>
-    </div>
-    <div class="pokemon-attribute">
-      <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
-      <div class="attribute-value" style="column-gap: 0.5rem;">
-        <img src='../../img/types/grass.png' style='width: 77px; height: 26px;'/>
-      </div>
-    </div>
-    <div class="pokemon-attribute">
-      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
-      <div class="attribute-value">
-        <a href='' title="When this Pokemon has 1/3 or less of its HP remaining, its grass-type moves inflict 1.5x as much regular damage.">Overgrow</a>
-        /<a href='' title="Quando il Pokémon viene sostituito recupera un'ottavo di vita e i suoi problemi di stato vengono curati. Il Pokémon che entra in battaglia al suo posto viene anch'esso curato dai problemi di stato.">Capobranco</a>
-      </div>
-    </div>
-    <div style="display: none;" class="hidden-pokemon-attribute">
-      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
-      <div class="attribute-value">  
-      </div>
-    </div>
-  </div>
-</div></p>
-</div>
-<div class="tabbed-block">
-<h3 id="forma-risveglio">Allevamento</h3>
-<p><div class="pokemon-attribute-container">
-  <img src="../../img/pokemon/timolino.png" width="200"/>
-  <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
-    <div class="pokemon-attribute">
-      <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Shape</p>
-      <div class="attribute-value" style="column-gap: 0.5rem;">
-        <img src='../../img/shape/quad.png' style="vertical-align: middle; width: 75%;"/>
-      </div>
-    </div>
-  </div>
-</div></p>
-</div>
-</div>
+## Pokédex
 
+=== "Classificazione"
+    ### Classificazione
+    <p><div class="pokemon-attribute-container">
+      <img src="../../img/pokemon/timolino.png" width="200"/>
+      <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
+          <div class="attribute-value">
+            <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Cucciolo</p>
+          </div>
+        </div>
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
+          <div class="attribute-value" style="column-gap: 0.5rem;">
+            <img src='../../img/types/grass.png' style='width: 77px; height: 26px;'/>
+          </div>
+        </div>
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
+          <div class="attribute-value">
+            <a href='' title="When this Pokemon has 1/3 or less of its HP remaining, its grass-type moves inflict 1.5x as much regular damage.">Overgrow</a>
+            /<a href='' title="Quando il Pokémon viene sostituito recupera un'ottavo di vita e i suoi problemi di stato vengono curati. Il Pokémon che entra in battaglia al suo posto viene anch'esso curato dai problemi di stato.">Capobranco</a>
+          </div>
+        </div>
+        <div style="display: none;" class="hidden-pokemon-attribute">
+          <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
+          <div class="attribute-value">  
+          </div>
+        </div>
+      </div>
+    </div></p>
+
+=== "Allevamento"
+    ### Allevamento
+    <p><div class="pokemon-attribute-container">
+      <img src="../../img/pokemon/timolino.png" width="200"/>
+      <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Shape</p>
+          <div class="attribute-value" style="column-gap: 0.5rem;">
+            <img src='../../img/shape/quad.png' style="vertical-align: middle; width: 75%;"/>
+          </div>
+        </div>
+      </div>
+    </div></p>
 
 
 ## Generali
