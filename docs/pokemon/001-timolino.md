@@ -45,15 +45,16 @@
     ### Allevamento
     <p><div class="pokemon-attribute-container">
       <img src="../../img/pokemon/timolino.png" width="200"/>
-      <div style="display: grid; grid-template-rows: 1fr 1fr; row-gap: 0.5rem;">
+      <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+        <div class="pokemon-attribute">
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+            <div style="width: 100%; height: 30px; background: linear-gradient(to right, #4A90E2 87.5%, #FF69B4 12.5%); border-radius: 5px; position: relative;"></div>
+          </div>
+        </div>
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Gender Ratio</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-            <div style="width: 100%; height: 30px; background: linear-gradient(to right, #4A90E2 87.5%, #FF69B4 12.5%); border-radius: 5px; position: relative;"></div>
-            <div style="display: flex; justify-content: space-between; margin-top: 5px; font-weight: bold; font-size: 14px;">
-              <span style="color: black;">87.5% ♂</span>
-              <span style="color: black;">12.5% ♀</span>
-            </div>
+            <span style="color: black; font-size: 14px; font-weight: bold;">87.5% ♂ / 12.5% ♀</span>
           </div>
         </div>
         <div class="pokemon-attribute">
@@ -64,6 +65,7 @@
         </div>
       </div>
     </div></p>
+
 
 
 
