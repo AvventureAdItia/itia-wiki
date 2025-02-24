@@ -97,7 +97,7 @@
     - **Fata Morgana**;
     - **Nubi lenticolari**;
     - **Costellazione dei Pesci**;
-    - **Notte di San Lorenza**;
+    - **Notte di San Lorenzo**;
     - **Almanacco perpetuo di Rutilio Benincasa**.
 
 
