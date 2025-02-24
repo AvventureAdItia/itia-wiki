@@ -46,18 +46,15 @@
       <div style="display: grid; grid-template-rows: 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Gender Ratio</p>
-          <div class="attribute-value">
-            <div style="width: 100%; height: 20px; background: linear-gradient(to right, #4A90E2 87.5%, #FF69B4 12.5%); border-radius: 5px; position: relative;">
-              <span style="position: absolute; left: 5px; color: white; font-size: 14px;">87.5% ♂</span>
-              <span style="position: absolute; right: 5px; color: white; font-size: 14px;">12.5% ♀</span>
-            </div>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+            <p style="margin: 0; font-size: 14px; color: #4A90E2;">87.5%/</p>
+            <p style="margin: 0; font-size: 14px; color: #FF69B4;">12.5% </p>
           </div>
         </div>
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Hatch Time</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-            <p style="margin: 0; font-size: 16px; font-weight: bold;">20</p>
-            <p style="margin: 0; font-size: 14px; color: #737373;">Cycles</p>
+            <p style="margin: 0; font-size: 14px; color: #737373;">20 Cycles</p>
           </div>
         </div>
         <div class="pokemon-attribute">
