@@ -51,7 +51,7 @@
             <div style="width: 100%; height: 30px; background: linear-gradient(to right, #4A90E2 87.5%, #FF69B4 12.5%); border-radius: 5px; position: relative;"></div>
           </div>
         </div>
-        <div class="pokemon-attribute">
+        <div class="pokemon-attribute" >
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Gender Ratio</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
             <span style="color: black; font-size: 14px; font-weight: bold;">87.5% ♂ / 12.5% ♀</span>
