@@ -10,13 +10,12 @@
 ## Pokédex
 
 === "Classificazione"
-    ### Classificazione
     <p><div class="pokemon-attribute-container">
       <img src="../../img/pokemon/timolino.png" width="200"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Class</p>
-          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f3f3f3;">
+          <div class="attribute-value">
             <p style="margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Cucciolo</p>
           </div>
         </div>
@@ -42,18 +41,27 @@
     </div></p>
 
 === "Allevamento"
-    ### Allevamento
     <p><div class="pokemon-attribute-container">
       <img src="../../img/pokemon/timolino.png" width="200"/>
-      <div style="display: grid; grid-template-rows: 1fr; row-gap: 0.5rem;">
+      <div style="display: grid; grid-template-rows: 1fr 1fr; row-gap: 0.5rem;">
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Gender Ratio</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9;">
+            <div style="width: 100%; height: 20px; background: linear-gradient(to right, #4A90E2 87.5%, #FF69B4 12.5%); border-radius: 5px; position: relative;">
+              <span style="position: absolute; left: 5px; color: white; font-size: 14px;">87.5% ♂</span>
+              <span style="position: absolute; right: 5px; color: white; font-size: 14px;">12.5% ♀</span>
+            </div>
+          </div>
+        </div>
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Shape</p>
-          <div class="attribute-value" style="column-gap: 0.5rem;">
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; display: flex; justify-content: center; align-items: center;">
             <img src='../../img/shape/quad.png' style="vertical-align: middle; width: 75%;"/>
           </div>
         </div>
       </div>
     </div></p>
+
 
 
 
