@@ -12,29 +12,29 @@
 === "Classificazione"
     ### Classificazione
     <p><div class="pokemon-attribute-container">
-      <div class="pokemon-image-container">
-        <img src="../../img/pokemon/timolino.png" width="150"/>
-      </div>
-      <div class="pokemon-info">
+      <img src="../../img/pokemon/timolino.png" width="200"/>
+      <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
-          <p class="attribute-title">Class</p>
-          <div class="attribute-value">Cucciolo</div>
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Class</p>
+          <div class="attribute-value">
+            <p style="margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Cucciolo</p>
+          </div>
         </div>
         <div class="pokemon-attribute">
-          <p class="attribute-title">Types</p>
-          <div class="attribute-value">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
+          <div class="attribute-value" style="column-gap: 0.5rem;">
             <img src='../../img/types/grass.png' style='width: 77px; height: 26px;'/>
           </div>
         </div>
         <div class="pokemon-attribute">
-          <p class="attribute-title">Abilities</p>
-          <div class="attribute-value">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Ability</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9;">
             <a href='' title="When this Pokemon has 1/3 or less of its HP remaining, its grass-type moves inflict 1.5x as much regular damage.">Overgrow</a>
           </div>
         </div>
-        <div class="hidden-pokemon-attribute">
-          <p class="attribute-title">Hidden Ability</p>
-          <div class="attribute-value">
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Hidden Ability</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f3f3f3;">
             <a href='' title="Quando il Pokémon viene sostituito recupera un'ottavo di vita e i suoi problemi di stato vengono curati. Il Pokémon che entra in battaglia al suo posto viene anch'esso curato dai problemi di stato.">Capobranco</a>
           </div>
         </div>
@@ -44,18 +44,17 @@
 === "Allevamento"
     ### Allevamento
     <p><div class="pokemon-attribute-container">
-      <div class="pokemon-image-container">
-        <img src="../../img/pokemon/timolino.png" width="150"/>
-      </div>
-      <div class="pokemon-info">
+      <img src="../../img/pokemon/timolino.png" width="200"/>
+      <div style="display: grid; grid-template-rows: 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
-          <p class="attribute-title">Shape</p>
-          <div class="attribute-value">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Shape</p>
+          <div class="attribute-value" style="column-gap: 0.5rem;">
             <img src='../../img/shape/quad.png' style="vertical-align: middle; width: 75%;"/>
           </div>
         </div>
       </div>
     </div></p>
+
 
 
 
