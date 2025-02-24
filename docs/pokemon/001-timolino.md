@@ -7,6 +7,7 @@
   ➡️
 </div>
 
+
 <div class="tabbed-set">
   <input type="radio" id="tab1" name="tabs" checked>
   <input type="radio" id="tab2" name="tabs">
@@ -19,10 +20,6 @@
     <label for="tab1">Classificazione</label>
     <label for="tab2">Allevamento</label>
   </div>
-
-
-<div class="pokemon-attribute-container">
-  <img src="../../img/pokemon/timolino.png" width="200"/>
 
   <div class="tabbed-content">
     <div class="tabbed-block">
@@ -46,11 +43,6 @@
             /<a href='' title="Quando il Pokémon viene sostituito recupera un'ottavo di vita e i suoi problemi di stato vengono curati. Il Pokémon che entra in battaglia al suo posto viene anch'esso curato dai problemi di stato.">Capobranco</a>
           </div>
         </div>
-        <div style="display: none;" class="hidden-pokemon-attribute">
-          <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
-          <div class="attribute-value">  
-          </div>
-        </div>
       </div>
     </div>
     <div class="tabbed-block">
@@ -63,7 +55,6 @@
     </div>
   </div>
 </div>
-
 
 <style>
   .tabbed-set {
@@ -103,6 +94,8 @@
     display: block;
   }
 </style>
+
+
 
 
 ## Generali

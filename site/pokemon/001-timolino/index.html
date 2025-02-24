@@ -79,11 +79,6 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
-        
-        <a href="#generali" class="md-skip">
-          Skip to content
-        </a>
-      
     </div>
     <div data-md-component="announce">
       
@@ -343,17 +338,6 @@
       
       
       
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          
-  
-  <span class="md-ellipsis">
-    001 - Timolino
-  </span>
-  
-
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -363,92 +347,6 @@
   
 
       </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#generali" class="md-nav__link">
-    <span class="md-ellipsis">
-      Generali
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Generali">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#descrizione" class="md-nav__link">
-    <span class="md-ellipsis">
-      Descrizione
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ispirazioni" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ispirazioni
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#vincitore" class="md-nav__link">
-    <span class="md-ellipsis">
-      Vincitore
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#base-stats" class="md-nav__link">
-    <span class="md-ellipsis">
-      Base Stats
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#evolution-change" class="md-nav__link">
-    <span class="md-ellipsis">
-      Evolution Change
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#moveset" class="md-nav__link">
-    <span class="md-ellipsis">
-      Moveset
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
       
     </li>
   
@@ -3293,83 +3191,6 @@
   
   
   
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#generali" class="md-nav__link">
-    <span class="md-ellipsis">
-      Generali
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Generali">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#descrizione" class="md-nav__link">
-    <span class="md-ellipsis">
-      Descrizione
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ispirazioni" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ispirazioni
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#vincitore" class="md-nav__link">
-    <span class="md-ellipsis">
-      Vincitore
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#base-stats" class="md-nav__link">
-    <span class="md-ellipsis">
-      Base Stats
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#evolution-change" class="md-nav__link">
-    <span class="md-ellipsis">
-      Evolution Change
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#moveset" class="md-nav__link">
-    <span class="md-ellipsis">
-      Moveset
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
 </nav>
                   </div>
                 </div>
@@ -3397,115 +3218,136 @@
   ➡️
 </div>
 
-<div class="pokemon-container" style="display: flex; align-items: flex-start; gap: 1rem;">
-  <div class="pokemon-image" style="flex: 0 0 200px; text-align: center;">
+<div class="tabbed-set">
+  <input type="radio" id="tab1" name="tabs" checked>
+  <input type="radio" id="tab2" name="tabs">
+
+  <div class="pokemon-attribute-container">
     <img src="../../img/pokemon/timolino.png" width="200"/>
   </div>
-      <div class="pokemon-attribute-container" style="flex: 1;">
-        <div style="display: grid; grid-template-rows: repeat(auto-fill, minmax(1fr, auto)); row-gap: 0.5rem;">
-          <div class="pokemon-attribute">
-            <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Class</p>
-            <div class="attribute-value">
-              <p style="margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Cucciolo</p>
-            </div>
+
+  <div class="tabbed-labels">
+    <label for="tab1">Classificazione</label>
+    <label for="tab2">Allevamento</label>
+  </div>
+
+
+<div class="pokemon-attribute-container">
+  <img src="../../img/pokemon/timolino.png" width="200"/>
+
+  <div class="tabbed-content">
+    <div class="tabbed-block">
+      <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Class</p>
+          <div class="attribute-value">
+            <p style="margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Cucciolo</p>
           </div>
-          <div class="pokemon-attribute">
-            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
-            <div class="attribute-value" style="column-gap: 0.5rem;">
-              <img src='../../img/types/grass.png' style='width: 77px; height: 26px;'/>
-            </div>
+        </div>
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
+          <div class="attribute-value" style="column-gap: 0.5rem;">
+            <img src='../../img/types/grass.png' style='width: 77px; height: 26px;'/>
           </div>
-          <div class="pokemon-attribute">
-            <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
-            <div class="attribute-value">
-              <a href='' title="When this Pokemon has 1/3 or less of its HP remaining, its grass-type moves inflict 1.5x as much regular damage.">Overgrow</a>
-              /<a href='' title="Quando il Pokémon viene sostituito recupera un'ottavo di vita e i suoi problemi di stato vengono curati. Il Pokémon che entra in battaglia al suo posto viene anch'esso curato dai problemi di stato.">Capobranco</a>
-            </div>
+        </div>
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
+          <div class="attribute-value">
+            <a href='' title="When this Pokemon has 1/3 or less of its HP remaining, its grass-type moves inflict 1.5x as much regular damage.">Overgrow</a>
+            /<a href='' title="Quando il Pokémon viene sostituito recupera un'ottavo di vita e i suoi problemi di stato vengono curati. Il Pokémon che entra in battaglia al suo posto viene anch'esso curato dai problemi di stato.">Capobranco</a>
           </div>
-          <div style="display: none;" class="hidden-pokemon-attribute">
-            <p style="color: #737373; margin: 0px; font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
-            <div class="attribute-value"></div>
-          </div>
-          <!-- Sezione Rapporto di Genere con Riquadro Migliorato -->
-          <div class="pokemon-attribute" style="border: 1px solid #ccc; padding: 15px; border-radius: 5px; text-align: center; width: 100%;">
-            <p style="color: #737373; margin-bottom: 10px; font-weight: bold; font-size:16px;">Gender Ratio</p>
-            <div style="width: 100%; height: 25px; background-color: #ccc; border-radius: 5px; overflow: hidden; display: flex;">
-              <div style="width: 87.5%; background-color: #4285F4; height: 100%;"></div>
-              <div style="width: 12.5%; background-color: #FF69B4; height: 100%;"></div>
-            </div>
-            <p style="margin: 10px 0 0; font-weight: normal; font-size:16px;">♂ 87.5% | ♀ 12.5%</p>
-          </div>
-          <div class="pokemon-attribute" style="display: flex; gap: 1rem;">
-            <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 5px; text-align: center;">
-              <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px;">Height</p>
-              <p style="margin: 0px; font-weight: normal; font-size:16px;">0.5 m</p>
-            </div>
-            <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 5px; text-align: center;">
-              <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px;">Weight</p>
-              <p style="margin: 0px; font-weight: normal; font-size:16px;">7.2 kg</p>
-            </div>
-          </div>
-          <div class="pokemon-attribute">
-            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Shape</p>
-            <div class="attribute-value" style="column-gap: 0.5rem;">
-              <img src='../../img/shape/quad.png' style="vertical-align: middle; width: 75%;"/>
-            </div>
+        </div>
+        <div style="display: none;" class="hidden-pokemon-attribute">
+          <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
+          <div class="attribute-value">  
           </div>
         </div>
       </div>
-      <div class="pokemon-attribute-container" style="flex: 1;">
-        <div style="display: grid; grid-template-rows: repeat(auto-fill, minmax(1fr, auto)); row-gap: 0.5rem;">
-          <div class="pokemon-attribute" style="display: flex; gap: 1rem;">
-            <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 5px; text-align: center;">
-              <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px;">Height</p>
-              <p style="margin: 0px; font-weight: normal; font-size:16px;">0.5 m</p>
-            </div>
-            <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 5px; text-align: center;">
-              <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px;">Weight</p>
-              <p style="margin: 0px; font-weight: normal; font-size:16px;">7.2 kg</p>
-            </div>
-          </div>
-          <div class="pokemon-attribute">
-            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Shape</p>
-            <div class="attribute-value" style="column-gap: 0.5rem;">
-              <img src='../../img/shape/quad.png' style="vertical-align: middle; width: 75%;"/>
-            </div>
-          </div>
+    </div>
+    <div class="tabbed-block">
+      <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Shape</p>
+        <div class="attribute-value" style="column-gap: 0.5rem;">
+          <img src='../../img/shape/quad.png' style="vertical-align: middle; width: 75%;"/>
         </div>
       </div>
+    </div>
+  </div>
 </div>
 
-<h2 id="generali">Generali</h2>
-<div class="tabbed-set tabbed-alternate" data-tabs="1:3"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><input id="__tabbed_1_3" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">Descrizione Pokedex</label><label for="__tabbed_1_2">Ispirazioni</label><label for="__tabbed_1_3">Vincitore del contest</label></div>
-<div class="tabbed-content">
-<div class="tabbed-block">
-<h3 id="descrizione">Descrizione</h3>
-<p>Sono Pokémon molto diffidenti nei confronti degli altri umani e pokémon. <br />
-Si affidano principalmente all'aiuto degli esemplari adulti che sono soliti donare ai propri cuccioli un po del loro pelo per adornare le quattro zampe. <br />
-Il pelo degli adulti aiuta i piccoli ad ottenere coraggio e a crescere come forti e vigorosi guerrieri. <br /></p>
-<p>Per maggiori informazioni il <a href="https://www.youtube.com/watch?v=tR_uukAGO7I&amp;t=464s">video completo</a>.</p>
-</div>
-<div class="tabbed-block">
-<h3 id="ispirazioni">Ispirazioni</h3>
-<p>Le ispirazioni alla base di Timolino e della sua catena evolutiva sono:</p>
-<ul>
-<li><strong>Lupo siciliano</strong>: una specie endemica propria dell'isola, dichiarata estinta nel 1920. La figura del lupo ha portato gli abitanti dell'isola a creare delle superstizioni, come quella di indossare la testa di un lupo per ottenere coraggio o far indossare scarpe con peli di lupo ai bambini, per farli crescere come forti guerrieri.</li>
-<li><strong>Timo</strong>: Pianta presente in varie parti del mondo, tra cui l'Italia. Gli antichi romani erano soliti preparare intrugli con questa pianta e dell'acqua per accrescere il proprio vigore e la propria forza.</li>
-<li><strong>Lupunari</strong>: Credenza siciliana, simile a quella dei lupi mannari, dove vi erano persone affette da disturbi della psiche, che credevano di essere delle bestie.</li>
-<li><strong>Leggenda del Monachello</strong>: Creatura leggendaria del folklore del Sud-Italia. Si tratta di uno spirito di natura benevola e dispettosa, solitamente rappresentato come un ragazzino deforme.</li>
-</ul>
-<p>Al fine di creare un filo comune per i tre leggendari si è scelto di rappresentare tre discipline artistiche. <br />
-Per lo starter d'erba si è optato per la letteratura, con dei riferimenti a <strong>Dante Alighieri</strong>. <br />
-Con un richiamo a una delle tre fiere incontrate nel primo canto dell'Inferno, con il tipo <strong>Buio</strong> che richiama la Selva Oscura e con la corona d'alloro che adorna il capo dell'ultimo stadio evolutivo. <br />
-Il lupo siciliano come animale di partenza è stato scelto per creare un collegamento con gli starter dei giochi originali, che si basano su animali estinti.</p>
-</div>
-<div class="tabbed-block">
-<h3 id="vincitore">Vincitore</h3>
-<p>Il Vincitore di Itia che ha dato origine a Timolino è <strong>Alvise</strong>.</p>
-</div>
-</div>
-</div>
-<h2 id="base-stats">Base Stats</h2>
+
+<style>
+  .tabbed-set {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .tabbed-labels {
+    display: flex;
+    gap: 1rem;
+    border-bottom: 2px solid #ccc;
+    margin-top: 10px;
+  }
+  .tabbed-labels label {
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    font-weight: bold;
+    border-bottom: 3px solid transparent;
+  }
+  input[type="radio"] {
+    display: none;
+  }
+  input[type="radio"]:checked + .tabbed-labels label {
+    border-bottom: 3px solid #007bff;
+  }
+  .tabbed-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .tabbed-block {
+    display: none;
+    padding: 1rem;
+  }
+  #tab1:checked ~ .tabbed-content .tabbed-block:nth-child(1),
+  #tab2:checked ~ .tabbed-content .tabbed-block:nth-child(2) {
+    display: block;
+  }
+</style>
+
+
+## Generali
+
+=== "Descrizione Pokedex"
+    ### Descrizione
+
+    Sono Pokémon molto diffidenti nei confronti degli altri umani e pokémon. <br />
+    Si affidano principalmente all'aiuto degli esemplari adulti che sono soliti donare ai propri cuccioli un po del loro pelo per adornare le quattro zampe. <br />
+    Il pelo degli adulti aiuta i piccoli ad ottenere coraggio e a crescere come forti e vigorosi guerrieri. <br />
+
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=tR_uukAGO7I&t=464s).
+
+=== "Ispirazioni"
+
+    ### Ispirazioni
+    Le ispirazioni alla base di Timolino e della sua catena evolutiva sono:
+
+    - **Lupo siciliano**: una specie endemica propria dell'isola, dichiarata estinta nel 1920. La figura del lupo ha portato gli abitanti dell'isola a creare delle superstizioni, come quella di indossare la testa di un lupo per ottenere coraggio o far indossare scarpe con peli di lupo ai bambini, per farli crescere come forti guerrieri.
+    - **Timo**: Pianta presente in varie parti del mondo, tra cui l'Italia. Gli antichi romani erano soliti preparare intrugli con questa pianta e dell'acqua per accrescere il proprio vigore e la propria forza.
+    - **Lupunari**: Credenza siciliana, simile a quella dei lupi mannari, dove vi erano persone affette da disturbi della psiche, che credevano di essere delle bestie.
+    - **Leggenda del Monachello**: Creatura leggendaria del folklore del Sud-Italia. Si tratta di uno spirito di natura benevola e dispettosa, solitamente rappresentato come un ragazzino deforme.
+
+    Al fine di creare un filo comune per i tre leggendari si è scelto di rappresentare tre discipline artistiche. <br />
+    Per lo starter d'erba si è optato per la letteratura, con dei riferimenti a **Dante Alighieri**. <br />
+    Con un richiamo a una delle tre fiere incontrate nel primo canto dell'Inferno, con il tipo **Buio** che richiama la Selva Oscura e con la corona d'alloro che adorna il capo dell'ultimo stadio evolutivo. <br />
+    Il lupo siciliano come animale di partenza è stato scelto per creare un collegamento con gli starter dei giochi originali, che si basano su animali estinti.
+
+=== "Vincitore del contest"
+    ### Vincitore
+
+    Il Vincitore di Itia che ha dato origine a Timolino è **Alvise**.
+
+## Base Stats
 <table style="width: 100%">
   <tbody style="width: 100%;">
     <tr style="display: flex; align-items: center;">
@@ -3559,476 +3401,71 @@ Il lupo siciliano come animale di partenza è stato scelto per creare un collega
   </tbody>
 </table>
 
-<h2 id="evolution-change">Evolution Change</h2>
-<table>
-<thead>
-<tr>
-<th style="text-align: center;">Method</th>
-<th style="text-align: center;">Item/Level/Note</th>
-<th style="text-align: center;">Evolved Pokemon</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;">Level Up</td>
-<td style="text-align: center;">16</td>
-<td style="text-align: center;"><a href="https://avventureaditia.github.io/itia-wiki/pokemon/002-thymad/">Thymad</a></td>
-</tr>
-</tbody>
-</table>
-<h2 id="moveset">Moveset</h2>
-<div class="tabbed-set tabbed-alternate" data-tabs="2:2"><input checked="checked" id="__tabbed_2_1" name="__tabbed_2" type="radio" /><input id="__tabbed_2_2" name="__tabbed_2" type="radio" /><div class="tabbed-labels"><label for="__tabbed_2_1">Level Up Moves</label><label for="__tabbed_2_2">Machine Moves</label></div>
-<div class="tabbed-content">
-<div class="tabbed-block">
-<table>
-<thead>
-<tr>
-<th>Level</th>
-<th>Name</th>
-<th>Power</th>
-<th>Accuracy</th>
-<th>PP</th>
-<th>Type</th>
-<th>Damage Class</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>Tackle</td>
-<td>40</td>
-<td>100</td>
-<td>35</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="physical" src="../../img/types/physical.png" /></td>
-</tr>
-<tr>
-<td>1</td>
-<td>Growl</td>
-<td>-</td>
-<td>100</td>
-<td>40</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Fairy-lock</td>
-<td>-</td>
-<td>-</td>
-<td>10</td>
-<td><img alt="fairy" src="../../img/types/fairy.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-<tr>
-<td>4</td>
-<td>Secret-power</td>
-<td>70</td>
-<td>100</td>
-<td>20</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="physical" src="../../img/types/physical.png" /></td>
-</tr>
-<tr>
-<td>5</td>
-<td>Vine-whip</td>
-<td>45</td>
-<td>100</td>
-<td>25</td>
-<td><img alt="grass" src="../../img/types/grass.png" /></td>
-<td><img alt="physical" src="../../img/types/physical.png" /></td>
-</tr>
-<tr>
-<td>9</td>
-<td>Leech-seed</td>
-<td>-</td>
-<td>90</td>
-<td>10</td>
-<td><img alt="grass" src="../../img/types/grass.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-<tr>
-<td>14</td>
-<td>Sleep-powder</td>
-<td>-</td>
-<td>75</td>
-<td>15</td>
-<td><img alt="grass" src="../../img/types/grass.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-<tr>
-<td>14</td>
-<td>Poison-powder</td>
-<td>-</td>
-<td>75</td>
-<td>35</td>
-<td><img alt="poison" src="../../img/types/poison.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-<tr>
-<td>18</td>
-<td>Take-down</td>
-<td>90</td>
-<td>85</td>
-<td>20</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="physical" src="../../img/types/physical.png" /></td>
-</tr>
-<tr>
-<td>21</td>
-<td>Sweet-scent</td>
-<td>-</td>
-<td>100</td>
-<td>20</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-<tr>
-<td>23</td>
-<td>Razor-leaf</td>
-<td>55</td>
-<td>95</td>
-<td>25</td>
-<td><img alt="grass" src="../../img/types/grass.png" /></td>
-<td><img alt="physical" src="../../img/types/physical.png" /></td>
-</tr>
-<tr>
-<td>27</td>
-<td>Growth</td>
-<td>-</td>
-<td>-</td>
-<td>20</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-<tr>
-<td>31</td>
-<td>Worry-seed</td>
-<td>-</td>
-<td>100</td>
-<td>10</td>
-<td><img alt="grass" src="../../img/types/grass.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-<tr>
-<td>32</td>
-<td>Double-edge</td>
-<td>120</td>
-<td>100</td>
-<td>15</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="physical" src="../../img/types/physical.png" /></td>
-</tr>
-<tr>
-<td>33</td>
-<td>Synthesis</td>
-<td>-</td>
-<td>-</td>
-<td>5</td>
-<td><img alt="grass" src="../../img/types/grass.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-<tr>
-<td>37</td>
-<td>Seed-bomb</td>
-<td>80</td>
-<td>100</td>
-<td>15</td>
-<td><img alt="grass" src="../../img/types/grass.png" /></td>
-<td><img alt="physical" src="../../img/types/physical.png" /></td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="tabbed-block">
-<table>
-<thead>
-<tr>
-<th>Machine</th>
-<th>Name</th>
-<th>Power</th>
-<th>Accuracy</th>
-<th>PP</th>
-<th>Type</th>
-<th>Damage Class</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>TM27</td>
-<td>Toxic</td>
-<td>-</td>
-<td>90</td>
-<td>10</td>
-<td><img alt="poison" src="../../img/types/poison.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-<tr>
-<td>TM100</td>
-<td>Confide</td>
-<td>-</td>
-<td>-</td>
-<td>20</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-<tr>
-<td>TM27</td>
-<td>Return</td>
-<td>-</td>
-<td>100</td>
-<td>20</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="physical" src="../../img/types/physical.png" /></td>
-</tr>
-<tr>
-<td>TM87</td>
-<td>Swagger</td>
-<td>-</td>
-<td>85</td>
-<td>15</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-<tr>
-<td>TM09</td>
-<td>Venoshock</td>
-<td>65</td>
-<td>100</td>
-<td>10</td>
-<td><img alt="poison" src="../../img/types/poison.png" /></td>
-<td><img alt="special" src="../../img/types/special.png" /></td>
-</tr>
-<tr>
-<td>TM05</td>
-<td>Rest</td>
-<td>-</td>
-<td>-</td>
-<td>5</td>
-<td><img alt="psychic" src="../../img/types/psychic.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-<tr>
-<td>TM36</td>
-<td>Sludge-bomb</td>
-<td>90</td>
-<td>100</td>
-<td>10</td>
-<td><img alt="poison" src="../../img/types/poison.png" /></td>
-<td><img alt="special" src="../../img/types/special.png" /></td>
-</tr>
-<tr>
-<td>TM01</td>
-<td>Headbutt</td>
-<td>70</td>
-<td>100</td>
-<td>15</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="physical" src="../../img/types/physical.png" /></td>
-</tr>
-<tr>
-<td>TM88</td>
-<td>Sleep-talk</td>
-<td>-</td>
-<td>-</td>
-<td>10</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-<tr>
-<td>TM32</td>
-<td>Double-team</td>
-<td>-</td>
-<td>-</td>
-<td>15</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-<tr>
-<td>TM86</td>
-<td>Grass-knot</td>
-<td>-</td>
-<td>100</td>
-<td>20</td>
-<td><img alt="grass" src="../../img/types/grass.png" /></td>
-<td><img alt="special" src="../../img/types/special.png" /></td>
-</tr>
-<tr>
-<td>TM10</td>
-<td>Hidden-power</td>
-<td>60</td>
-<td>100</td>
-<td>15</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="special" src="../../img/types/special.png" /></td>
-</tr>
-<tr>
-<td>TM21</td>
-<td>Frustration</td>
-<td>-</td>
-<td>100</td>
-<td>20</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="physical" src="../../img/types/physical.png" /></td>
-</tr>
-<tr>
-<td>TM53</td>
-<td>Energy-ball</td>
-<td>90</td>
-<td>100</td>
-<td>10</td>
-<td><img alt="grass" src="../../img/types/grass.png" /></td>
-<td><img alt="special" src="../../img/types/special.png" /></td>
-</tr>
-<tr>
-<td>TM45</td>
-<td>Attract</td>
-<td>-</td>
-<td>100</td>
-<td>15</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-<tr>
-<td>TM45</td>
-<td>Solar-beam</td>
-<td>120</td>
-<td>100</td>
-<td>10</td>
-<td><img alt="grass" src="../../img/types/grass.png" /></td>
-<td><img alt="special" src="../../img/types/special.png" /></td>
-</tr>
-<tr>
-<td>TM11</td>
-<td>Sunny-day</td>
-<td>-</td>
-<td>-</td>
-<td>5</td>
-<td><img alt="fire" src="../../img/types/fire.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-<tr>
-<td>TM08</td>
-<td>Substitute</td>
-<td>-</td>
-<td>-</td>
-<td>10</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-<tr>
-<td>TM16</td>
-<td>Light-screen</td>
-<td>-</td>
-<td>-</td>
-<td>30</td>
-<td><img alt="psychic" src="../../img/types/psychic.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-<tr>
-<td>TM39</td>
-<td>Outrage</td>
-<td>120</td>
-<td>100</td>
-<td>10</td>
-<td><img alt="dragon" src="../../img/types/dragon.png" /></td>
-<td><img alt="physical" src="../../img/types/physical.png" /></td>
-</tr>
-<tr>
-<td>TM20</td>
-<td>Safeguard</td>
-<td>-</td>
-<td>-</td>
-<td>25</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-<tr>
-<td>TM07</td>
-<td>Protect</td>
-<td>-</td>
-<td>-</td>
-<td>10</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-<tr>
-<td>TM12</td>
-<td>Facade</td>
-<td>70</td>
-<td>100</td>
-<td>20</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="physical" src="../../img/types/physical.png" /></td>
-</tr>
-<tr>
-<td>TM01</td>
-<td>Work-up</td>
-<td>-</td>
-<td>-</td>
-<td>30</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-<tr>
-<td>TM96</td>
-<td>Nature-power</td>
-<td>-</td>
-<td>-</td>
-<td>20</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-<tr>
-<td>TM48</td>
-<td>Round</td>
-<td>60</td>
-<td>100</td>
-<td>15</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="special" src="../../img/types/special.png" /></td>
-</tr>
-<tr>
-<td>TM49</td>
-<td>Echoed-voice</td>
-<td>40</td>
-<td>100</td>
-<td>15</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="special" src="../../img/types/special.png" /></td>
-</tr>
-<tr>
-<td>TM53</td>
-<td>Mega-drain</td>
-<td>40</td>
-<td>100</td>
-<td>15</td>
-<td><img alt="grass" src="../../img/types/grass.png" /></td>
-<td><img alt="special" src="../../img/types/special.png" /></td>
-</tr>
-<tr>
-<td>TM33</td>
-<td>Reflect</td>
-<td>-</td>
-<td>-</td>
-<td>20</td>
-<td><img alt="psychic" src="../../img/types/psychic.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-<tr>
-<td>TM75</td>
-<td>Swords-dance</td>
-<td>-</td>
-<td>-</td>
-<td>20</td>
-<td><img alt="normal" src="../../img/types/normal.png" /></td>
-<td><img alt="status" src="../../img/types/status.png" /></td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-</div>
+##Evolution Change
+| Method | Item/Level/Note | Evolved Pokemon |
+        | :--: | :--: | :--: |
+        | Level Up | 16 | [Thymad](https://avventureaditia.github.io/itia-wiki/pokemon/002-thymad/) |
+
+
+
+
+## Moveset
+
+=== "Level Up Moves"
+    | Level | Name | Power | Accuracy | PP | Type | Damage Class |
+        | -- | -- | -- | -- | -- | -- | -- |
+            | 1 | Tackle | 40 | 100 | 35 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
+    | 1 | Growl | - | 100 | 40 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
+    | 3 | Fairy-lock | - | - | 10 | ![fairy](../img/types/fairy.png) | ![status](../img/types/status.png) |
+    | 4 | Secret-power | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
+    | 5 | Vine-whip | 45 | 100 | 25 | ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png) |
+    | 9 | Leech-seed | - | 90 | 10 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
+    | 14 | Sleep-powder | - | 75 | 15 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
+    | 14 | Poison-powder | - | 75 | 35 | ![poison](../img/types/poison.png) | ![status](../img/types/status.png) |
+    | 18 | Take-down | 90 | 85 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
+    | 21 | Sweet-scent | - | 100 | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
+    | 23 | Razor-leaf | 55 | 95 | 25 | ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png) |
+    | 27 | Growth | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
+    | 31 | Worry-seed | - | 100 | 10 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
+    | 32 | Double-edge | 120 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
+    | 33 | Synthesis | - | - | 5 | ![grass](../img/types/grass.png) | ![status](../img/types/status.png) |
+    | 37 | Seed-bomb | 80 | 100 | 15 | ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png) |
+
+
+
+=== "Machine Moves"
+    | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
+        | -- | -- | -- | -- | -- | -- | -- |
+            | TM27 | Toxic | - | 90 | 10 | ![poison](../img/types/poison.png) | ![status](../img/types/status.png) |
+    | TM100 | Confide | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
+    | TM27 | Return | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
+    | TM87 | Swagger | - | 85 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
+    | TM09 | Venoshock | 65 | 100 | 10 | ![poison](../img/types/poison.png) | ![special](../img/types/special.png) |
+    | TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
+    | TM36 | Sludge-bomb | 90 | 100 | 10 | ![poison](../img/types/poison.png) | ![special](../img/types/special.png) |
+    | TM01 | Headbutt | 70 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
+    | TM88 | Sleep-talk | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
+    | TM32 | Double-team | - | - | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
+    | TM86 | Grass-knot | - | 100 | 20 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
+    | TM10 | Hidden-power | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
+    | TM21 | Frustration | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
+    | TM53 | Energy-ball | 90 | 100 | 10 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
+    | TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
+    | TM45 | Solar-beam | 120 | 100 | 10 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
+    | TM11 | Sunny-day | - | - | 5 | ![fire](../img/types/fire.png) | ![status](../img/types/status.png) |
+    | TM08 | Substitute | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
+    | TM16 | Light-screen | - | - | 30 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
+    | TM39 | Outrage | 120 | 100 | 10 | ![dragon](../img/types/dragon.png) | ![physical](../img/types/physical.png) |
+    | TM20 | Safeguard | - | - | 25 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
+    | TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
+    | TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
+    | TM01 | Work-up | - | - | 30 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
+    | TM96 | Nature-power | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
+    | TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
+    | TM49 | Echoed-voice | 40 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
+    | TM53 | Mega-drain | 40 | 100 | 15 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
+    | TM33 | Reflect | - | - | 20 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
+    | TM75 | Swords-dance | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
 
 
 
