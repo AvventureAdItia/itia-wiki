@@ -47,14 +47,22 @@
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Gender Ratio</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-            <p style="margin: 0; font-size: 14px; color: #4A90E2;">87.5%/</p>
-            <p style="margin: 0; font-size: 14px; color: #FF69B4;">12.5% </p>
+            <p style="margin: 0; font-size: 14px; color: #4A90E2; display: inline;">87.5%</p>
+            <p style="margin: 0; font-size: 14px; color: #FF69B4; display: inline;"> / 12.5% </p>
           </div>
         </div>
-        <div class="pokemon-attribute">
-          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Hatch Time</p>
-          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-            <p style="margin: 0; font-size: 14px; color: #737373;">20 Cycles</p>
+        <div style="display: flex; gap: 1rem;">
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Egg Groups</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px; color: #737373;">Field and Grass</p>
+            </div>
+          </div>
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Hatch Time</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px; color: #737373;">20 Cycles</p>
+            </div>
           </div>
         </div>
         <div class="pokemon-attribute">
@@ -65,8 +73,6 @@
         </div>
       </div>
     </div></p>
-
-
 
 
 
