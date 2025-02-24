@@ -57,23 +57,6 @@
       </div>
     </div></p>
 
-<style>
-.pokemon-image-container {
-  width: 150px;
-  height: 150px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border: 2px solid #ddd;
-  border-radius: 8px;
-  background-color: #f9f9f9;
-}
-
-.pokemon-image-container img {
-  max-width: 100%;
-  max-height: 100%;
-}
-</style>
 
 
 ## Generali
