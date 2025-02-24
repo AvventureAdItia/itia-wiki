@@ -7,86 +7,102 @@
   ➡️
 </div>
 
+<div class="tabbed-set">
+  <input type="radio" id="tab1" name="tabs" checked>
+  <input type="radio" id="tab2" name="tabs">
 
-<div class="pokemon-container" style="display: flex; align-items: flex-start; gap: 1rem;">
-  <div class="pokemon-image" style="flex: 0 0 200px; text-align: center;">
+  <div class="pokemon-attribute-container">
     <img src="../../img/pokemon/timolino.png" width="200"/>
   </div>
-      <div class="pokemon-attribute-container" style="flex: 1;">
-        <div style="display: grid; grid-template-rows: repeat(auto-fill, minmax(1fr, auto)); row-gap: 0.5rem;">
-          <div class="pokemon-attribute">
-            <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Class</p>
-            <div class="attribute-value">
-              <p style="margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Cucciolo</p>
-            </div>
+
+  <div class="tabbed-labels">
+    <label for="tab1">Classificazione</label>
+    <label for="tab2">Allevamento</label>
+  </div>
+
+
+<div class="pokemon-attribute-container">
+  <img src="../../img/pokemon/timolino.png" width="200"/>
+
+  <div class="tabbed-content">
+    <div class="tabbed-block">
+      <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Class</p>
+          <div class="attribute-value">
+            <p style="margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Cucciolo</p>
           </div>
-          <div class="pokemon-attribute">
-            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
-            <div class="attribute-value" style="column-gap: 0.5rem;">
-              <img src='../../img/types/grass.png' style='width: 77px; height: 26px;'/>
-            </div>
+        </div>
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
+          <div class="attribute-value" style="column-gap: 0.5rem;">
+            <img src='../../img/types/grass.png' style='width: 77px; height: 26px;'/>
           </div>
-          <div class="pokemon-attribute">
-            <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
-            <div class="attribute-value">
-              <a href='' title="When this Pokemon has 1/3 or less of its HP remaining, its grass-type moves inflict 1.5x as much regular damage.">Overgrow</a>
-              /<a href='' title="Quando il Pokémon viene sostituito recupera un'ottavo di vita e i suoi problemi di stato vengono curati. Il Pokémon che entra in battaglia al suo posto viene anch'esso curato dai problemi di stato.">Capobranco</a>
-            </div>
+        </div>
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
+          <div class="attribute-value">
+            <a href='' title="When this Pokemon has 1/3 or less of its HP remaining, its grass-type moves inflict 1.5x as much regular damage.">Overgrow</a>
+            /<a href='' title="Quando il Pokémon viene sostituito recupera un'ottavo di vita e i suoi problemi di stato vengono curati. Il Pokémon che entra in battaglia al suo posto viene anch'esso curato dai problemi di stato.">Capobranco</a>
           </div>
-          <div style="display: none;" class="hidden-pokemon-attribute">
-            <p style="color: #737373; margin: 0px; font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
-            <div class="attribute-value"></div>
-          </div>
-          <!-- Sezione Rapporto di Genere con Riquadro Migliorato -->
-          <div class="pokemon-attribute" style="border: 1px solid #ccc; padding: 15px; border-radius: 5px; text-align: center; width: 100%;">
-            <p style="color: #737373; margin-bottom: 10px; font-weight: bold; font-size:16px;">Gender Ratio</p>
-            <div style="width: 100%; height: 25px; background-color: #ccc; border-radius: 5px; overflow: hidden; display: flex;">
-              <div style="width: 87.5%; background-color: #4285F4; height: 100%;"></div>
-              <div style="width: 12.5%; background-color: #FF69B4; height: 100%;"></div>
-            </div>
-            <p style="margin: 10px 0 0; font-weight: normal; font-size:16px;">♂ 87.5% | ♀ 12.5%</p>
-          </div>
-          <div class="pokemon-attribute" style="display: flex; gap: 1rem;">
-            <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 5px; text-align: center;">
-              <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px;">Height</p>
-              <p style="margin: 0px; font-weight: normal; font-size:16px;">0.5 m</p>
-            </div>
-            <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 5px; text-align: center;">
-              <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px;">Weight</p>
-              <p style="margin: 0px; font-weight: normal; font-size:16px;">7.2 kg</p>
-            </div>
-          </div>
-          <div class="pokemon-attribute">
-            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Shape</p>
-            <div class="attribute-value" style="column-gap: 0.5rem;">
-              <img src='../../img/shape/quad.png' style="vertical-align: middle; width: 75%;"/>
-            </div>
+        </div>
+        <div style="display: none;" class="hidden-pokemon-attribute">
+          <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
+          <div class="attribute-value">  
           </div>
         </div>
       </div>
-      <div class="pokemon-attribute-container" style="flex: 1;">
-        <div style="display: grid; grid-template-rows: repeat(auto-fill, minmax(1fr, auto)); row-gap: 0.5rem;">
-          <div class="pokemon-attribute" style="display: flex; gap: 1rem;">
-            <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 5px; text-align: center;">
-              <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px;">Height</p>
-              <p style="margin: 0px; font-weight: normal; font-size:16px;">0.5 m</p>
-            </div>
-            <div style="flex: 1; border: 1px solid #ccc; padding: 10px; border-radius: 5px; text-align: center;">
-              <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px;">Weight</p>
-              <p style="margin: 0px; font-weight: normal; font-size:16px;">7.2 kg</p>
-            </div>
-          </div>
-          <div class="pokemon-attribute">
-            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Shape</p>
-            <div class="attribute-value" style="column-gap: 0.5rem;">
-              <img src='../../img/shape/quad.png' style="vertical-align: middle; width: 75%;"/>
-            </div>
-          </div>
+    </div>
+    <div class="tabbed-block">
+      <div class="pokemon-attribute">
+        <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Shape</p>
+        <div class="attribute-value" style="column-gap: 0.5rem;">
+          <img src='../../img/shape/quad.png' style="vertical-align: middle; width: 75%;"/>
         </div>
       </div>
+    </div>
+  </div>
 </div>
 
 
+<style>
+  .tabbed-set {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .tabbed-labels {
+    display: flex;
+    gap: 1rem;
+    border-bottom: 2px solid #ccc;
+    margin-top: 10px;
+  }
+  .tabbed-labels label {
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    font-weight: bold;
+    border-bottom: 3px solid transparent;
+  }
+  input[type="radio"] {
+    display: none;
+  }
+  input[type="radio"]:checked + .tabbed-labels label {
+    border-bottom: 3px solid #007bff;
+  }
+  .tabbed-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .tabbed-block {
+    display: none;
+    padding: 1rem;
+  }
+  #tab1:checked ~ .tabbed-content .tabbed-block:nth-child(1),
+  #tab2:checked ~ .tabbed-content .tabbed-block:nth-child(2) {
+    display: block;
+  }
+</style>
 
 
 ## Generali
