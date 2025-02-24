@@ -58,12 +58,6 @@
     </div></p>
 
 <style>
-.pokemon-attribute-container {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-}
-
 .pokemon-image-container {
   width: 150px;
   height: 150px;
@@ -78,33 +72,6 @@
 .pokemon-image-container img {
   max-width: 100%;
   max-height: 100%;
-}
-
-.pokemon-info {
-  display: grid;
-  grid-template-rows: repeat(auto-fit, minmax(40px, auto));
-  row-gap: 0.5rem;
-}
-
-.pokemon-attribute {
-  display: flex;
-  align-items: center;
-}
-
-.attribute-title {
-  color: #737373;
-  margin: 0;
-  font-weight: normal;
-  font-size: 16px;
-  align-self: center;
-}
-
-.attribute-value {
-  margin: 0;
-  font-weight: normal;
-  font-size: 16px;
-  align-self: center;
-  padding-left: 0.5rem;
 }
 </style>
 
