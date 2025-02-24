@@ -12,44 +12,45 @@
   <input type="radio" id="tab1" name="tabs" checked>
   <input type="radio" id="tab2" name="tabs">
 
-  <div class="pokemon-attribute-container">
-    <img src="../../img/pokemon/timolino.png" width="200"/>
-  </div>
-
   <div class="tabbed-labels">
     <label for="tab1">Classificazione</label>
     <label for="tab2">Allevamento</label>
   </div>
 
   <div class="tabbed-content">
-    <div class="tabbed-block">
-      <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
-        <div class="pokemon-attribute">
-          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Class</p>
-          <div class="attribute-value">
-            <p style="margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Cucciolo</p>
+    <div class="pokemon-info-container">
+      <div class="pokemon-image">
+        <img src="../../img/pokemon/timolino.png" width="200"/>
+      </div>
+      <div class="tabbed-block">
+        <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+          <div class="pokemon-attribute">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Class</p>
+            <div class="attribute-value">
+              <p style="margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Cucciolo</p>
+            </div>
           </div>
-        </div>
-        <div class="pokemon-attribute">
-          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
-          <div class="attribute-value" style="column-gap: 0.5rem;">
-            <img src='../../img/types/grass.png' style='width: 77px; height: 26px;'/>
+          <div class="pokemon-attribute">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
+            <div class="attribute-value" style="column-gap: 0.5rem;">
+              <img src='../../img/types/grass.png' style='width: 77px; height: 26px;'/>
+            </div>
           </div>
-        </div>
-        <div class="pokemon-attribute">
-          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
-          <div class="attribute-value">
-            <a href='' title="When this Pokemon has 1/3 or less of its HP remaining, its grass-type moves inflict 1.5x as much regular damage.">Overgrow</a>
-            /<a href='' title="Quando il Pokémon viene sostituito recupera un'ottavo di vita e i suoi problemi di stato vengono curati. Il Pokémon che entra in battaglia al suo posto viene anch'esso curato dai problemi di stato.">Capobranco</a>
+          <div class="pokemon-attribute">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
+            <div class="attribute-value">
+              <a href='' title="When this Pokemon has 1/3 or less of its HP remaining, its grass-type moves inflict 1.5x as much regular damage.">Overgrow</a>
+              /<a href='' title="Quando il Pokémon viene sostituito recupera un'ottavo di vita e i suoi problemi di stato vengono curati. Il Pokémon che entra in battaglia al suo posto viene anch'esso curato dai problemi di stato.">Capobranco</a>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-    <div class="tabbed-block">
-      <div class="pokemon-attribute">
-        <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Shape</p>
-        <div class="attribute-value" style="column-gap: 0.5rem;">
-          <img src='../../img/shape/quad.png' style="vertical-align: middle; width: 75%;"/>
+      <div class="tabbed-block">
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Shape</p>
+          <div class="attribute-value" style="column-gap: 0.5rem;">
+            <img src='../../img/shape/quad.png' style="vertical-align: middle; width: 75%;"/>
+          </div>
         </div>
       </div>
     </div>
@@ -85,6 +86,17 @@
     flex-direction: column;
     align-items: center;
   }
+  .pokemon-info-container {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  .pokemon-image {
+    flex-shrink: 0;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 8px;
+  }
   .tabbed-block {
     display: none;
     padding: 1rem;
@@ -94,7 +106,6 @@
     display: block;
   }
 </style>
-
 
 
 
