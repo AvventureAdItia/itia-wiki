@@ -13,7 +13,7 @@
 <div class="tabbed-block">
 <h3 id="forma-sonno">Classificazione</h3>
 <p><div class="pokemon-attribute-container">
-  <img src="../../img/pokemon/mousleep.png" width="100"/>
+  <img src="../../img/pokemon/timolino.png" width="200"/>
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
@@ -45,7 +45,7 @@
 <div class="tabbed-block">
 <h3 id="forma-risveglio">Allevamento</h3>
 <p><div class="pokemon-attribute-container">
-  <img src="../../img/pokemon/mousleep-sveglio.png" width="100"/>
+  <img src="../../img/pokemon/timolino.png" width="200"/>
   <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
     <div class="pokemon-attribute">
       <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Shape</p>
