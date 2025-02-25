@@ -97,9 +97,9 @@
     - **La peste**.
 
 === "Vincitore del contest"
-    ### Vincitore
+    ### Vincitori
 
-    Il Vincitore di Itia che ha dato origine a Ozbell è **Davide**.
+    I Vincitori di Itia che hanno dato origine a Ozbell sono **Davide** e **Ciatongo**.
 
 
 ## Base Stats
