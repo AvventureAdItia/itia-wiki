@@ -1,7 +1,7 @@
 <div style="text-align: center; margin-bottom: 20px;">
   ⬅️ 
-  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/015-yawnouse/">015 - Yawnouse
-    <img src="../../img/icon/yawnouse.png" style="vertical-align: middle;">
+  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/015-mousleep/">015 - mousleep
+    <img src="../../img/icon/mousleep.png" style="vertical-align: middle;">
   </a>
   <strong>016 - Mousleep</strong> 
   <img src="../../img/icon/mousleep.png" style="vertical-align: middle;">
@@ -16,7 +16,7 @@
 
 === "Tassonomia"
     <p><div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/yawnouse.png" width="150" style="object-fit: contain;"/>
+      <img src="../../img/pokemon/mousleep.png" width="150" style="object-fit: contain;"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Class</p>
@@ -40,7 +40,7 @@
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Cry</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f3f3f3;">
             <audio controls>
-              <source src="../../audio/yawnouse.mp3" type="audio/mpeg">
+              <source src="../../audio/mousleep.mp3" type="audio/mpeg">
             </audio>
           </div>
         </div>
@@ -49,7 +49,7 @@
 
 === "Aspetto"
     <p><div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/yawnouse.png" width="150" style="object-fit: contain;"/>
+      <img src="../../img/pokemon/mousleep.png" width="150" style="object-fit: contain;"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Height</p>
@@ -80,7 +80,7 @@
 
 === "Allevamento"
     <p><div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/yawnouse.png" width="150" style="object-fit: contain;"/>
+      <img src="../../img/pokemon/mousleep.png" width="150" style="object-fit: contain;"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr; row-gap: 0.5rem;">
         <div style="display: flex; gap: 1rem;">
           <div class="pokemon-attribute" style="flex: 1;">
@@ -148,7 +148,7 @@
 
 === "Tassonomia"
     <p><div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/yawnouse-sveglio.png" width="150" style="object-fit: contain;"/>
+      <img src="../../img/pokemon/mousleep-sveglio.png" width="150" style="object-fit: contain;"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Class</p>
@@ -173,7 +173,7 @@
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Cry</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f3f3f3;">
             <audio controls>
-              <source src="../../audio/yawnouse.mp3" type="audio/mpeg">
+              <source src="../../audio/mousleep.mp3" type="audio/mpeg">
             </audio>
           </div>
         </div>
@@ -182,7 +182,7 @@
 
 === "Aspetto"
     <p><div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/yawnouse-sveglio.png" width="150" style="object-fit: contain;"/>
+      <img src="../../img/pokemon/mousleep-sveglio.png" width="150" style="object-fit: contain;"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Height</p>
@@ -213,7 +213,7 @@
 
 === "Allevamento"
     <p><div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/yawnouse-sveglio.png" width="150" style="object-fit: contain;"/>
+      <img src="../../img/pokemon/mousleep-sveglio.png" width="150" style="object-fit: contain;"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr; row-gap: 0.5rem;">
         <div style="display: flex; gap: 1rem;">
           <div class="pokemon-attribute" style="flex: 1;">
@@ -360,7 +360,7 @@
 === "Base"
     <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
       <div style="flex: 1; text-align: center;">
-        <img src="../../img/back/MOUSELEEP.png" width="100" style="object-fit: contain;"/>
+        <img src="../../img/back/MOUSLEEP.png" width="100" style="object-fit: contain;"/>
       </div>
       <div style="flex: 1; text-align: center;">
         <img src="../../img/front/MOUSELEEP.png" width="100" style="object-fit: contain;"/>
@@ -370,7 +370,7 @@
 === "Base Shiny"
     <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
       <div style="flex: 1; text-align: center;">
-        <img src="../../img/back_shiny/MOUSELEEP.png" width="100" style="object-fit: contain;"/>
+        <img src="../../img/back_shiny/MOUSLEEP.png" width="100" style="object-fit: contain;"/>
       </div>
       <div style="flex: 1; text-align: center;">
         <img src="../../img/front_shiny/MOUSELEEP.png" width="100" style="object-fit: contain;"/>
@@ -380,7 +380,7 @@
 === "Forma Risveglio"
     <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
       <div style="flex: 1; text-align: center;">
-        <img src="../../img/back/MOUSELEEP_1.png" width="100" style="object-fit: contain;"/>
+        <img src="../../img/back/MOUSLEEP_1.png" width="100" style="object-fit: contain;"/>
       </div>
       <div style="flex: 1; text-align: center;">
         <img src="../../img/front/MOUSELEEP_1.png" width="100" style="object-fit: contain;"/>
@@ -390,10 +390,10 @@
 === "Forma Risveglio Shiny"
     <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
       <div style="flex: 1; text-align: center;">
-        <img src="../../img/back_shiny/MOUSELEEP_1.png" width="100" style="object-fit: contain;"/>
+        <img src="../../img/back_shiny/MOUSLEEP_1.png" width="100" style="object-fit: contain;"/>
       </div>
       <div style="flex: 1; text-align: center;">
-        <img src="../../img/front_shiny/MOUSELEEP_1.png" width="100" style="object-fit: contain;"/>
+        <img src="../../img/front_shiny/MOUSLEEP_1.png" width="100" style="object-fit: contain;"/>
       </div>
     </div>
 
