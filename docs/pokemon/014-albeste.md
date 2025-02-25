@@ -11,20 +11,16 @@
   ➡️
 </div>
 
-## Pokédex
+## Pokédex - Forma Base
 
 === "Tassonomia"
     <p><div class="pokemon-attribute-container">
-    ## Pokédex
-    === "Base"
-      <img src="../../img/pokemon/albeste.png" width="200" style="object-fit: contain;"/>
-    === "Alternativa"
-    <img src="../../img/pokemon/albeste-bagnata.png" width="200" style="object-fit: contain;"/>
+      <img src="../../img/pokemon/albeste.png" width="150" style="object-fit: contain;"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Class</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9;">
-            <p style="margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Pulcino</p>
+            <p style="margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Inverno</p>
           </div>
         </div>
         <div class="pokemon-attribute">
@@ -37,20 +33,15 @@
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Ability</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9;">
-          <a href='' title="During hail, this Pokemon has 1.25x its evasion, and it does not take hail damage regardless of type.  The evasion bonus does not count as a stat modifier.  Overworld: If the lead Pokemon has this ability, the wild encounter rate is halved in snow.">Snow-cloak</a>
-          </div>
-        </div>
-        <div class="pokemon-attribute">
-          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Hidden Ability</p>
-          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f3f3f3;">
-          <a href='' title="This Pokemon's moves have 1.3x their accuracy.  This ability has no effect on the one-hit KO moves (fissure, guillotine, horn drill, and sheer cold).  Overworld: If the first Pokemon in the party has this ability, the chance of a wild Pokemon holding a particular item is raised from 50%, 5%, or 1% to 60%, 20%, or 5%, respectively.">Compound-eyes</a>
+          <a href='' title="Se il Pokémon viene colpito da mosse di tipo Acqua o Fuoco, il manto di neve che ricopre il suo corpo si scioglie e il Pokémon cambia forma.
+            Sotto la neve riesce a recuperare il suo manto.">Candipiuma</a>
           </div>
         </div>
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Cry</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f3f3f3;">
             <audio controls>
-              <source src="../../audio/azuerla.mp3" type="audio/mpeg">
+              <source src="../../audio/albeste.mp3" type="audio/mpeg">
             </audio>
           </div>
         </div>
@@ -59,18 +50,18 @@
 
 === "Aspetto"
     <p><div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/azuerla.png" width="200" style="object-fit: contain;"/>
+      <img src="../../img/pokemon/albeste.png" width="150" style="object-fit: contain;"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Height</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-            <p style="margin: 0; font-size: 14px; color: #737373;">0,23 m</p>
+            <p style="margin: 0; font-size: 14px; color: #737373;">1,18 m</p>
           </div>
         </div>
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Weight</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-            <p style="margin: 0; font-size: 14px; color: #737373;">3,1 kg</p>
+            <p style="margin: 0; font-size: 14px; color: #737373;">6,76 kg</p>
           </div>
         </div>
         <div class="pokemon-attribute" style="flex: 1;">
@@ -90,21 +81,21 @@
 
 === "Allevamento"
     <p><div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/azuerla.png" width="200" style="object-fit: contain;"/>
+      <img src="../../img/pokemon/albeste.png" width="150" style="object-fit: contain;"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr; row-gap: 0.5rem;">
         <div style="display: flex; gap: 1rem;">
           <div class="pokemon-attribute" style="flex: 1;">
             <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Catch rate</p>
             <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-              <p style="margin: 0; font-size: 14px; color:rgb(6, 6, 6);">255</p>
+              <p style="margin: 0; font-size: 14px; color:rgb(6, 6, 6);">90</p>
             </div>
           </div>
           <div class="pokemon-attribute" style="flex: 1;">
             <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Gender Ratio</p>
             <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-              <p style="margin: 0; font-size: 14px; color: #4A90E2; display: inline;">50.0%</p>
+              <p style="margin: 0; font-size: 14px; color: #4A90E2; display: inline;">00.0%</p>
               <p style="margin: 0; font-size: 14px; color: #737373;">/</p>
-              <p style="margin: 0; font-size: 14px; color: #FF69B4; display: inline;">50.0%</p>
+              <p style="margin: 0; font-size: 14px; color: #FF69B4; display: inline;">100.0%</p>
             </div>
           </div>
         </div>
@@ -126,7 +117,7 @@
           <div class="pokemon-attribute" style="flex: 1;">
             <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Base experience yield</p>
             <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-              <p style="margin: 0; font-size: 14px; color:Red;">52</p>
+              <p style="margin: 0; font-size: 14px; color:Red;">155</p>
             </div>
           </div>
           <div class="pokemon-attribute" style="flex: 1;">
@@ -146,7 +137,7 @@
           <div class="pokemon-attribute" style="flex: 1;">
             <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">EV yield</p>
             <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-              <p style="margin: 0; font-size: 14px;">1 - Speed</p>
+              <p style="margin: 0; font-size: 14px;">2 - Speed</p>
             </div>
           </div>
         </div>
@@ -154,52 +145,18 @@
     </div></p>
 
 
-## Aspetto
+## Pokédex - Forma Manto Sciolto
 
-=== "Forma Base"
-    ### Forma Manto Invernale
-    <div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/albeste.png" width="100"/>
-      <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
+=== "Tassonomia"
+    <p><div class="pokemon-attribute-container">
+      <img src="../../img/pokemon/albeste-bagnata.png" width="150" style="object-fit: contain;"/>
+      <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
-        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
-        <div class="attribute-value">
-          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Inverno</p>
-        </div>
-      </div>
-        <div class="pokemon-attribute">
-          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
-          <div class="attribute-value" style="column-gap: 0.5rem;">
-            <img src='../../img/types/ice.png' style='width: 77px; height: 26px;'/>
-            <img src='../../img/types/flying.png' style='width: 77px; height: 26px;'/>
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Class</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9;">
+            <p style="margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Inverno</p>
           </div>
         </div>
-        <div class="pokemon-attribute">
-          <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
-          <div class="attribute-value">
-            <a href='' title="Se il Pokémon viene colpito da mosse di tipo Acqua o Fuoco, il manto di neve che ricopre il suo corpo si scioglie e il Pokémon cambia forma.
-            Sotto la neve riesce a recuperare il suo manto.">Candipiuma</a>
-          </div>
-        </div>
-        <div style="display: none;" class="hidden-pokemon-attribute">
-          <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
-          <div class="attribute-value">
-          </div>
-        </div>
-      </div>
-    </div>
-
-=== "Forma Base"
-    ### Forma Manto Sciolto
-    <div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/albeste-bagnata.png" width="100"/>
-      <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
-        <div class="pokemon-attribute">
-        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
-        <div class="attribute-value">
-          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Inverno</p>
-        </div>
-      </div>
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
           <div class="attribute-value" style="column-gap: 0.5rem;">
@@ -208,19 +165,118 @@
           </div>
         </div>
         <div class="pokemon-attribute">
-          <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
-          <div class="attribute-value">
-            <a href='' title="Se il Pokémon viene colpito da mosse di tipo Acqua o Fuoco, il manto di neve che ricopre il suo corpo si scioglie e il Pokémon cambia forma.
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Ability</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9;">
+          <a href='' title="Se il Pokémon viene colpito da mosse di tipo Acqua o Fuoco, il manto di neve che ricopre il suo corpo si scioglie e il Pokémon cambia forma.
             Sotto la neve riesce a recuperare il suo manto.">Candipiuma</a>
           </div>
         </div>
-        <div style="display: none;" class="hidden-pokemon-attribute">
-          <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
-          <div class="attribute-value">
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Cry</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f3f3f3;">
+            <audio controls>
+              <source src="../../audio/albeste.mp3" type="audio/mpeg">
+            </audio>
           </div>
         </div>
       </div>
-    </div>
+    </div></p>
+
+=== "Aspetto"
+    <p><div class="pokemon-attribute-container">
+      <img src="../../img/pokemon/albeste-bagnata.png" width="150" style="object-fit: contain;"/>
+      <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Height</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+            <p style="margin: 0; font-size: 14px; color: #737373;">1,16 m</p>
+          </div>
+        </div>
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Weight</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+            <p style="margin: 0; font-size: 14px; color: #737373;">18,26 kg</p>
+          </div>
+        </div>
+        <div class="pokemon-attribute" style="flex: 1;">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Pokédex Color</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+            <p style="margin: 0; font-size: 14px; color:Blue;">Blue</p>
+          </div>
+        </div>
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Shape</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; display: flex; justify-content: center; align-items: center;">
+            <img src='../../img/shape/single-wings.png' style="vertical-align: middle; width: 75%;"/>
+          </div>
+        </div>
+      </div>
+    </div></p>
+
+=== "Allevamento"
+    <p><div class="pokemon-attribute-container">
+      <img src="../../img/pokemon/albeste-bagnata.png" width="150" style="object-fit: contain;"/>
+      <div style="display: grid; grid-template-rows: 1fr 1fr; row-gap: 0.5rem;">
+        <div style="display: flex; gap: 1rem;">
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Catch rate</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px; color:rgb(6, 6, 6);">90</p>
+            </div>
+          </div>
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Gender Ratio</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px; color: #4A90E2; display: inline;">00.0%</p>
+              <p style="margin: 0; font-size: 14px; color: #737373;">/</p>
+              <p style="margin: 0; font-size: 14px; color: #FF69B4; display: inline;">100.0%</p>
+            </div>
+          </div>
+        </div>
+        <div style="display: flex; gap: 1rem;">
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Egg Groups</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px; color: #737373;">Flying</p>
+            </div>
+          </div>
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Hatch Time</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px; color: #737373;">15 Cycles</p>
+            </div>
+          </div>
+        </div>
+        <div style="display: flex; gap: 1rem;">
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Base experience yield</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px; color:Red;">155</p>
+            </div>
+          </div>
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Leveling rate</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px; color:Blue;">Medium fast</p>
+            </div>
+          </div>
+        </div>
+        <div style="display: flex; gap: 1rem;">
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Base friendship</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px;">70</p>
+            </div>
+          </div>
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">EV yield</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px;">2 - Speed</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div></p>
 
 ## Generali
 
@@ -303,7 +359,47 @@
 </table>
 
 
+## Aspetto di gioco
 
+=== "Base"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back/ALBESTE.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front/ALBESTE.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
+
+=== "Base Shiny"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back_shiny/ALBESTE.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front_shiny/ALBESTE.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
+
+=== "Forma Bagnata"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back/ALBESTE_1.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front/ALBESTE_1.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
+
+=== "Forma Bagnata Shiny"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back_shiny/ALBESTE_1.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front_shiny/ALBESTE_1.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
 
 
 ## Moveset

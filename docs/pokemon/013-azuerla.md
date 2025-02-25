@@ -16,7 +16,7 @@
 
 === "Tassonomia"
     <p><div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/azuerla.png" width="200" style="object-fit: contain;"/>
+      <img src="../../img/pokemon/azuerla.png" width="125" style="object-fit: contain;"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Class</p>
@@ -50,7 +50,7 @@
 
 === "Aspetto"
     <p><div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/azuerla.png" width="200" style="object-fit: contain;"/>
+      <img src="../../img/pokemon/azuerla.png" width="125" style="object-fit: contain;"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Height</p>
@@ -81,7 +81,7 @@
 
 === "Allevamento"
     <p><div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/azuerla.png" width="200" style="object-fit: contain;"/>
+      <img src="../../img/pokemon/azuerla.png" width="125" style="object-fit: contain;"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr; row-gap: 0.5rem;">
         <div style="display: flex; gap: 1rem;">
           <div class="pokemon-attribute" style="flex: 1;">
@@ -93,9 +93,9 @@
           <div class="pokemon-attribute" style="flex: 1;">
             <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Gender Ratio</p>
             <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-              <p style="margin: 0; font-size: 14px; color: #4A90E2; display: inline;">50.0%</p>
+              <p style="margin: 0; font-size: 14px; color: #4A90E2; display: inline;">00.0%</p>
               <p style="margin: 0; font-size: 14px; color: #737373;">/</p>
-              <p style="margin: 0; font-size: 14px; color: #FF69B4; display: inline;">50.0%</p>
+              <p style="margin: 0; font-size: 14px; color: #FF69B4; display: inline;">100.0%</p>
             </div>
           </div>
         </div>
@@ -221,6 +221,31 @@
     </tr>
   </tbody>
 </table>
+
+
+## Aspetto di gioco
+
+=== "Base"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back/AZUERLA.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front/AZUERLA.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
+
+=== "Base Shiny"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back_shiny/AZUERLA.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front_shiny/AZUERLA.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
+
+
 
 ##Evolution Change
 | Method | Item/Level/Note | Evolved Pokemon |

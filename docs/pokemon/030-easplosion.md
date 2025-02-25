@@ -11,38 +11,137 @@
   ➡️
 </div>
 
-<div class="pokemon-attribute-container">
-  <img src="../../img/pokemon/easplosion.png" width="100"/>
+## Pokédex
 
-  <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
-    <div class="pokemon-attribute">
-      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
-      <div class="attribute-value">
-        <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Catastrofe</p>
+=== "Tassonomia"
+    <p><div class="pokemon-attribute-container">
+      <img src="../../img/pokemon/easplosion.png" width="200" style="object-fit: contain;"/>
+      <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Class</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9;">
+            <p style="margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Catastrofe</p>
+          </div>
+        </div>
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
+          <div class="attribute-value" style="column-gap: 0.5rem;">
+            <img src='../../img/types/ice.png' style='width: 77px; height: 26px;'/>
+            <img src='../../img/types/fire.png' style='width: 77px; height: 26px;'/>
+          </div>
+        </div>
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Ability</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9;">
+          <a href='' title="Moves targetting this Pokemon use one extra PP.  This ability stacks if multiple targets have it.  This ability still affects moves that fail or miss.  This ability does not affect ally moves that target either the entire field or just its side, nor this Pokemon's self-targetted moves; it does, however, affect single-targetted ally moves aimed at this Pokemon, ally moves that target all other Pokemon, and opponents' moves that target the entire field.  If this ability raises a move's PP cost above its remaining PP, it will use all remaining PP.  When this Pokemon enters battle, all participating trainers are notified that it has this ability.  Overworld: If the lead Pokemon has this ability, higher-levelled Pokemon have their encounter rate increased.">Pressure</a>
+          </div>
+        </div>
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Cry</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f3f3f3;">
+            <audio controls>
+              <source src="../../audio/easplosion.mp3" type="audio/mpeg">
+            </audio>
+          </div>
+        </div>
       </div>
-    </div>
-    <div class="pokemon-attribute">
-      <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
-      <div class="attribute-value" style="column-gap: 0.5rem;">
-        <img src='../../img/types/ice.png' style='width: 77px; height: 26px;'/>
-        <img src='../../img/types/fire.png' style='width: 77px; height: 26px;'/>
+    </div></p>
+
+=== "Aspetto"
+    <p><div class="pokemon-attribute-container">
+      <img src="../../img/pokemon/easplosion.png" width="200" style="object-fit: contain;"/>
+      <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Height</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+            <p style="margin: 0; font-size: 14px; color: #737373;">6,12 m</p>
+          </div>
+        </div>
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Weight</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+            <p style="margin: 0; font-size: 14px; color: #737373;">261,26 kg</p>
+          </div>
+        </div>
+        <div class="pokemon-attribute" style="flex: 1;">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Pokédex Color</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+            <p style="margin: 0; font-size: 14px; color:Blue;">Blue</p>
+          </div>
+        </div>
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Shape</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; display: flex; justify-content: center; align-items: center;">
+            <img src='../../img/shape/quad.png' style="vertical-align: middle; width: 75%;"/>
+          </div>
+        </div>
       </div>
-    </div>
-    <div class="pokemon-attribute">
-      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
-      <div class="attribute-value">
-        <a href='' title="Moves targetting this Pokemon use one extra PP.  This ability stacks if multiple targets have it.  This ability still affects moves that fail or miss.  This ability does not affect ally moves that target either the entire field or just its side, nor this Pokemon's self-targetted moves; it does, however, affect single-targetted ally moves aimed at this Pokemon, ally moves that target all other Pokemon, and opponents' moves that target the entire field.  If this ability raises a move's PP cost above its remaining PP, it will use all remaining PP.  When this Pokemon enters battle, all participating trainers are notified that it has this ability.  Overworld: If the lead Pokemon has this ability, higher-levelled Pokemon have their encounter rate increased.">Pressure</a>
-        
+    </div></p>
+
+=== "Allevamento"
+    <p><div class="pokemon-attribute-container">
+      <img src="../../img/pokemon/easplosion.png" width="200" style="object-fit: contain;"/>
+      <div style="display: grid; grid-template-rows: 1fr 1fr; row-gap: 0.5rem;">
+        <div style="display: flex; gap: 1rem;">
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Catch rate</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px; color:rgb(6, 6, 6);">40</p>
+            </div>
+          </div>
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Gender Ratio</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px; color: #4A90E2; display: inline;">50.0%</p>
+              <p style="margin: 0; font-size: 14px; color: #737373;">/</p>
+              <p style="margin: 0; font-size: 14px; color: #FF69B4; display: inline;">50.0%</p>
+            </div>
+          </div>
+        </div>
+        <div style="display: flex; gap: 1rem;">
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Egg Groups</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px; color: #737373;">Field and Monster</p>
+            </div>
+          </div>
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Hatch Time</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px; color: #737373;">40 Cycles</p>
+            </div>
+          </div>
+        </div>
+        <div style="display: flex; gap: 1rem;">
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Base experience yield</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px; color:Red;">187</p>
+            </div>
+          </div>
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Leveling rate</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px; color:Blue;">Slow</p>
+            </div>
+          </div>
+        </div>
+        <div style="display: flex; gap: 1rem;">
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Base friendship</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px;">70</p>
+            </div>
+          </div>
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">EV yield</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px;">2 - Sp.Attack</p>
+            </div>
+          </div>
+        </div>
       </div>
-    </div>
-    <div style="display: none;" class="hidden-pokemon-attribute">
-      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
-      <div class="attribute-value">
-        
-      </div>
-    </div>
-  </div>
-</div>
+    </div></p>
 
 ## Generali
 
@@ -124,7 +223,27 @@
 </table>
 
 
+## Aspetto di gioco
 
+=== "Base"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back/EASPLOSION.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front/EASPLOSION.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
+
+=== "Shiny"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back_shiny/000.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front_shiny/000.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
 
 
 ## Moveset

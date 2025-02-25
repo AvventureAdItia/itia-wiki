@@ -16,7 +16,7 @@
 
 === "Tassonomia"
     <p><div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/propellisk.png" width="200" style="object-fit: contain;"/>
+      <img src="../../img/pokemon/propellisk.png" width="125" style="object-fit: contain;"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Class</p>
@@ -56,7 +56,7 @@
 
 === "Aspetto"
     <p><div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/propellisk.png" width="200" style="object-fit: contain;"/>
+      <img src="../../img/pokemon/propellisk.png" width="125" style="object-fit: contain;"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Height</p>
@@ -87,7 +87,7 @@
 
 === "Allevamento"
     <p><div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/propellisk.png" width="200" style="object-fit: contain;"/>
+      <img src="../../img/pokemon/propellisk.png" width="125" style="object-fit: contain;"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr; row-gap: 0.5rem;">
         <div style="display: flex; gap: 1rem;">
           <div class="pokemon-attribute" style="flex: 1;">
@@ -234,6 +234,31 @@
     </tr>
   </tbody>
 </table>
+
+
+## Aspetto di gioco
+
+=== "Base"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back/PROPELLISK.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front/PROPELLISK.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
+
+=== "Base Shiny"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back_shiny/PROPELLISK.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front_shiny/PROPELLISK.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
+
+
 
 
 ##Evolution Change
