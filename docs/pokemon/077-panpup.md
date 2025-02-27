@@ -10,29 +10,32 @@
 
 === "Tassonomia"
     <p><div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/panpup.png" width="150" style="object-fit: contain;"/>
+      <img src="../../img/pokemon/glemence.png" width="150" style="object-fit: contain;"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Class</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9;">
-            <p style="margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Selvaggio</p>
+            <p style="margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Aliroccia</p>
           </div>
         </div>
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
-            <img src='../../img/types/dark.png' style='width: 77px; height: 26px;'/>
-            <img src='../../img/types/fighting.png' style='width: 77px; height: 26px;'/>
+          <div class="attribute-value" style="column-gap: 0.5rem;">
+            <img src='../../img/types/normal.png' style='width: 77px; height: 26px;'/>
+            <img src='../../img/types/rock.png' style='width: 77px; height: 26px;'/>
           </div>
         </div>
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Ability</p>
-            <a href='' title="When this Pokemon enters battle, the opponent's Attack is lowered by one stage.  In a double battle, both opponents are affected.  This ability also takes effect when acquired during a battle, but will not take effect again if lost and reobtained without leaving battle.  This ability has no effect on an opponent that has a substitute.  Overworld: If the first Pokemon in the party has this ability, any random encounter with a Pokemon five or more levels lower than it has a 50% chance of being skipped.">Intimidate</a>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9;">
+            <a href='' title="This Pokemon's moves completely ignore abilities that could hinder or prevent their effect on the target.  For example, this Pokemon's moves ignore abilities that would fully negate them, such as water absorb; abilities that would prevent any of their effects, such as clear body, shell armor, or sticky hold; and abilities that grant any general protective benefit, such as simple, snow cloak, or thick fat.  If an ability could either hinder or help this Pokemon's moves, e.g. dry skin or unaware, the ability is ignored either way.  Abilities that do not fit this description, even if they could hinder moves in some other way, are not affected.  For example, cursed body only affects potential future uses of the move, while liquid ooze and shadow tag can only hinder a move's effect on the user.  This ablity cannot ignore type or form changes granted by abilities, for example color change or forecast; nor effects that were caused by abilities but are no longer tied to an ability, such as the rain from drizzle.  This ability cannot ignore multitype at all.  An ability ignored by this ability is only nullified while the move is being used.  For example, this Pokemon's moves can paralyze a Pokemon with limber, but Limber will activate and heal the paralysis immediately thereafter, and this Pokemon's spikes are not affected by this ability after they have been placed.  When this Pokemon enters battle, all participating trainers are notified that it has this ability.  This ability functions identically to teravolt and turboblaze.">Mold-breaker</a>
+          </div>
         </div>
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Cry</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f3f3f3;">
             <audio controls>
-              <source src="../../audio/panpup.mp3" type="audio/mpeg">
+              <source src="../../audio/glemence.mp3" type="audio/mpeg">
             </audio>
           </div>
         </div>
@@ -41,30 +44,30 @@
 
 === "Aspetto"
     <p><div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/panpup.png" width="150" style="object-fit: contain;"/>
+      <img src="../../img/pokemon/glemence.png" width="150" style="object-fit: contain;"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Height</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-            <p style="margin: 0; font-size: 14px; color: #737373;">0,47 m</p>
+            <p style="margin: 0; font-size: 14px; color: #737373;">2,38 m</p>
           </div>
         </div>
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Weight</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-            <p style="margin: 0; font-size: 14px; color: #737373;">42,33 kg</p>
+            <p style="margin: 0; font-size: 14px; color: #737373;">120,23 kg</p>
           </div>
         </div>
         <div class="pokemon-attribute" style="flex: 1;">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Pokédex Color</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-            <p style="margin: 0; font-size: 14px; color:Black;">Nero</p>
+            <p style="margin: 0; font-size: 14px; color:Brown;">Marrone</p>
           </div>
         </div>
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Shape</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; display: flex; justify-content: center; align-items: center;">
-            <img src='../../img/shape/quad.png' style="vertical-align: middle; width: 75%;"/>
+            <img src='../../img/shape/bipedal-tail.png' style="vertical-align: middle; width: 75%;"/>
           </div>
         </div>
       </div>
@@ -72,21 +75,21 @@
 
 === "Allevamento"
     <p><div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/panpup.png" width="150" style="object-fit: contain;"/>
+      <img src="../../img/pokemon/glemence.png" width="150" style="object-fit: contain;"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr; row-gap: 0.5rem;">
         <div style="display: flex; gap: 1rem;">
           <div class="pokemon-attribute" style="flex: 1;">
             <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Catch rate</p>
             <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-              <p style="margin: 0; font-size: 14px; color:rgb(6, 6, 6);">45</p>
+              <p style="margin: 0; font-size: 14px; color:rgb(6, 6, 6);">40</p>
             </div>
           </div>
           <div class="pokemon-attribute" style="flex: 1;">
             <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Gender Ratio</p>
             <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-              <p style="margin: 0; font-size: 14px; color: #4A90E2; display: inline;">50.00%</p>
+              <p style="margin: 0; font-size: 14px; color: #4A90E2; display: inline;">50.0%</p>
               <p style="margin: 0; font-size: 14px; color: #737373;">/</p>
-              <p style="margin: 0; font-size: 14px; color: #FF69B4; display: inline;">50.00%</p>
+              <p style="margin: 0; font-size: 14px; color: #FF69B4; display: inline;">50.0%</p>
             </div>
           </div>
         </div>
@@ -94,13 +97,13 @@
           <div class="pokemon-attribute" style="flex: 1;">
             <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Egg Groups</p>
             <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-              <p style="margin: 0; font-size: 14px; color: #737373;">Field and Monster</p>
+              <p style="margin: 0; font-size: 14px; color: #737373;">Monster and Field</p>
             </div>
           </div>
           <div class="pokemon-attribute" style="flex: 1;">
             <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Hatch Time</p>
             <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-              <p style="margin: 0; font-size: 14px; color: #737373;">20 Cycles</p>
+              <p style="margin: 0; font-size: 14px; color: #737373;">40 Cycles</p>
             </div>
           </div>
         </div>
@@ -108,13 +111,13 @@
           <div class="pokemon-attribute" style="flex: 1;">
             <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Base experience yield</p>
             <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-              <p style="margin: 0; font-size: 14px; color:Red;">76</p>
+              <p style="margin: 0; font-size: 14px; color:Red;">367</p>
             </div>
           </div>
           <div class="pokemon-attribute" style="flex: 1;">
             <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Leveling rate</p>
             <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-              <p style="margin: 0; font-size: 14px; color:Blue;">Medium Slow</p>
+              <p style="margin: 0; font-size: 14px; color:Blue;">Slow</p>
             </div>
           </div>
         </div>
@@ -128,7 +131,7 @@
           <div class="pokemon-attribute" style="flex: 1;">
             <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">EV yield</p>
             <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-              <p style="margin: 0; font-size: 14px;">1 - Attack</p>
+              <p style="margin: 0; font-size: 14px;">3 - Attack</p>
             </div>
           </div>
         </div>

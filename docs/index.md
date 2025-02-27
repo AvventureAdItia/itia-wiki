@@ -13,13 +13,13 @@ Resta aggiornato sulle ultime novità e scopri in anteprima i segreti di Itia! <
 
 
 <div style="text-align: center;">
-  <img alt="home-page" src="img/home/gabry-taz.png">
+  <img alt="Gabry-taz" src="img/home/gabry-taz.png">
   <p style="font-size: 12px; text-align: right; margin-top: 5px;"><em>Illustrazione di Gabry-taz</em></p>
 </div>
 
 # Dadrake95
 
-**Dadrake95** ha debuttato come YouTuber nel 2021, trattando principalmente videogiochi a tema Pokémon. Fin da subito si è distinto per le sue doti artistiche, in particolare come abile disegnatore. <br />
+**Dadrake95** ha debuttato come YouTuber nel 2022, trattando principalmente videogiochi a tema Pokémon. Fin da subito si è distinto per le sue doti artistiche, in particolare come abile disegnatore. <br />
 Grazie a rubriche originali, ha saputo combinare in modo perfetto Pokémon e arte, disegnando fakemon inediti, realizzando fusioni di design esistenti e persino creando una prima regione Pokémon. <br />
 
 Il 08/07/2022 ha segnato l’inizio di un viaggio straordinario: **insieme alla sua community**, Dadrake95 ha realizzato un’intera regione Pokémon – **che oggi conta più di 130 creature inedite** – ispirata alla cultura, alle tradizioni, ai miti e alle leggende italiane.  
