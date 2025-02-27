@@ -5,6 +5,7 @@
   <a href="https://avventureaditia.github.io/itia-wiki/pokemon/082-dracalier/"> 082 - Dracalier <img src="../../img/icon/dracalier.png" style="vertical-align: middle;"></a> ➡️
 </div>
 
+
 ## Pokédex
 
 === "Tassonomia"
@@ -19,6 +20,7 @@
         </div>
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
+          <div class="attribute-value" style="column-gap: 0.5rem;">
             <img src='../../img/types/ghost.png' style='width: 77px; height: 26px;'/>
             <img src='../../img/types/poison.png' style='width: 77px; height: 26px;'/>
           </div>
@@ -27,6 +29,7 @@
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Ability</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9;">
             <a href='' title="This Pokemon's damaging moves have a 10% chance to make the target flinch with each hit if they do not already cause flinching as a secondary effect.  This ability does not stack with a held item.  Overworld: The wild encounter rate is halved while this Pokemon is first in the party.">Stench</a>
+          </div>
         </div>
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Cry</p>
@@ -134,6 +137,7 @@
         </div>
       </div>
     </div></p>
+
 
 ## Generali
 
