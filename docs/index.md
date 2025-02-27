@@ -9,7 +9,13 @@ Questa wiki nasce con l’obiettivo di diventare il **punto di riferimento** per
 Vista la passione e il successo riscosso con la serie, abbiamo deciso di offrirvi questa guida per arricchire e ampliare il meraviglioso mondo creato insieme.  
 Ma c’è di più: è arrivato il momento di svelare il segreto! Dall’idea della regione di Itia sta nascendo un vero e proprio **gioco Pokémon**: un’avventura inedita, ispirata alla cultura, ai miti e alla storia, che renderà questa regione ancora più **viva e immersiva**. <br />
 
-Resta aggiornato sulle ultime novità e scopri in anteprima i segreti di Itia! <br />
+Resta aggiornato sulle ultime novità e scopri in anteprima i segreti di Itia! <br /> <br />
+
+
+<div style="text-align: center;">
+  <img alt="home-page" src="img/home/gabry-taz.png">
+  <p style="font-size: 12px; text-align: right; margin-top: 5px;"><em>Illustrazione di Gabry-taz</em></p>
+</div>
 
 # Dadrake95
 
