@@ -418,6 +418,49 @@
     </table>
 
 
+## Aspetto di gioco
+
+=== "Forma Notturna"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back/FLOCYWERTH.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front/FLOCYWERTH.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
+
+=== "Forma Notturna Shiny"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back_shiny/FLOCYWERTH.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front_shiny/FLOCYWERTH.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
+
+=== "Forma Diurna"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back/FLOCYWERTH_1.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front/FLOCYWERTH_1.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
+
+=== "Forma Diurna Shiny"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back_shiny/FLOCYWERTH_1.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front_shiny/FLOCYWERTH_1.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
+
+
 
 
 ## Moveset

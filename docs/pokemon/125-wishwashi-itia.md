@@ -419,6 +419,47 @@
     </table>
 
 
+## Aspetto di gioco
+
+=== "Forma Singolnuvola"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back/WISHWASHI.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front/WISHWASHI.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
+
+=== "Forma Singolnuvola Shiny"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back_shiny/WISHWASHI.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front_shiny/WISHWASHI.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
+
+=== "Forma Cumulonembo"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back/WISHWASHI_1.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front/WISHWASHI_1.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
+
+=== "Forma Cumulonembo Shiny"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back_shiny/WISHWASHI_1.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front_shiny/WISHWASHI_1.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
 
 
 

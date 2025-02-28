@@ -224,6 +224,27 @@
 </table>
 
 
+## Aspetto di gioco
+
+=== "Base"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back/ACLINSPARCE.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front/ACLINSPARCE.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
+
+=== "Shiny"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back_shiny/ACLINSPARCE.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front_shiny/ACLINSPARCE.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
 
 
 

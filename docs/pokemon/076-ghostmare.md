@@ -410,6 +410,49 @@
     </table>
 
 
+## Aspetto di gioco
+
+=== "Forma base"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back/GHOSTMARE.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front/GHOSTMARE.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
+
+=== "Forma base Shiny"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back_shiny/GHOSTMARE.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front_shiny/GHOSTMARE.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
+
+=== "Forma Incubo"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back/GHOSTMARE_1.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front/GHOSTMARE_1.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
+
+=== "Forma Incubo Shiny"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back_shiny/GHOSTMARE_1.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front_shiny/GHOSTMARE_1.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
+
+
 
 ## Moveset
 

@@ -414,6 +414,51 @@
       </tbody>
     </table>
 
+
+## Aspetto di gioco
+
+=== "Forma base"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back/OZBELL.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front/OZBELL.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
+
+=== "Forma base Shiny"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back_shiny/OZBELL.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front_shiny/OZBELL.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
+
+=== "Forma richiamo"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back/OZBELL_1.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front/OZBELL_1.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
+
+=== "Forma richiamo Shiny"
+    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/back_shiny/OZBELL_1.png" width="100" style="object-fit: contain;"/>
+      </div>
+      <div style="flex: 1; text-align: center;">
+        <img src="../../img/front_shiny/OZBELL_1.png" width="100" style="object-fit: contain;"/>
+      </div>
+    </div>
+
+
+
 ## Moveset
 
 === "Level Up Moves"
