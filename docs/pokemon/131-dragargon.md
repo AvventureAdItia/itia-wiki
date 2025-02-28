@@ -5,38 +5,138 @@
   <a href="https://avventureaditia.github.io/itia-wiki/pokemon/132-papplin/"> 132 - Papplin <img src="../../img/icon/papplin.png" style="vertical-align: middle;"></a> ➡️
 </div>
 
-<div class="pokemon-attribute-container">
-  <img src="../../img/pokemon/dragargon.png" width="100"/>
+## Pokédex
 
-  <div style="display: grid; grid-template-rows: 1fr 1fr 1fr; row-gap: 0.5rem;">
-    <div class="pokemon-attribute">
-        <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Class</p>
-        <div class="attribute-value">
-          <p style="margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Mezzofango</p>
+=== "Tassonomia"
+    <p><div class="pokemon-attribute-container">
+      <img src="../../img/pokemon/dragargon.png" width="150" style="object-fit: contain;"/>
+      <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Class</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9;">
+            <p style="margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Mezzofango</p>
+          </div>
+        </div>
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
+          <div class="attribute-value" style="column-gap: 0.5rem;">
+            <img src='../../img/types/poison.png' style='width: 77px; height: 26px;'/>
+            <img src='../../img/types/dragon.png' style='width: 77px; height: 26px;'/>
+          </div>
+        </div>
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Ability</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9;">
+            <a href='' title="Whenever a Pokemon would heal after hitting this Pokemon with a leeching move like absorb, it instead loses as many HP as it would usually gain.  dream eater is unaffected.">Liquid-ooze</a>
+          </div>
+        </div>
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Cry</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f3f3f3;">
+            <audio controls>
+              <source src="../../audio/dragargon.mp3" type="audio/mpeg">
+            </audio>
+          </div>
         </div>
       </div>
-    <div class="pokemon-attribute">
-      <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
-      <div class="attribute-value" style="column-gap: 0.5rem;">
-        <img src='../../img/types/poison.png' style='width: 77px; height: 26px;'/>
-        <img src='../../img/types/dragon.png' style='width: 77px; height: 26px;'/>
+    </div></p>
+
+=== "Aspetto"
+    <p><div class="pokemon-attribute-container">
+      <img src="../../img/pokemon/dragargon.png" width="150" style="object-fit: contain;"/>
+      <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Height</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+            <p style="margin: 0; font-size: 14px; color: #737373;">1,83 m</p>
+          </div>
+        </div>
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Weight</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+            <p style="margin: 0; font-size: 14px; color: #737373;">145,22 kg</p>
+          </div>
+        </div>
+        <div class="pokemon-attribute" style="flex: 1;">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Pokédex Color</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+            <p style="margin: 0; font-size: 14px; color:Purple;">Viola</p>
+          </div>
+        </div>
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Shape</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; display: flex; justify-content: center; align-items: center;">
+            <img src='../../img/shape/quad.png' style="vertical-align: middle; width: 75%;"/>
+          </div>
+        </div>
       </div>
-    </div>
-    <div class="pokemon-attribute">
-      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px; align-self: center;">Abilities</p>
-      <div class="attribute-value">
-        <a href='' title="Whenever a Pokemon would heal after hitting this Pokemon with a leeching move like absorb, it instead loses as many HP as it would usually gain.  dream eater is unaffected.">Liquid-ooze</a>
-        
+    </div></p>
+
+=== "Allevamento"
+    <p><div class="pokemon-attribute-container">
+      <img src="../../img/pokemon/dragargon.png" width="150" style="object-fit: contain;"/>
+      <div style="display: grid; grid-template-rows: 1fr 1fr; row-gap: 0.5rem;">
+        <div style="display: flex; gap: 1rem;">
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Catch rate</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px; color:rgb(6, 6, 6);">30</p>
+            </div>
+          </div>
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Gender Ratio</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px; color: #4A90E2; display: inline;">50.00%</p>
+              <p style="margin: 0; font-size: 14px; color: #737373;">/</p>
+              <p style="margin: 0; font-size: 14px; color: #FF69B4; display: inline;">50.00%</p>
+            </div>
+          </div>
+        </div>
+        <div style="display: flex; gap: 1rem;">
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Egg Groups</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px; color: #737373;">Dragon</p>
+            </div>
+          </div>
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Hatch Time</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px; color: #737373;">40 Cycles</p>
+            </div>
+          </div>
+        </div>
+        <div style="display: flex; gap: 1rem;">
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Base experience yield</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px; color:Red;">270</p>
+            </div>
+          </div>
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Leveling rate</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px; color:Blue;">Slow</p>
+            </div>
+          </div>
+        </div>
+        <div style="display: flex; gap: 1rem;">
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Base friendship</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px;">35</p>
+            </div>
+          </div>
+          <div class="pokemon-attribute" style="flex: 1;">
+            <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">EV yield</p>
+            <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+              <p style="margin: 0; font-size: 14px;">3 - Sp.Attack</p>
+            </div>
+          </div>
+        </div>
       </div>
-    </div>
-    <div style="display: none;" class="hidden-pokemon-attribute">
-      <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:15px; align-self: center;">Hidden Ability</p>
-      <div class="attribute-value">
-        
-      </div>
-    </div>
-  </div>
-</div>
+    </div></p>
+
 
 ## Generali
 
