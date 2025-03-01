@@ -134,6 +134,7 @@
       </div>
     </div></p>
 
+
 ## Generali
 
 === "Descrizione Pokedex"

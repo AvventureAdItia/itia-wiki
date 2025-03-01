@@ -177,6 +177,7 @@
     I Vincitori di Itia che hanno dato origine a Pairgon e la sua catena evolutiva sono: **Metalord**, **TepigGabrix**, **Fly**, **Rikky**, **Mucco**, **Pablitoschio**, **Federex**, **Federico**, **Davide**.
 
 
+
 ## Base Stats
 <table style="width: 100%">
   <tbody style="width: 100%;">
