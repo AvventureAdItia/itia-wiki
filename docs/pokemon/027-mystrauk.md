@@ -174,49 +174,49 @@
   <tbody style="width: 100%;">
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;" >HP</th>
-      <td style="border-top: none; width: 70px">1</td>
+      <td style="border-top: none; width: 70px">90</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 0%;" class="ranking-bar rank-1">
+        <div style="width: 35%;" class="ranking-bar rank-4">
         </div>
       </td>
     </tr>
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;">Attack</th>
-      <td style="border-top: none; width: 70px">1</td>
+      <td style="border-top: none; width: 70px">130</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 0%;" class="ranking-bar rank-1">
+        <div style="width: 50%;" class="ranking-bar rank-6">
         </div>
       </td>
     </tr>
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;">Defense</th>
-      <td style="border-top: none; width: 70px">1</td>
+      <td style="border-top: none; width: 70px">95</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 0%;" class="ranking-bar rank-1">
+        <div style="width: 37%;" class="ranking-bar rank-4">
         </div>
       </td>
     </tr>
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;">SP Attack</th>
-      <td style="border-top: none; width: 70px">1</td>
+      <td style="border-top: none; width: 70px">50</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 0%;" class="ranking-bar rank-1">
+        <div style="width: 19%;" class="ranking-bar rank-2">
         </div>
       </td>
     </tr>
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;">SP Defense</th>
-      <td style="border-top: none; width: 70px">1</td>
+      <td style="border-top: none; width: 70px">65</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 0%;" class="ranking-bar rank-1">
+        <div style="width: 25%;" class="ranking-bar rank-3">
         </div>
       </td>
     </tr>
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;">Speed</th>
-      <td style="border-top: none; width: 70px">1</td>
+      <td style="border-top: none; width: 70px">85</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 0%;" class="ranking-bar rank-1">
+        <div style="width: 33%;" class="ranking-bar rank-4">
         </div>
       </td>
     </tr>
