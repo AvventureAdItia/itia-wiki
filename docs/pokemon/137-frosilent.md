@@ -1,40 +1,39 @@
 <div style="text-align: center; margin-bottom: 20px;">
-  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/133-meattlin/"> 133 - Meattlin <img src="../../img/icon/meattlin.png" style="vertical-align: middle;"></a>
-  <strong>134 - Hydraghetti</strong> 
-  <img src="../../img/icon/hydraghetti.png" style="vertical-align: middle;"> 
-  <a href="https://avventureaditia.github.io/itia-wiki/pokemon/135-harmonympha/"> 135 - Harmonympha <img src="../../img/icon/harmonympha.png" style="vertical-align: middle;"></a> ➡️
+  ⬅️ <a href="https://avventureaditia.github.io/itia-wiki/pokemon/136-vorrakon/"> 136 - Vorrakon <img src="../../img/icon/vorrakon.png" style="vertical-align: middle;"></a>
+  <strong>137 - Frosilent</strong> 
+  <img src="../../img/icon/frosilent.png" style="vertical-align: middle;">
 </div>
 
 ## Pokédex
 
 === "Tassonomia"
     <p><div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/hydraghetti.png" width="150" style="object-fit: contain;"/>
+      <img src="../../img/pokemon/frosilent.png" width="150" style="object-fit: contain;"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Class</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9;">
-            <p style="margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Pastamalgama</p>
+            <p style="margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Silenzio</p>
           </div>
         </div>
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Types</p>
           <div class="attribute-value" style="column-gap: 0.5rem;">
-            <img src='../../img/types/normal.png' style='width: 77px; height: 26px;'/>
-            <img src='../../img/types/ground.png' style='width: 77px; height: 26px;'/>
+            <img src='../../img/types/ice.png' style='width: 77px; height: 26px;'/>
+            <img src='../../img/types/ghost.png' style='width: 77px; height: 26px;'/>
           </div>
         </div>
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Ability</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9;">
-            <a href='' title="Protects allies against moves that affect their mental state.">Aroma-veil</a>
+            <a href='' title="Coming soon">Crioquiete</a>
           </div>
         </div>
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Cry</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f3f3f3;">
             <audio controls>
-              <source src="../../audio/hydraghetti.mp3" type="audio/mpeg">
+              <source src="../../audio/frosilent.mp3" type="audio/mpeg">
             </audio>
           </div>
         </div>
@@ -43,30 +42,30 @@
 
 === "Aspetto"
     <p><div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/hydraghetti.png" width="150" style="object-fit: contain;"/>
+      <img src="../../img/pokemon/frosilent.png" width="150" style="object-fit: contain;"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Height</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-            <p style="margin: 0; font-size: 14px; color: #737373;">1,90 m</p>
+            <p style="margin: 0; font-size: 14px; color: #737373;">2,79 m</p>
           </div>
         </div>
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Weight</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-            <p style="margin: 0; font-size: 14px; color: #737373;">96,20 kg</p>
+            <p style="margin: 0; font-size: 14px; color: #737373;">154,17 kg</p>
           </div>
         </div>
         <div class="pokemon-attribute" style="flex: 1;">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Pokédex Color</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-            <p style="margin: 0; font-size: 14px; color:Brown;">Marrone</p>
+            <p style="margin: 0; font-size: 14px; color:White;">Bianco</p>
           </div>
         </div>
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Shape</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; display: flex; justify-content: center; align-items: center;">
-            <img src='../../img/shape/more-bodys.png' style="vertical-align: middle; width: 75%;"/>
+            <img src='../../img/shape/quad.png' style="vertical-align: middle; width: 75%;"/>
           </div>
         </div>
       </div>
@@ -74,21 +73,19 @@
 
 === "Allevamento"
     <p><div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/hydraghetti.png" width="150" style="object-fit: contain;"/>
+      <img src="../../img/pokemon/frosilent.png" width="150" style="object-fit: contain;"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr; row-gap: 0.5rem;">
         <div style="display: flex; gap: 1rem;">
           <div class="pokemon-attribute" style="flex: 1;">
             <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Catch rate</p>
             <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-              <p style="margin: 0; font-size: 14px; color:rgb(6, 6, 6);">10</p>
+              <p style="margin: 0; font-size: 14px; color:rgb(6, 6, 6);">3</p>
             </div>
           </div>
           <div class="pokemon-attribute" style="flex: 1;">
             <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Gender Ratio</p>
             <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-              <p style="margin: 0; font-size: 14px; color: #4A90E2; display: inline;">50.00%</p>
-              <p style="margin: 0; font-size: 14px; color: #737373;">/</p>
-              <p style="margin: 0; font-size: 14px; color: #FF69B4; display: inline;">50.00%</p>
+              <p style="margin: 0; font-size: 14px; color: #737373;">Sconosciuto</p>
             </div>
           </div>
         </div>
@@ -96,13 +93,13 @@
           <div class="pokemon-attribute" style="flex: 1;">
             <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Egg Groups</p>
             <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-              <p style="margin: 0; font-size: 14px; color: #737373;">Amorphous and Field</p>
+              <p style="margin: 0; font-size: 14px; color: #737373;">Sconosciuto</p>
             </div>
           </div>
           <div class="pokemon-attribute" style="flex: 1;">
             <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Hatch Time</p>
             <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-              <p style="margin: 0; font-size: 14px; color: #737373;">20 Cycles</p>
+              <p style="margin: 0; font-size: 14px; color: #737373;">120 Cycles</p>
             </div>
           </div>
         </div>
@@ -110,13 +107,13 @@
           <div class="pokemon-attribute" style="flex: 1;">
             <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Base experience yield</p>
             <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-              <p style="margin: 0; font-size: 14px; color:Red;">270</p>
+              <p style="margin: 0; font-size: 14px; color:Red;">380</p>
             </div>
           </div>
           <div class="pokemon-attribute" style="flex: 1;">
             <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Leveling rate</p>
             <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-              <p style="margin: 0; font-size: 14px; color:Blue;">Erratic</p>
+              <p style="margin: 0; font-size: 14px; color:Blue;">Slow</p>
             </div>
           </div>
         </div>
@@ -124,94 +121,106 @@
           <div class="pokemon-attribute" style="flex: 1;">
             <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Base friendship</p>
             <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-              <p style="margin: 0; font-size: 14px;">50</p>
+              <p style="margin: 0; font-size: 14px;">0</p>
             </div>
           </div>
           <div class="pokemon-attribute" style="flex: 1;">
             <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">EV yield</p>
             <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-              <p style="margin: 0; font-size: 14px;">3 - Sp.Defense</p>
+              <p style="margin: 0; font-size: 14px;">3 - HP</p>
             </div>
           </div>
         </div>
       </div>
     </div></p>
 
-
 ## Generali
 
 === "Descrizione Pokedex"
     ### Descrizione
 
-    Questo Pokémon è preferito delle cucine di Itia poiché i suoi lunghi tentacoli sono commestibili e, dopo la giusta cura, possono essere utilizzati per creare dei piatti dal sapore incredibile apprezzati in tutto il mondo. <br />
-    I tentacoli cadono col passare del tempo e il Pokémon è in grado di rigenerarli da sé senza particolare sforzo. <br />
-    La sostanza che secernono è molto appiccicosa; infatti, spesso si ricoprono di erbe e altri oggetti rimasti appiccicati per errore. <br />
+    Nei racconti antichi di itya, l'essere che viene chiamato il silenzio, secondo le leggende questo non sarebbe il suo vero aspetto, ma solo ciò che rimane del gigante drago, erba originale sconfitto da archeus all'inizio dell'universo, privato del suo nucleo che gli conferiva il suo potere, venne sconfitto da due Pokémon protettori di itya, costringendolo a regredire ad un grachi l'eseme di ghiaccio. Tuttavia, alcuni credono che si stia lentamente rigenerando per poter attaccare di nuovo e recuperare ciò che ha perduto.Ingloba i nemici nella sfera di ghiaccio posta nel luogo in cui originariamente viene il suo nucleo per colpirli con spuntoni di ghiaccio e assorbirne la forza vitale, ma soprattutto per assorbirne i suoni, fonte primaria del suo sostentamento.
 
 
-    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=_tnKWPvesjQ&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=19).
+    Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=U4yL_2TGwmI&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=20).
 
 === "Ispirazioni"
 
     ### Ispirazioni
-    Le ispirazioni alla base di Papplin e della sua catena evolutiva sono:
+    Le ispirazioni alla base di Harmonympha sono:
     
-    - **Dadrake prima di andare a dormire** (va palesemente a dormire troppo tardi (ti vogliamo bene lo stesso)).
+    - **Fontana del Nettuno a Messina**;
+    - **Plutone e Proserpina**;
+    - **Dea Tacita**;
+    - **Arpie**;
+    - **Leggenda della Morte Secca**;
+    - **Endennasauro**;
+    - **Cavalluccio marino**;
+    - **Caravella portoghese**;
+    - **Crociate**;
+    - **Dittatura del Papato**;
+    - **Lucifero nel lago Cogito**;
+    - **Guerra delle Alpi**;
+    - **Termoacustica**;
+    - **Zampogna**;
+    - **Camera anecoica**.
+    
+
 
 
 === "Vincitore del contest"
-    ### Non esattamente
+    ### Vincitori
 
-    Il creatore di Papplin e della sua catena evolutiva è **Dadrake**.
-
+    I Vincitori di Itia che hanno dato origine a Pairgon e la sua catena evolutiva sono: **Dittomon**, **Prismo**, **Nuggetmaster**, **Valerio**, **Federico**, **Michele**, **Aki Shirota**, **IlDaddo**.
 
 ## Base Stats
 <table style="width: 100%">
   <tbody style="width: 100%;">
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;" >HP</th>
-      <td style="border-top: none; width: 70px">106</td>
+      <td style="border-top: none; width: 70px">150</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 41%;" class="ranking-bar rank-5">
+        <div style="width: 58%;" class="ranking-bar rank-6">
         </div>
       </td>
     </tr>
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;">Attack</th>
-      <td style="border-top: none; width: 70px">80</td>
+      <td style="border-top: none; width: 70px">140</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 31%;" class="ranking-bar rank-4">
+        <div style="width: 54%;" class="ranking-bar rank-6">
         </div>
       </td>
     </tr>
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;">Defense</th>
-      <td style="border-top: none; width: 70px">80</td>
+      <td style="border-top: none; width: 70px">95</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 31%;" class="ranking-bar rank-4">
+        <div style="width: 37%;" class="ranking-bar rank-4">
         </div>
       </td>
     </tr>
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;">SP Attack</th>
-      <td style="border-top: none; width: 70px">120</td>
+      <td style="border-top: none; width: 70px">140</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 47%;" class="ranking-bar rank-5">
+        <div style="width: 54%;" class="ranking-bar rank-6">
         </div>
       </td>
     </tr>
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;">SP Defense</th>
-      <td style="border-top: none; width: 70px">110</td>
+      <td style="border-top: none; width: 70px">95</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 43%;" class="ranking-bar rank-5">
+        <div style="width: 37%;" class="ranking-bar rank-4">
         </div>
       </td>
     </tr>
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;">Speed</th>
-      <td style="border-top: none; width: 70px">44</td>
+      <td style="border-top: none; width: 70px">70</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 17%;" class="ranking-bar rank-2">
+        <div style="width: 27%;" class="ranking-bar rank-3">
         </div>
       </td>
     </tr>
@@ -219,27 +228,7 @@
 </table>
 
 
-## Aspetto di gioco
 
-=== "Base"
-    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
-      <div style="flex: 1; text-align: center;">
-        <img src="../../img/back/HYDRAGHETTI.png" width="100" style="object-fit: contain;"/>
-      </div>
-      <div style="flex: 1; text-align: center;">
-        <img src="../../img/front/HYDRAGHETTI.png" width="100" style="object-fit: contain;"/>
-      </div>
-    </div>
-
-=== "Shiny"
-    <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
-      <div style="flex: 1; text-align: center;">
-        <img src="../../img/back_shiny/HYDRAGHETTI.png" width="100" style="object-fit: contain;"/>
-      </div>
-      <div style="flex: 1; text-align: center;">
-        <img src="../../img/front_shiny/HYDRAGHETTI.png" width="100" style="object-fit: contain;"/>
-      </div>
-    </div>
 
 
 ## Moveset
