@@ -1,33 +1,122 @@
-<div id="carousel-container" style="text-align: center; position: relative; max-width: 600px; margin: auto;">
-    <img id="carousel-image" src="img/types/special.png" alt="Tipo Speciale" style="width: 100%; border-radius: 10px;">
-    
-    <button id="prev-button" style="position: absolute; left: 0; top: 50%; transform: translateY(-50%); background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px; cursor: pointer;">&#10094;</button>
-    <button id="next-button" style="position: absolute; right: 0; top: 50%; transform: translateY(-50%); background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px; cursor: pointer;">&#10095;</button>
+<div class="slideshow-container">
+    <div class="mySlides fade">
+        <img src="img/types/special.png" alt="Tipo Speciale" style="width:100%">
+    </div>
+    <div class="mySlides fade">
+        <img src="img/types/physical.png" alt="Tipo Fisico" style="width:100%">
+    </div>
+    <div class="mySlides fade">
+        <img src="img/types/status.png" alt="Tipo Stato" style="width:100%">
+    </div>
+    <!-- Pulsanti avanti e indietro -->
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
 </div>
 
-<script>
-    const images = [
-        "img/types/special.png",
-        "img/types/physical.png",
-        "img/types/status.png"
-    ];
-    
-    let currentIndex = 0;
-    const imageElement = document.getElementById("carousel-image");
-    const prevButton = document.getElementById("prev-button");
-    const nextButton = document.getElementById("next-button");
+<!-- Punti di navigazione sotto le immagini -->
+<div style="text-align:center">
+    <span class="dot" onclick="currentSlide(1)"></span> 
+    <span class="dot" onclick="currentSlide(2)"></span> 
+    <span class="dot" onclick="currentSlide(3)"></span> 
+</div>
 
-    function updateImage() {
-        imageElement.outerHTML = `<img id="carousel-image" src="${images[currentIndex]}" alt="Carosello" style="width: 100%; border-radius: 10px;">`;
+<!-- CSS per lo stile -->
+<style>
+    .slideshow-container {
+        position: relative;
+        max-width: 600px;
+        margin: auto;
     }
 
-    prevButton.addEventListener("click", () => {
-        currentIndex = (currentIndex - 1 + images.length) % images.length;
-        updateImage();
-    });
+    .mySlides {
+        display: none;
+    }
 
-    nextButton.addEventListener("click", () => {
-        currentIndex = (currentIndex + 1) % images.length;
-        updateImage();
-    });
+    img {
+        border-radius: 10px;
+    }
+
+    /* Pulsanti avanti e indietro */
+    .prev, .next {
+        cursor: pointer;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        width: auto;
+        padding: 10px;
+        color: white;
+        font-weight: bold;
+        font-size: 18px;
+        transition: 0.3s;
+        background: rgba(0,0,0,0.5);
+        border-radius: 5px;
+    }
+
+    .prev {
+        left: 0;
+    }
+
+    .next {
+        right: 0;
+    }
+
+    /* Punti di navigazione */
+    .dot {
+        cursor: pointer;
+        height: 10px;
+        width: 10px;
+        margin: 5px;
+        background-color: #bbb;
+        border-radius: 50%;
+        display: inline-block;
+        transition: background-color 0.6s ease;
+    }
+
+    .active, .dot:hover {
+        background-color: #717171;
+    }
+
+    /* Effetto dissolvenza */
+    .fade {
+        animation: fadeEffect 1s;
+    }
+
+    @keyframes fadeEffect {
+        from {opacity: 0.4} 
+        to {opacity: 1}
+    }
+</style>
+
+<!-- JavaScript per il funzionamento -->
+<script>
+    let slideIndex = 1;
+    showSlides(slideIndex);
+
+    function plusSlides(n) {
+        showSlides(slideIndex += n);
+    }
+
+    function currentSlide(n) {
+        showSlides(slideIndex = n);
+    }
+
+    function showSlides(n) {
+        let i;
+        let slides = document.getElementsByClassName("mySlides");
+        let dots = document.getElementsByClassName("dot");
+
+        if (n > slides.length) {slideIndex = 1}
+        if (n < 1) {slideIndex = slides.length}
+
+        for (i = 0; i < slides.length; i++) {
+            slides[i].style.display = "none";
+        }
+
+        for (i = 0; i < dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" active", "");
+        }
+
+        slides[slideIndex-1].style.display = "block";
+        dots[slideIndex-1].className += " active";
+    }
 </script>
