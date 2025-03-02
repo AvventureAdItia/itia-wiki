@@ -3,9 +3,8 @@
                     | Capobranco | Quando il Pokémon viene sostituito recupera un'ottavo di vita e i suoi problemi di stato vengono curati. Il Pokémon che entra in battaglia al suo posto viene anch'esso curato dai problemi di stato. |
 | Teatralità | Quando entra in battaglia sceglie una delle sue due maschere: se sceglie la maschera da Commedia la sua statistica più alta viene aumentata di uno stadio, se sceglie quella della Tragedia la statistica più alta dell'avversario viene diminuita. |
 | Inventiva | Se il Pokémon viene colpito da una mossa fisica questo si carica e il suo attacco speciale viene aumentato. Ha un solo utilizzo che viene recuperato lasciando il campo di battaglia. |
-| Candipiuma | Se il Pokémon viene colpito da mosse di tipo Acqua o Fuoco, il manto di neve che ricopre il suo corpo si scioglie e il Pokémon cambia forma.Sotto la neve riesce a recuperare il suo manto. |
-| Pelleerba | Le mosse di tipo Normale diventano di tipo Erba. |
-| Cambiogelo | Il pokémon cambia forma tra il giorno e la notte. |
+| Candipiuma | Se il Pokémon viene colpito da mosse di tipo ACQUA o FUOCO, il manto di neve che ricopre il suo corpo si scioglie e il Pokémon cambia forma. Sotto la neve riesce a recuperare il suo manto. |
+| Cambiogelo | Il Pokémon cambia forma tra il giorno e la notte. |
 | Agomantello | Se il Pokémon è colpito da un attacco diretto, grazie al suo particolare pelo spinoso infligge danni a sua volta. |
 | Furia Del Tempio | Quando la salute del Pokémon è bassa, questo ottiene un aumento della sua statistica di ATTACCO SPECIALE e le sue mosse FUOCO o ACCIAIO possono spaventare. |
 | Dazio Dell'aldilà | Quando il Pokémon causa un KO, l'avversario paga un dazio e il Pokémon guarisce del 25% dei suoi PS massimi. Se la mossa che causa il KO è di tipo Spettro o Acqua, guarisce invece il 50%. |
