@@ -143,9 +143,9 @@
 
     Antico Pokemon della regione di Itia, venerato come colui che, insieme alla sua amata sconfisse l'essere denominato come il "Silenzio". <br />
     Ruota le sue enormi braccia ricoperte di pietra a velocità impressionante, creando mulinelli in grado di risucchiare qualsiasi cosa nel raggio di chilometri. <br />
-    Usa la coda appuntita per graffiare le sue braccia in movimento rotatorio e così produrre dei suoni assordanti e potenti che vengono amplificati dal tornado intorno al collo, che è formato dalla sua pelle in eccesso. <br />
+    Usa la coda appuntita per graffiare le sue braccia in movimento rotatorio, così produrre dei suoni assordanti e potenti che vengono amplificati dal tornado intorno al collo, che è formato dalla sua pelle in eccesso. <br />
     Essendo la sua forza prorompente, capita che alcuni pezzi di questa pelle si stacchino creando teste aggiuntive al suo corpo che attaccano e si deteriorano nel tempo. <br />
-    Dimora nei mari ad ovest di itia e si dice che sia colmo di rabbia per aver perso qualcosa di importante. <br />
+    Dimora nei mari ad Ovest della Regione e si dice che sia colmo di rabbia per aver perso qualcosa di importante. <br />
 
 
     Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=U4yL_2TGwmI&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=20).

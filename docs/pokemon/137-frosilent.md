@@ -140,7 +140,11 @@
 === "Descrizione Pokedex"
     ### Descrizione
 
-    Nei racconti antichi di itya, l'essere che viene chiamato il silenzio, secondo le leggende questo non sarebbe il suo vero aspetto, ma solo ciò che rimane del gigante drago, erba originale sconfitto da archeus all'inizio dell'universo, privato del suo nucleo che gli conferiva il suo potere, venne sconfitto da due Pokémon protettori di itya, costringendolo a regredire ad un grachi l'eseme di ghiaccio. Tuttavia, alcuni credono che si stia lentamente rigenerando per poter attaccare di nuovo e recuperare ciò che ha perduto.Ingloba i nemici nella sfera di ghiaccio posta nel luogo in cui originariamente viene il suo nucleo per colpirli con spuntoni di ghiaccio e assorbirne la forza vitale, ma soprattutto per assorbirne i suoni, fonte primaria del suo sostentamento.
+    Nei racconti antichi di Itia, l'essere che viene chiamato il "Silenzio".  <br />
+    Secondo le leggende questo non sarebbe il suo vero aspetto, ma solo ciò che rimane del gigante Drago/Erba originale, sconfitto da Arceus all'inizio dell'universo. <br />
+    Privato del suo nucleo che gli conferiva il suo potere, venne sconfitto da due Pokémon protettori di Itia, costringendolo a regredire alla forma di un gracile seme di ghiaccio. <br />
+    Tuttavia, alcuni credono che si stia lentamente rigenerando per poter attaccare di nuovo e recuperare ciò che ha perduto. <br />
+    Ingloba i nemici nella sfera di ghiaccio posta nel luogo in cui originariamente vi era il suo nucleo, per colpirli con spuntoni di ghiaccio e assorbirne la forza vitale, ma soprattutto per assorbirne i suoni, fonte primaria del suo sostentamento. <br />
 
 
     Per maggiori informazioni il [video completo](https://www.youtube.com/watch?v=U4yL_2TGwmI&list=PLniAakFPn_t9I5zqlYAwZ_iSzJmgu5Nqd&index=20).
