@@ -18,6 +18,7 @@ Puoi inviarci un’email per: <br />
 
 Ti risponderemo il prima possibile! Grazie per il tuo supporto e per aiutarci a costruire la regione di Itia! 💙
 
-
-<img alt="Gabry-taz" src="img/home/gabry-taz.png">
-<p style="font-size: 12px; text-align: right; margin-top: 5px;"><em>Illustrazione di Gabry-taz</em></p>
+<div style="text-align: center">
+    <img alt="Gabry-taz" src="../img/home/gabry-taz.png">
+    <p style="font-size: 12px; text-align: right; margin-top: 5px;"><em>Illustrazione di Gabry-taz</em></p>
+</div>
