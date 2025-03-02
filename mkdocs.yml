@@ -24,8 +24,6 @@ theme:
       name: Switch to light mode
 nav:
 - Home: index.md
-- Ability Changes: ability_changes.md
-- Nuove Mosse: nuove_mosse.md
 - Pokemon:
   - 001 - Timolino: pokemon/001-timolino.md
   - 002 - Thymad: pokemon/002-thymad.md
@@ -164,7 +162,10 @@ nav:
   - 135 - Harmonympha: pokemon/135-harmonympha.md
   - 136 - Vorrakon: pokemon/136-vorrakon.md
   - 137 - Frosilent: pokemon/137-frosilent.md
-- Routes: []
+- Nuove Abilità: ability_changes.md
+- Nuove Mosse: nuove_mosse.md
+- Sala d'Onore: hall_of_fame.md
+#- Routes: []
 plugins:
 - search:
     lang: en
