@@ -11,13 +11,9 @@ Ma c’è di più: è arrivato il momento di svelare il segreto! Dall’idea del
 
 Resta aggiornato sulle ultime novità e scopri in anteprima i segreti di Itia! <br /> <br />
 
-
-<div style="text-align: center;">
-  <img alt="Gabry-taz" src="img/home/gabry-taz.png">
-  <p style="font-size: 12px; text-align: right; margin-top: 5px;"><em>Illustrazione di Gabry-taz</em></p>
-</div>
-
 # Dadrake95
+
+<img alt="home-page" src="img/home/dadrake.png">
 
 **Dadrake95** ha debuttato come YouTuber nel 2022, trattando principalmente videogiochi a tema Pokémon. Fin da subito si è distinto per le sue doti artistiche, in particolare come abile disegnatore. <br />
 Grazie a rubriche originali, ha saputo combinare in modo perfetto Pokémon e arte, disegnando fakemon inediti, realizzando fusioni di design esistenti e persino creando una prima regione Pokémon. <br />

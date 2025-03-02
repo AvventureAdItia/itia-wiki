@@ -1,3 +1,8 @@
+# Abilità indedite della regione di Itia
+Le abilità inedite di Pokémon Requiem introducono **nuove meccaniche** e **strategie** per arricchire le lotte e dare maggiore personalità ai Pokémon della regione di Itia. <br />
+Dalle abilità difensive a quelle offensive, ogni nuova capacità è stata pensata per offrire **opzioni uniche in battaglia**. <br />
+Le abilità qui elencate potrebbero **subire variazioni e aggiustamenti**, poiché il gioco è in costante sviluppo e miglioramento. <br />
+
 | New Abilities | Effect |
                     | :--: | :-- |
                     | Capobranco | Quando il Pokémon viene sostituito recupera un'ottavo di vita e i suoi problemi di stato vengono curati. Il Pokémon che entra in battaglia al suo posto viene anch'esso curato dai problemi di stato. |
