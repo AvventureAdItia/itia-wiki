@@ -25,6 +25,7 @@ theme:
 nav:
 - Home: index.md
 - Ability Changes: ability_changes.md
+- Nuove Mosse: nuove_mosse.md
 - Pokemon:
   - 001 - Timolino: pokemon/001-timolino.md
   - 002 - Thymad: pokemon/002-thymad.md
