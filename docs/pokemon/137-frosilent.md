@@ -4,6 +4,7 @@
   <img src="../../img/icon/frosilent.png" style="vertical-align: middle;">
 </div>
 
+
 ## Pokédex
 
 === "Tassonomia"
