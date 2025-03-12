@@ -34,7 +34,14 @@
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Ability</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9;">
-            <a href='' title="Strengthens moves that make contact to 1.33x their power.">Tough-claws</a>
+            <a href='' title="Strengthens moves that make contact to 1.33x their power.">Tough-claws</a>/
+            <a href='' title="Aumenta l'ELUSIONE durante la Brezza Tetra.">Nottambulo</a>
+          </div>
+        </div>
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Hidden Ability</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f3f3f3;">
+          <a href='' title="Quando causa un KO, il Pokémon si fa sicuro di sé e aumenta il proprio Attacco.">Arroganza</a>
           </div>
         </div>
         <div class="pokemon-attribute">

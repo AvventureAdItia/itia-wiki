@@ -33,7 +33,14 @@
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Ability</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9;">
-            <a href='' title="While this Pokemon is in battle, opposing Pokemon cannot flee or switch out.  Other Pokemon with this ability are unaffected.  Pokemon with run away can still flee.  Pokemon can still switch out with the use of a move or item.">Shadow-tag</a>
+            <a href='' title="While this Pokemon is in battle, opposing Pokemon cannot flee or switch out.  Other Pokemon with this ability are unaffected.  Pokemon with run away can still flee.  Pokemon can still switch out with the use of a move or item.">Shadow-tag</a>/
+            <a href='' title="Potenzia le mosse di tipo SPETTRO.">Spettralità</a>
+          </div>
+        </div>
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Hidden Ability</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f3f3f3;">
+          <a href='' title="Protegge totalmente dalle mosse sonore.">Antisuono</a>
           </div>
         </div>
         <div class="pokemon-attribute">

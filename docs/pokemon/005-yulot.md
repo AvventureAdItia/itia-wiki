@@ -177,7 +177,7 @@
 === "Vincitore del contest"
     ### Vincitore
 
-    Il Vincitore di Itia che ha dato origine al Yulot è **Samuele**.
+    Il Vincitore di Itia che ha dato origine al Yulot e la sua catena evolutiva è **Samuele**.
 
 ## Base Stats
 <table style="width: 100%">

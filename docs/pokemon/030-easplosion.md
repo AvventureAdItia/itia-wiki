@@ -33,7 +33,14 @@
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Ability</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9;">
-          <a href='' title="Moves targetting this Pokemon use one extra PP.  This ability stacks if multiple targets have it.  This ability still affects moves that fail or miss.  This ability does not affect ally moves that target either the entire field or just its side, nor this Pokemon's self-targetted moves; it does, however, affect single-targetted ally moves aimed at this Pokemon, ally moves that target all other Pokemon, and opponents' moves that target the entire field.  If this ability raises a move's PP cost above its remaining PP, it will use all remaining PP.  When this Pokemon enters battle, all participating trainers are notified that it has this ability.  Overworld: If the lead Pokemon has this ability, higher-levelled Pokemon have their encounter rate increased.">Pressure</a>
+          <a href='' title="Quando il Pokémon entra in campo, riduce l'ATTACCO SPECIALE dei nemici infastiditi.">Fastidio</a>/
+          <a href='' title="Aumenta l'ATTACCO SPECIALE ma costringe il Pokémon a usare solo la prima mossa selezionata.">Schema Mentale</a>
+          </div>
+        </div>
+        <div class="pokemon-attribute">
+          <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Hidden Ability</p>
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f3f3f3;">
+          <a href='' title="Impedisce al Pokémon di venire scottato e aumenta il suo Attacco se subisce una mossa di tipo Fuoco.">Termoscambio</a>
           </div>
         </div>
         <div class="pokemon-attribute">
