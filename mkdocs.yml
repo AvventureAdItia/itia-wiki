@@ -18,7 +18,7 @@ theme:
       name: Switch to dark mode
   - media: '(prefers-color-scheme: dark)'
     primary: black
-    scheme: default
+    scheme: slate
     toggle:
       icon: material/eye
       name: Switch to light mode
@@ -174,6 +174,8 @@ markdown_extensions:
 - admonition
 - abbr
 - attr_list
+- pymdownx.tasklist:
+    custom_checkbox: true
 - pymdownx.snippets
 - pymdownx.superfences
 - pymdownx.details
