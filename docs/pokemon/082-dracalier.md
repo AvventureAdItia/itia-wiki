@@ -226,7 +226,7 @@
         <img src="../../img/back/DRACALIER.png" width="100" style="object-fit: contain;"/>
       </div>
       <div style="flex: 1; text-align: center;">
-        <img src="../../img/front/DRACALIER.png" width="100" style="object-fit: contain;"/>
+        <img src="../../img/front/DRACLIER.png" width="100" style="object-fit: contain;"/>
       </div>
     </div>
 

@@ -6,10 +6,7 @@
 </div>
 
 
-<div class="pokemon-attribute-container">
-  <img src="../../img/pokemon/marsikane.png" width="100"/>
-
-  ## Pokédex
+## Pokédex
 
 === "Tassonomia"
     <p><div class="pokemon-attribute-container">
@@ -234,7 +231,7 @@
         <img src="../../img/back/MARSIKANE.png" width="100" style="object-fit: contain;"/>
       </div>
       <div style="flex: 1; text-align: center;">
-        <img src="../../img/front/MARSIKANE.png" width="100" style="object-fit: contain;"/>
+        <img src="../../img/front/MARSHIKANE.png" width="100" style="object-fit: contain;"/>
       </div>
     </div>
 

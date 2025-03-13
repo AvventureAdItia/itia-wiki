@@ -228,7 +228,7 @@
         <img src="../../img/back/CRYPTIDILE.png" width="100" style="object-fit: contain;"/>
       </div>
       <div style="flex: 1; text-align: center;">
-        <img src="../../img/front/CRYPTIDILE.png" width="100" style="object-fit: contain;"/>
+        <img src="../../img/front/CRYPTIDLE.png" width="100" style="object-fit: contain;"/>
       </div>
     </div>
 

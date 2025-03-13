@@ -229,7 +229,7 @@
         <img src="../../img/back/EELAZZLE.png" width="100" style="object-fit: contain;"/>
       </div>
       <div style="flex: 1; text-align: center;">
-        <img src="../../img/front/EELAZZLE.png" width="100" style="object-fit: contain;"/>
+        <img src="../../img/front/EELAZLE.png" width="100" style="object-fit: contain;"/>
       </div>
     </div>
 

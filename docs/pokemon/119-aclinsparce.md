@@ -229,7 +229,7 @@
 === "Base"
     <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
       <div style="flex: 1; text-align: center;">
-        <img src="../../img/back/ACLINSPARCE.png" width="100" style="object-fit: contain;"/>
+        <img src="../../img/back/ACLINSAPARCE.png" width="100" style="object-fit: contain;"/>
       </div>
       <div style="flex: 1; text-align: center;">
         <img src="../../img/front/ACLINSPARCE.png" width="100" style="object-fit: contain;"/>
@@ -239,10 +239,10 @@
 === "Shiny"
     <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
       <div style="flex: 1; text-align: center;">
-        <img src="../../img/back_shiny/ACLINSPARCE.png" width="100" style="object-fit: contain;"/>
+        <img src="../../img/back_shiny/ACLINSAPARCE.png" width="100" style="object-fit: contain;"/>
       </div>
       <div style="flex: 1; text-align: center;">
-        <img src="../../img/front_shiny/ACLINSPARCE.png" width="100" style="object-fit: contain;"/>
+        <img src="../../img/front_shiny/ACLINSAPARCE.png" width="100" style="object-fit: contain;"/>
       </div>
     </div>
 

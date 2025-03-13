@@ -238,7 +238,7 @@
 === "Base"
     <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
       <div style="flex: 1; text-align: center;">
-        <img src="../../img/back/DRESCATTY.png" width="100" style="object-fit: contain;"/>
+        <img src="../../img/back/DRESSCATTY.png" width="100" style="object-fit: contain;"/>
       </div>
       <div style="flex: 1; text-align: center;">
         <img src="../../img/front/DRESCATTY.png" width="100" style="object-fit: contain;"/>
@@ -248,10 +248,10 @@
 === "Shiny"
     <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
       <div style="flex: 1; text-align: center;">
-        <img src="../../img/back_shiny/DRESCATTY.png" width="100" style="object-fit: contain;"/>
+        <img src="../../img/back_shiny/DRESSCATTY.png" width="100" style="object-fit: contain;"/>
       </div>
       <div style="flex: 1; text-align: center;">
-        <img src="../../img/front_shiny/DRESCATTY.png" width="100" style="object-fit: contain;"/>
+        <img src="../../img/front_shiny/DRESSCATTY.png" width="100" style="object-fit: contain;"/>
       </div>
     </div>
 
