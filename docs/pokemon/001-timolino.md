@@ -15,7 +15,7 @@
       <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Class</p>
-          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f9f9f9;">
+          <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px;">
             <p style="margin: 0px; font-weight: normal; font-size:16px; align-self: center; color:rgb(6, 6, 6)">Cucciolo</p>
           </div>
         </div>
