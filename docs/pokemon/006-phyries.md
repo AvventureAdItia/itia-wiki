@@ -15,7 +15,7 @@
 
 === "Tassonomia"
     <p><div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/yulot.png" width="175" style="object-fit: contain;"/>
+      <img src="../../img/pokemon/phyries.png" width="175" style="object-fit: contain;"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Class</p>
@@ -45,7 +45,7 @@
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size:16px; align-self: center;">Cry</p>
           <div class="attribute-value" style="border: 1px solid #ccc; padding: 5px; border-radius: 5px; background-color: #f3f3f3;">
             <audio controls>
-              <source src="../../audio/yulot.mp3" type="audio/mpeg">
+              <source src="../../audio/phyries.mp3" type="audio/mpeg">
             </audio>
           </div>
         </div>
@@ -54,7 +54,7 @@
 
 === "Aspetto"
     <p><div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/yulot.png" width="175" style="object-fit: contain;"/>
+      <img src="../../img/pokemon/phyries.png" width="175" style="object-fit: contain;"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr 1fr 1fr; row-gap: 0.5rem;">
         <div class="pokemon-attribute">
           <p style="color: #737373; margin: 0px; font-weight: normal; font-size: 16px; align-self: center;">Height</p>
@@ -85,7 +85,7 @@
 
 === "Allevamento"
     <p><div class="pokemon-attribute-container">
-      <img src="../../img/pokemon/yulot.png" width="175" style="object-fit: contain;"/>
+      <img src="../../img/pokemon/phyries.png" width="175" style="object-fit: contain;"/>
       <div style="display: grid; grid-template-rows: 1fr 1fr; row-gap: 0.5rem;">
         <div style="display: flex; gap: 1rem;">
           <div class="pokemon-attribute" style="flex: 1;">
