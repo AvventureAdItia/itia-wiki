@@ -1,3 +1,8 @@
+<div style="text-align: center">
+    <img alt="combattimento" src="../img/moves/fight.png">
+</div>
+
+
 # Mosse indedite della regione di Itia
 Nella regione di Itia, le battaglie si arricchiscono con **mosse inedite** pensate per ampliare la **strategia** e valorizzare la propria squadra. <br />
 Qui troverai una lista delle nuove mosse attualmente implementate nel gioco, ognuna con **effetti unici** che possono ribaltare l'esito di uno scontro. <br />
