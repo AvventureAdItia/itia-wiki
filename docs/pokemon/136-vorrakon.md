@@ -154,7 +154,7 @@
 === "Ispirazioni"
 
     ### Ispirazioni
-    Le ispirazioni alla base di Harmonympha sono:
+    Le ispirazioni alla base di Vorrakon sono:
     
     - **Lamprede**;
     - **Murene**;
@@ -175,7 +175,7 @@
 === "Vincitore del contest"
     ### Vincitori
 
-    I Vincitori di Itia che hanno dato origine a Pairgon e la sua catena evolutiva sono: **Metalord**, **TepigGabrix**, **Fly**, **Rikky**, **Mucco**, **Pablitoschio**, **Federex**, **Federico**, **Davide**.
+    I Vincitori di Itia che hanno dato origine a Vorrakon e la sua catena evolutiva sono: **Metalord**, **TepigGabrix**, **Fly**, **Rikky**, **Mucco**, **Pablitoschio**, **Federex**, **Federico**, **Davide**.
 
 
 

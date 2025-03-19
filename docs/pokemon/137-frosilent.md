@@ -153,7 +153,7 @@
 === "Ispirazioni"
 
     ### Ispirazioni
-    Le ispirazioni alla base di Harmonympha sono:
+    Le ispirazioni alla base di Frosilent sono:
     
     - **Fontana del Nettuno a Messina**;
     - **Plutone e Proserpina**;
@@ -177,7 +177,7 @@
 === "Vincitore del contest"
     ### Vincitori
 
-    I Vincitori di Itia che hanno dato origine a Pairgon e la sua catena evolutiva sono: **Dittomon**, **Prismo**, **Nuggetmaster**, **Valerio**, **Federico**, **Michele**, **Aki Shirota**, **IlDaddo**.
+    I Vincitori di Itia che hanno dato origine a Frosilent e la sua catena evolutiva sono: **Dittomon**, **Prismo**, **Nuggetmaster**, **Valerio**, **Federico**, **Michele**, **Aki Shirota**, **IlDaddo**.
 
 ## Base Stats
 <table style="width: 100%">

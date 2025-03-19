@@ -169,7 +169,7 @@
 === "Vincitore del contest"
     ### Vincitori
 
-    I Vincitori di Itia che hanno dato origine a Pairgon e la sua catena evolutiva sono: **Torre**, **Basilico**, **Spectral Dragon**, **Anna Casedda**, **Bonkaton**.
+    I Vincitori di Itia che hanno dato origine a Harmonympha e la sua catena evolutiva sono: **Torre**, **Basilico**, **Spectral Dragon**, **Anna Casedda**, **Bonkaton**.
 
 
 
