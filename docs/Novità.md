@@ -49,5 +49,5 @@ Tieni presente che queste modifiche sono ancora in fase di sviluppo e potrebbero
 
 ---
 
-🔎 **Se hai trovato un bug o hai suggerimenti per migliorare il gioco**, visita la sezione [Contatti](#) e faccelo sapere! <br />
+🔎 **Se hai trovato un bug o hai suggerimenti per migliorare il gioco**, visita la sezione [Contatti](https://avventureaditia.github.io/itia-wiki/contatti/) e faccelo sapere! <br />
 Grazie per il tuo supporto e per aver scelto di esplorare la regione di **Itia**! ❤️ <br />
