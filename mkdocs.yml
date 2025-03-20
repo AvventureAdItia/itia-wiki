@@ -166,6 +166,7 @@ nav:
 - Nuove Mosse: nuove_mosse.md
 - Sala d'Onore: hall_of_fame.md
 - Contatti: contatti.md
+- Novità: Novità.md
 #- Routes: []
 plugins:
 - search:

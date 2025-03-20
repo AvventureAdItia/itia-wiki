@@ -47,36 +47,3 @@ Vieni e unisciti anche tu alla community di **Dadrake95** per intraprendere un v
 
     ??? question "Posso inviare un fakémon basato su Azzurrina o sul Tarantasio?"
         N O .
-
-
-## Legendary Quests
-
-=== "Generation 1 Legendaries"
-    ### Generation 1 Legendaries
-    ??? warning "Legendary Birds - Spoilers!"
-        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to raid dens. Win the battle and capture the Pokemon.
-            
-    ??? info "Mewtwo - Spoilers!"
-        ![Image title](https://i.ibb.co/rFK5h7L/mewtwo-battle-imageonline-co-merged.png){ align=right }
-        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an event where you battle this Pokemon.
-            
-    ??? news "Mew - Spoilers!"
-        ![Image title](https://i.ibb.co/HD3XrTF/mew-battle-imageonline-co-merged.png){ align=right }
-        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an event where you battle this Pokemon.
-            
-=== "Generation 2 Legendaries"
-    ### Generation 2 Legendaries
-    ??? new "Legendary Dogs - Spoilers!"
-        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to raid dens. Win the battle and capture the Pokemon.
-            
-    ??? question "Ho-oh - Spoilers!"
-        ![Image title](https://i.ibb.co/jHBbsjz/ho-oh-battle-imageonline-co-merged.png){ align=right }
-        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an event where you battle this Pokemon.
-            
-    ??? alert "Lugia - Spoilers!"
-        ![Image title](https://i.ibb.co/kSM9v9z/lugia-battle-imageonline-co-merged.png){ align=right }
-        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an event where you battle this Pokemon.
-            
-    ??? spoiler "Celebi - Spoilers!"
-        ![Image title](https://i.ibb.co/g4tdJqB/celebi-battle-imageonline-co-merged.png){ align=right }
-        In the Crown Tundra DLC, one of the passages in the Dynamax Adventure leads to an event where you battle this Pokemon.
