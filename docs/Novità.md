@@ -1,4 +1,4 @@
-# 📝 Novità del Sito
+# Novità del Sito
 
 Benvenuto nella sezione dedicata alle **novità del Sito** di **Pokémon Requiem**! <br />
 Qui puoi trovare l'elenco completo di tutti gli aggiornamenti rilasciati, con dettagli sulle **novità**, le **correzioni di bug** e le **modifiche** introdotte nel sito e nel gioco. <br />
@@ -10,11 +10,11 @@ Ogni aggiornamento è contrassegnato dalla **versione** e dalla **data di rilasc
 - Puoi **tenere traccia delle modifiche** e degli aggiustamenti al bilanciamento del gioco; <br />
 - Puoi **verificare se un problema segnalato è stato risolto**. <br />
 
-Tieni d'occhio questa pagina per rimanere sempre aggiornato sulle ultime novità di **Pokémon Requiem**! 🚀 <br />
+Tieni d'occhio questa pagina per rimanere sempre aggiornato sulle ultime novità di **Pokémon Requiem**! <br />
 
 ---
 
-## 📅 **Ultimi Aggiornamenti**
+## **Ultimi Aggiornamenti**
 === "Elenco delle versioni Beta"
     ### Tutte le versioni Beta
     | Versione | Data | Descrizione |
@@ -37,17 +37,17 @@ Tieni d'occhio questa pagina per rimanere sempre aggiornato sulle ultime novità
 
 ---
 
-## 🚀 **Prossimi Aggiornamenti**
+## **Prossimi Aggiornamenti**
 Ecco un’anteprima di quello che stiamo preparando per i prossimi aggiornamenti di **Pokémon Requiem**! <br />
 Tieni presente che queste modifiche sono ancora in fase di sviluppo e potrebbero essere soggette a cambiamenti prima del rilascio ufficiale. <br />
 
 | Versione prevista | Descrizione | Stato |
 |:------------------|:------------|:-------|
-| **1.1.0** | Aggiunta una nuova area esplorabile e una linea evolutiva di tipo Spettro. | 🔄 In sviluppo |
-| **1.1.1** | Bilanciamento delle mosse e miglioramento delle meccaniche di stato "Paura" e "Berserk". | 🛠️ In fase di test |
-| **1.2.0** | Introduzione di una nuova meccanica di battaglia e di una forma alternativa per Heliolisk. | ✨ In progettazione |
+| **0.2.0 beta** | Aggiunta di una nuova sezione dedicata alle meccaniche | 🔄 In sviluppo |
+| **Da definire** | Bilanciamento delle mosse e miglioramento delle meccaniche di stato **"Paura" e "Berserk"**. | 🛠️ In fase di test |
+| **Da definire** | Introduzione di una nuova meccanica di battaglia. | ✨ In progettazione |
 
 ---
 
-🔎 **Se hai trovato un bug o hai suggerimenti per migliorare il gioco**, visita la sezione [Contatti](https://avventureaditia.github.io/itia-wiki/contatti/) e faccelo sapere! <br />
-Grazie per il tuo supporto e per aver scelto di esplorare la regione di **Itia**! ❤️ <br />
+**Se hai trovato un bug o hai suggerimenti per migliorare il gioco**, visita la sezione [Contatti](https://avventureaditia.github.io/itia-wiki/contatti/) e faccelo sapere! <br />
+Grazie per il tuo supporto e per aver scelto di esplorare la regione di **Itia**! <br />
