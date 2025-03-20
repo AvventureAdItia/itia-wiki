@@ -8,7 +8,7 @@ theme:
   features:
   - content.tabls.links
   - content.tooltips
-  favicon: img/items/poke-ball.png
+  favicon: img/items/premier-ball.png
   palette:
   - media: '(prefers-color-scheme: light)'
     primary: black
