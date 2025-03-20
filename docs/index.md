@@ -47,3 +47,8 @@ Vieni e unisciti anche tu alla community di **Dadrake95** per intraprendere un v
 
     ??? question "Posso inviare un fakémon basato su Azzurrina o sul Tarantasio?"
         N O .
+
+
+/// new | New 10.5
+Specifying custom blocks with specific classes and default titles is new in 10.5.
+///
