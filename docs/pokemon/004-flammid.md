@@ -164,7 +164,7 @@
 
     ### Ispirazioni
     Le ispirazioni alla base di Flammid e della sua catena evolutiva sono:
-    
+
     - **Capra**: Animale molto diffuso nell'allevamento italiano, in particolare sulle alpi.
     - **Krampus**: Un demone strettamente legato a Satana e alla festa di San Nicola presente nei racconti dell'Alto Adige. Viene descritto come aggressivo e malevolo.
     - **Yule**: Festa collegata al solstizio d'Inverno e che ha alcune somiglianze con il nostro Natale.

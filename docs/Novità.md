@@ -6,9 +6,9 @@ Qui puoi trovare l'elenco completo di tutti gli aggiornamenti rilasciati, con de
 Ogni aggiornamento è contrassegnato dalla **versione** e dalla **data di rilascio**, così potrai sempre sapere quali novità sono state aggiunte e quali problemi sono stati risolti. <br />
 
 💡 **Perché questa pagina è utile?**  
-- Puoi **scoprire le nuove funzionalità** appena introdotte;
-- Puoi **tenere traccia delle modifiche** e degli aggiustamenti al bilanciamento del gioco; 
-- Puoi **verificare se un problema segnalato è stato risolto**.
+- Puoi **scoprire le nuove funzionalità** appena introdotte; <br />
+- Puoi **tenere traccia delle modifiche** e degli aggiustamenti al bilanciamento del gioco; <br />
+- Puoi **verificare se un problema segnalato è stato risolto**. <br />
 
 Tieni d'occhio questa pagina per rimanere sempre aggiornato sulle ultime novità di **Pokémon Requiem**! 🚀 <br />
 
@@ -19,15 +19,7 @@ Tieni d'occhio questa pagina per rimanere sempre aggiornato sulle ultime novità
     ### Tutte le versioni Beta
     | Versione | Data | Descrizione |
     |:---------|:-----|:-----------|
-    | **0.1.0 beta** | 20 Marzo 2025 | Definita la struttura base del sito. Ci si prepara al lancio ufficiale. <br />
-        Definita la pagina "Home" del sito; <br />
-        Definite la struttura delle pagine dei Pokémon; <br />
-        Definita la pagina "Nuove Abilità" del sito; <br />
-        Definita la pagina "Nuove Mosse" del sito; <br />
-        Definita la pagina "Sala d'Onore" del sito; <br />
-        Definita la pagina "Contatti" del sito; <br />
-        Definita la pagina "Novità" del sito; <br />
-        Risolti alcunu bug con le pagine di Phyres, Ghostmare, Harmoyinpha, Vorrakon e Frosilent. |
+    | **0.1.0 beta** | 20 Marzo 2025 | Definita la struttura base del sito. Ci si prepara al lancio ufficiale. <br /> Definita la pagina "Home" del sito; <br /> Definite la struttura delle pagine dei Pokémon; <br /> Definita la pagina "Nuove Abilità" del sito; <br /> Definita la pagina "Nuove Mosse" del sito; <br /> Definita la pagina "Sala d'Onore" del sito; <br /> Definita la pagina "Contatti" del sito; <br /> Definita la pagina "Novità" del sito; <br /> Risolti alcunu bug con le pagine di Phyres, Ghostmare, Harmoyinpha, Vorrakon e Frosilent. |
 
 === "Elenco delle versioni Alpha"
     ### Tutte le versioni Alpha
@@ -59,51 +51,3 @@ Tieni presente che queste modifiche sono ancora in fase di sviluppo e potrebbero
 
 🔎 **Se hai trovato un bug o hai suggerimenti per migliorare il gioco**, visita la sezione [Contatti](#) e faccelo sapere! <br />
 Grazie per il tuo supporto e per aver scelto di esplorare la regione di **Itia**! ❤️ <br />
-
-
-<br />
-<br />
-
-## Aggiornamenti Wiki
-
-=== "Elenco delle versioni Beta"
-    ### Tutte le versioni Beta
-    ??? news "Versione 0.1.0 beta - 20/03/2025"
-        Definita la struttura base del sito. Ci si prepara al lancio ufficiale. <br />
-        Definita la pagina "Home" del sito; <br />
-        Definite la struttura delle pagine dei Pokémon; <br />
-        Definita la pagina "Nuove Abilità" del sito; <br />
-        Definita la pagina "Nuove Mosse" del sito; <br />
-        Definita la pagina "Sala d'Onore" del sito; <br />
-        Definita la pagina "Contatti" del sito; <br />
-        Definita la pagina "Novità" del sito; <br />
-        Risolti alcunu bug con le pagine di Phyres, Ghostmare, Harmoyinpha, Vorrakon e Frosilent.
-            
-=== "Elenco delle versioni Alpha"
-    ### Tutte le versioni Alpha
-    ??? news "Versione 0.6.0 alpha - 14/03/2025"
-        Aggiunta la modalità "Notte".     
-
-    ??? news "Versione 0.5.0 alpha - 10/03/2025"
-        Aggiunta la pagina "Sala d'Onore".     
-
-    ??? news "Versione 0.4.0 alpha - 02/03/2025"
-        Aggiunta la pagina "Home" e la pagina "Contatti".   
-
-    ??? news "Versione 0.3.1 alpha - 24/02/2025"
-        Trovata la struttura definitiva delle pagine relative ai Pokémon.        
-
-    ??? news "Versione 0.3.0 alpha - 16/01/2025"
-        Rivisitazione completa delle pagine relative ai Pokémon.    
-
-    ??? news "Versione 0.2.2 alpha - 03/01/2025"
-        Altri test sulle pagine dei Pokèmon.      
-
-    ??? news "Versione 0.2.1 alpha - 14/11/2024"
-        Altri test sulle pagine dei Pokèmon.    
-
-    ??? news "Versione 0.2.0 alpha - 04/11/2024"
-        Creazione della pagina di Timolino e della sua linea evolutiva.
-
-    ??? news "Versione 0.1.0 alpha - 16/10/2024"
-        Creazione effettiva della wiki.
