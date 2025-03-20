@@ -1,7 +1,10 @@
 <div style="text-align: center">
-    <img alt="combattimento" src="../img/moves/fight.png">
+    <img alt="Prism0_" src="../img/moves/fight.png">
+    <p style="font-size: 12px; text-align: right; margin-top: 5px;"><em>Illustrazione di Prism0_</em></p>
 </div>
 
+<br />
+<br />
 
 # Mosse indedite della regione di Itia
 Nella regione di Itia, le battaglie si arricchiscono con **mosse inedite** pensate per ampliare la **strategia** e valorizzare la propria squadra. <br />

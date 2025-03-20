@@ -1,3 +1,11 @@
+<div style="text-align: center">
+    <img alt="Ciatongo" src="../img/ablity/sirene.png">
+    <p style="font-size: 12px; text-align: right; margin-top: 5px;"><em>Illustrazione di Ciatongo</em></p>
+</div>
+
+<br />
+<br />
+
 # Abilità indedite della regione di Itia
 Le abilità inedite di Pokémon Requiem introducono **nuove meccaniche** e **strategie** per arricchire le lotte e dare maggiore personalità ai Pokémon della regione di Itia. <br />
 Dalle abilità difensive a quelle offensive, ogni nuova capacità è stata pensata per offrire **opzioni uniche in battaglia**. <br />
