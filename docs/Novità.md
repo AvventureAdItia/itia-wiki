@@ -15,11 +15,33 @@ Tieni d'occhio questa pagina per rimanere sempre aggiornato sulle ultime novità
 ---
 
 ## 📅 **Ultimi Aggiornamenti**
-| Versione | Data | Descrizione |
-|:---------|:-----|:-----------|
-| **1.0.2** | 25 febbraio 2025 | Aggiunte nuove mosse e abilità, bilanciamento delle statistiche di alcuni Pokémon. |
-| **1.0.1** | 10 febbraio 2025 | Risolti bug minori nelle battaglie, aggiunto il nuovo effetto meteo "Gloomy Breeze". |
-| **1.0.0** | 1 febbraio 2025 | Rilascio ufficiale di Pokémon Requiem! |
+=== "Elenco delle versioni Beta"
+    ### Tutte le versioni Beta
+    | Versione | Data | Descrizione |
+    |:---------|:-----|:-----------|
+    | **0.1.0 beta** | 20 Marzo 2025 | Definita la struttura base del sito. Ci si prepara al lancio ufficiale. <br />
+        Definita la pagina "Home" del sito; <br />
+        Definite la struttura delle pagine dei Pokémon; <br />
+        Definita la pagina "Nuove Abilità" del sito; <br />
+        Definita la pagina "Nuove Mosse" del sito; <br />
+        Definita la pagina "Sala d'Onore" del sito; <br />
+        Definita la pagina "Contatti" del sito; <br />
+        Definita la pagina "Novità" del sito; <br />
+        Risolti alcunu bug con le pagine di Phyres, Ghostmare, Harmoyinpha, Vorrakon e Frosilent. |
+
+=== "Elenco delle versioni Alpha"
+    ### Tutte le versioni Alpha
+    | Versione | Data | Descrizione |
+    |:---------|:-----|:-----------|
+    | **0.6.0 alpha** | 14 Marzo 2025 | Aggiunta la modalità "Notte". |
+    | **0.5.0 alpha** | 10 Marzo 2025 | Aggiunta la pagina "Sala d'Onore". |
+    | **0.4.0 alpha** | 02 Marzo 2025 | Aggiunta la pagina "Home" e la pagina "Contatti". |
+    | **0.3.1 alpha** | 24 Febbraio 2025 | Trovata la struttura definitiva delle pagine relative ai Pokémon. |
+    | **0.3.0 alpha** | 16 Gennaio 2025 | Rivisitazione completa delle pagine relative ai Pokémon. |
+    | **0.2.2 alpha** | 03 Gennaio 2025 | Altri test sulle pagine dei Pokèmon. |
+    | **0.2.1 alpha** | 14 Novembre 2024 | Altri test sulle pagine dei Pokèmon. |
+    | **0.2.0 alpha** | 01 Novembre 2024 | Creazione della pagina di Timolino e della sua linea evolutiva. |
+    | **0.1.0 alpha** | 16 Ottobre 2024 | Creazione effettiva della wiki. |
 
 ---
 
